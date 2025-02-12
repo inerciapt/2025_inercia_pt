@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inércia Demoparty 2025</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Inércia Demoparty 2025</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 21 Jan 2025 08:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 21 Jan 2025 08:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;inércia-2024&#34;&gt;Inércia 2024&lt;/h1&gt;&#xA;&lt;h1 id=&#34;digital-art--music-festival-in-portugal&#34;&gt;Digital Art &amp;amp; Music Festival in Portugal&lt;/h1&gt;&#xA;&lt;h1 id=&#34;about-inércia&#34;&gt;About Inércia&lt;/h1&gt;&#xA;&lt;p&gt;Inércia is organized by Associação Inércia, a non profit organization dedicated to promoting the demoscene. 2024 will be the 16th edition of Inércia we organize and the fifth taking place in Almada.&lt;/p&gt;&#xA;&lt;p&gt;Inércia 2024 will take place in December 2024, from 6th to the 8th at Salão Festas Incrível Almadense, the centenary event hall in the heart of Almada, just across the river from Lisbon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>contacto</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 21 Sep 2016 12:52:48 +0100</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;isto antes tinha aqui uma página com um form para contactos mas já ninguém tem paciência para aturar SPAM&lt;/p&gt;&#xA;&lt;p&gt;a melhor forma de entrar em contacto comigo é -&amp;gt; &lt;a href=&#34;https://luiscorreia.pt&#34;&gt;pegada digital&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
