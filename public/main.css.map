@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/lfcorreia/devel/inercia/2025_inercia_pt",
+	"sourceRoot": "/Users/brunoperry/Documents/workspace_web/inercia/2025_inercia_pt",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

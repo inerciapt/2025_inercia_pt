@@ -4,11 +4,11 @@ title = "about"
 type = "page"
 +++
 
-
 # Inércia 2024
+
 # Digital Art & Music Festival in Portugal
 
-# About Inércia
+# About Inérciassssss
 
 Inércia is organized by Associação Inércia, a non profit organization dedicated to promoting the demoscene. 2024 will be the 16th edition of Inércia we organize and the fifth taking place in Almada.
 
@@ -27,7 +27,6 @@ We will have several events scheduled throughout the day. Competitions and showc
 Sunday mornings start slowly with some light socializing activities and culminate with the prizegiving / closing ceremony. The doors will close with a community lunch amongst the organizers and remaining visitors, your final opportunity to network.
 
 Video report of Inércia 2023:
-
 
 # About the Demoscene
 
@@ -67,6 +66,3 @@ Registration form is closed, but you can still attend the event in person! See y
 # Rules of Conduct
 
 The organization reserves the right to exclude anyone from attending the event that might be causing a disturbance, we do so under the private event house rules law. We will enforce this only when dealing with complaints of discrimination or unwanted indoctrination / rhetoric speech regarding any discriminatory subjects (racism, bygotry, mysogny, religious or political hate speech, conspiracy theories, etc). Any physical or verbal threat / harrassment of our volunteer organizing staff or visitors will not be tolerated. Anyone found breaking Portuguese law will be turned over to local authorities.
-
-
-
