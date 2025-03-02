@@ -1,0 +1,15 @@
+baseURL: https://2025.inercia.pt/
+languageCode: en-us
+title: Inércia
+defaultContentLanguage: en
+
+languages:
+  en:
+    weight: 1
+    languageName: English
+    contentDir: content/en
+
+  pt:
+    weight: 2
+    languageName: Português
+    contentDir: content/pt

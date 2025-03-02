@@ -3,10 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-01-21T08:00:00+01:00</lastmod>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/location/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/location/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/location/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/participate/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/participate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/participate/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/merch/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/merch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/merch/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/timetable/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/timetable/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/timetable/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/contact/"
+                />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-21T08:00:00+01:00</lastmod>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -17,9 +92,6 @@
                 hreflang="en"
                 href="http://localhost:1313/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2016-09-21T12:52:48+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
