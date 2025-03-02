@@ -8,7 +8,7 @@ type = "page"
 
 # Digital Art & Music Festival in Portugal
 
-# About Inérciassssss
+# About Inércia 2025
 
 Inércia is organized by Associação Inércia, a non profit organization dedicated to promoting the demoscene. 2024 will be the 16th edition of Inércia we organize and the fifth taking place in Almada.
 
