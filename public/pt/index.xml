@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inércia Demoparty 2025</title>
+    <title>Início on Inercia</title>
     <link>http://localhost:1313/pt/</link>
-    <description>Recent content on Inércia Demoparty 2025</description>
+    <description>Recent content in Início on Inercia</description>
     <generator>Hugo</generator>
     <language>pt</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Nós</title>
+      <link>http://localhost:1313/pt/about/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/about/</guid>
+      <description>&lt;h2 id=&#34;sobre-a-inercia&#34;&gt;Sobre a Inercia&lt;/h2&gt;&#xA;&lt;p&gt;Esta é a página &amp;ldquo;sobre nós&amp;rdquo; da versão em português do site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Localização</title>
+      <link>http://localhost:1313/pt/location/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/location/</guid>
+      <description>&lt;h1 id=&#34;localização-para-inercia&#34;&gt;Localização para Inercia&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página de &amp;ldquo;localização&amp;rdquo; da versão em português do site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Participa</title>
+      <link>http://localhost:1313/pt/participate/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/participate/</guid>
+      <description>&lt;h1 id=&#34;participa-na-inercia&#34;&gt;Participa na Inercia&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página de &amp;ldquo;participa&amp;rdquo; da versão em português do site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Merch</title>
+      <link>http://localhost:1313/pt/merch/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/merch/</guid>
+      <description>&lt;h1 id=&#34;merch-para-inercia&#34;&gt;Merch para Inercia&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página de &amp;ldquo;merch&amp;rdquo; da versão em português do site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horário</title>
+      <link>http://localhost:1313/pt/timetable/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/timetable/</guid>
+      <description>&lt;h2 id=&#34;horário-inercia&#34;&gt;Horário Inercia&lt;/h2&gt;&#xA;&lt;p&gt;Esta é a página de &amp;ldquo;horário&amp;rdquo; da versão em português do site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/pt/contact/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/contact/</guid>
+      <description>&lt;h1 id=&#34;contactos-para-inercia&#34;&gt;Contactos para Inercia&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página de &amp;ldquo;contactos&amp;rdquo; da versão em português do site.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

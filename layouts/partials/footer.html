@@ -1,0 +1,13 @@
+<footer>
+
+    <div id="networks-container">
+        {{ range $contact := .Site.Data.contacts }}
+        {{ $iconPath := printf "/assets/svg/%s" $contact.icon }}
+        {{ $iconContent := readFile $iconPath }}
+        <a href="{{ $contact.url }}">
+            {{ $iconContent | safeHTML }}
+        </a>
+        <br>
+        {{ end }}
+    </div>
+</footer>
