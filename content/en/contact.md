@@ -1,8 +1,7 @@
 ---
 title: "Contact"
-date: 2023-10-01
 draft: false
-weight: 6
+weight: 7
 ---
 
 # Contacts to Inercia

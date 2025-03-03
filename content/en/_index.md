@@ -1,7 +1,10 @@
 ---
 title: "Home"
-date: 2023-10-01
 draft: false
+components:
+  - hero:
+      title: Inércia 2024
+      message: Digital Art & Music Festival in Portugal
 ---
 
 # Welcome to Inercia

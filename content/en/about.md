@@ -1,8 +1,7 @@
 ---
 title: "About Us"
-date: 2023-10-01
 draft: false
-weight: 1
+weight: 2
 ---
 
 ## About Inercia

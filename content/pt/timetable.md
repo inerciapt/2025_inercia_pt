@@ -1,8 +1,7 @@
 ---
 title: "Horário"
-date: 2023-10-01
 draft: false
-weight: 5
+weight: 6
 ---
 
 ## Horário Inercia
