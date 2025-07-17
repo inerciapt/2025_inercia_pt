@@ -1,9 +1,0 @@
-body {
-    background-image: url("https://2025.inercia.pt/assets/inercia2025_promo.png");
-}
-
-@media only screen and (max-width: 900px) {
-  body {
-    background-image: url("https://2025.inercia.pt/assets/inercia2025_promo_mobile.webp");
-  }
-}
