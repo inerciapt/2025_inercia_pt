@@ -19,7 +19,7 @@ Na sexta-feira, o objetivo é chegar ao local, encontrar um lugar numa das mesas
 
 A manhã de sábado é tipicamente utilizada para acabar de carregar as produções no sistema, dormir até tarde ou explorar o encantador centro de Almada. Ao longo do dia, teremos várias palestras e diferentes eventos. As competições e mostras terão lugar ao final da tarde, onde os participantes verão as suas produções apresentadas no ecrã gigante e no sistema de som. Após o jantar, teremos o ponto alto do evento: as competições de demos. De seguida, a festa continua no Bar A Cerca com mais DJ sets.
 
-O domingo começa lentamente com alguma socialização durante uma prova de panquecas muito especial e culmina com a cerimónia de entrega de prémios e encerramento. As portas fecharão com um almoço convívio entre os organizadores e os restantes visitantes, a última oportunidade para estabelecer alguns contactos e socializar.
+O utlimo dia é domingo... lentamente com alguma socialização durante uma prova de panquecas muito especial e culmina com a cerimónia de entrega de prémios e encerramento. As portas fecharão com um almoço convívio entre os organizadores e os restantes visitantes, a última oportunidade para estabelecer alguns contactos e socializar.
 
 FIXME
 
