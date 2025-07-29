@@ -57,7 +57,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://2025.inercia.pt/"
+            --baseURL "https://inercia.loide.net/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -67,7 +67,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://2025.inercia.pt/
+      url: https://inercia.loide.net/
     runs-on: ubuntu-latest
     needs: build
     steps:
