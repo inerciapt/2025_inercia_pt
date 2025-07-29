@@ -1,29 +1,43 @@
 <footer class="b-siteFooter">
   <div class="b-siteFooter__container">
   <div id="sponsors">
-    {{ $sponsorsData := .Site.Data.sponsors }}
-    {{ $tiers := slice
-        (dict "name" "gold"   "label" "Gold Sponsors"   "class" "sponsor-logo-gold")
-        (dict "name" "silver" "label" "Silver Sponsors" "class" "sponsor-logo-silver")
-        (dict "name" "bronze" "label" "Bronze Sponsors" "class" "sponsor-logo-bronze")
-    }}
-    {{ range $tier := $tiers }}
-      {{ $list := where $sponsorsData "tier" $tier.name }}
-      {{ if gt (len $list) 0 }}
-        <div class="sponsor-row sponsor-{{ $tier.name }}">
-          <ul class="sponsor-list">
-            {{ range $list }}
-              <li class="sponsor-item">
-                <a href="{{ .url }}" target="_blank" aria-label="{{ .name }}">
-                  <img src="/{{ .logo }}" alt="{{ .name }} logo" class="{{ $tier.class }}" loading="lazy" />
-                </a>
-              </li>
-            {{ end }}
-          </ul>
-        </div>
-      {{ end }}
-    {{ end }}
+	{{ $sponsorsData := .Site.Data.sponsors }}
+	{{ $tiers := slice
+		(dict "name" "gold"   "label" "Gold Sponsors"   "class" "sponsor-logo-gold")
+		(dict "name" "silver" "label" "Silver Sponsors" "class" "sponsor-logo-silver")
+		(dict "name" "bronze" "label" "Bronze Sponsors" "class" "sponsor-logo-bronze")
+	}}
+	{{ range $tier := $tiers }}
+	  {{ $list := where $sponsorsData "tier" $tier.name }}
+	  {{ if gt (len $list) 0 }}
+		<div class="sponsor-row sponsor-{{ $tier.name }}">
+		  <ul class="sponsor-list">
+			{{ range $list }}
+			  <li class="sponsor-item">
+				<a href="{{ .url }}" target="_blank" aria-label="{{ .name }}">
+				  <img src="/{{ .logo }}" alt="{{ .name }} logo" class="{{ $tier.class }}" loading="lazy" />
+				</a>
+			  </li>
+			{{ end }}
+		  </ul>
+		</div>
+	  {{ end }}
+	{{ end }}
   </div>
+  <div class="o-socialList">
+	<ul class="o-socialList__items">
+	  {{ with .Site.Data.social }}
+		{{ range . }}
+		  <li class="o-socialList__item">
+			<a class="o-socialList__link -{{ .icon }}" href="{{ .url }}" aria-label="{{ .name }}" target="_blank" rel="nofollow">
+			  <span class="a-icon">
+				{{ partial (print "icons/" .icon ".html") . }}
+			  </span>
+			</a>
+		  </li>
+		{{ end }}
+	  {{ end }}
+	</ul>
   </div>
 	{{ partial "visitors.html" . }}
   <style>

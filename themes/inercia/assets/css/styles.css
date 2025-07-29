@@ -1,3 +1,47 @@
+/* --- Social Icon Footer Alignment Enhancement --- */
+.o-socialList {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.o-socialList__items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.o-socialList__link {
+  width: 56px;
+  height: 56px;
+  background: var(--social-item-background, #ffffff1a);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.o-socialList__link .a-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+}
+
+.o-socialList__link .a-icon svg {
+  width: 100%;
+  height: 100%;
+  fill: #ccc;
+  display: block;
+}
+/* --- End Social Icon Footer Enhancement --- */
 :root {
 	--unit-xs: clamp(5px, calc(10/1440*100vw), 10px);
 	--unit-s: clamp(10px, calc(20/1440*100vw), 20px);
