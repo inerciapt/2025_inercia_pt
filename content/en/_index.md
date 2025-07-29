@@ -1,9 +1,6 @@
 ---
-title: "Home"
-date: 2023-10-01
-draft: false
+title: "Inercia Demoscene"
+description: "Inercia - Digital Arts Festival in Portugal"
 ---
 
-# Welcome to Inercia
-
-This is the homepage for the English version of the site.
+Welcome to Inercia, Portugal's digital arts and demoscene festival!

@@ -1,10 +1,13 @@
 ---
 title: "Contact"
-date: 2023-10-01
-draft: false
-weight: 6
+summary: "Get in touch with us"
 ---
 
-# Contacts to Inercia
+For more information about Inercia, contact us:
 
-This is the "contacts" page for the English version of the site.
+**Email:** info@inercia.pt  
+**Website:** [inercia.pt](https://inercia.pt)
+
+Follow us on social media for updates:
+- **Twitter:** [@inerciaparty](https://twitter.com/inerciaparty)
+- **Facebook:** [Inercia Party](https://www.facebook.com/inerciaparty)

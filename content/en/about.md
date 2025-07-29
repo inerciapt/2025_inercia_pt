@@ -1,10 +1,6 @@
 ---
-title: "About Us"
-date: 2023-10-01
-draft: false
-weight: 1
+title: "About"
+summary: "Digital Arts Festival in Portugal"
 ---
 
-## About Inercia
-
-This is the "about us" page for the English version of the site.
+Inercia is organized by Associação Inércia, a non-profit organization dedicated to promoting the demoscene. 2024 will be the 16th edition of Inercia and the fifth in Almada.

@@ -1,10 +1,6 @@
 ---
-title: "Participa"
-date: 2023-10-01
-draft: false
-weight: 3
+title: "Participar"
+summary: "Como participar no Inércia"
 ---
 
-# Participa na Inercia
-
-Esta é a página de "participa" da versão em português do site.
+Descobre como podes participar nas competições e atividades do Inércia!

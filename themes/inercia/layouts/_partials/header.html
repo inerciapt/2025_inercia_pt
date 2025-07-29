@@ -1,0 +1,50 @@
+<div class="b-siteNav">
+	<div class="b-siteNav__container">
+		<a href="{{ .Site.BaseURL }}" aria-label="{{ .Site.Title }} - home" class="b-siteNav__brand" itemscope itemtype="https://schema.org/Organization">
+			<meta itemprop="url" content="{{ .Site.BaseURL }}">
+			{{ with .Site.Params.logo }}
+			<img width="100" height="auto" alt="" src="{{ . }}" srcset="{{ $.Site.Params.logo_small }} 959w, {{ . }} 1920w" sizes="100vw">
+			{{ end }}
+		</a>
+
+		<nav class="b-siteNav__nav" aria-label="Primary">
+			<div class="b-siteNav__panel">
+				<input type="checkbox" aria-label="Toggle Menu"> 
+				<button aria-label="Toggle Navigation Menu" class="a-hamburger">
+					<span class="a-hamburger__stripe"></span> 
+					<span class="a-hamburger__stripe"></span>
+				</button>
+				<ul class="b-siteNav__items">
+					{{ $currentPage := . }}
+					{{ range .Site.Menus.main }}
+					<li class="b-siteNav__item">
+						<a id="header_{{ .URL | path.Base }}" class="b-siteNav__link{{ if .Params.highlight }} highlight{{ end }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | absURL }}">
+							<span class="b-siteNav__item-label">{{ .Name }}</span>
+						</a>
+					</li>
+					{{ end }}
+					
+				   {{/* Robust Hugo language switcher using merged translations */}}
+				   {{ $bookTranslatedOnly := default false .Site.Params.BookTranslatedOnly }}
+				   {{ $translations := dict }}
+				   {{ if (eq $bookTranslatedOnly false ) }}
+					 {{ range .Site.Home.Translations }}
+					   {{ $translations = merge $translations (dict .Language.Lang .) }}
+					 {{ end }}
+				   {{ end }}
+				   {{ range .Translations }}
+					 {{ $translations = merge $translations (dict .Language.Lang .) }}
+				   {{ end }}
+
+				   <div class="b-siteNav__lang-row">
+					 {{ range .Site.Languages }}{{ with index $translations .Lang }}
+					   <a href="{{ cond hugo.IsMultihost .Permalink .RelPermalink }}" class="b-siteNav__lang-flag" aria-label="{{ .Language.LanguageName }}">
+						 <img src="/images/_flag_{{ .Language.Lang }}.webp" alt="{{ .Language.LanguageName }}" width="40px" height="auto" />
+					   </a>
+					 {{ end }}{{ end }}
+				   </div>
+				</ul>
+			</div>
+		</nav>
+	</div>
+</div>

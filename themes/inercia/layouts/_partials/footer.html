@@ -1,0 +1,64 @@
+<footer class="b-siteFooter">
+  <div class="b-siteFooter__container">
+  <div id="sponsors">
+    {{ $sponsorsData := .Site.Data.sponsors }}
+    {{ $tiers := slice
+        (dict "name" "gold"   "label" "Gold Sponsors"   "class" "sponsor-logo-gold")
+        (dict "name" "silver" "label" "Silver Sponsors" "class" "sponsor-logo-silver")
+        (dict "name" "bronze" "label" "Bronze Sponsors" "class" "sponsor-logo-bronze")
+    }}
+    {{ range $tier := $tiers }}
+      {{ $list := where $sponsorsData "tier" $tier.name }}
+      {{ if gt (len $list) 0 }}
+        <div class="sponsor-row sponsor-{{ $tier.name }}">
+          <ul class="sponsor-list">
+            {{ range $list }}
+              <li class="sponsor-item">
+                <a href="{{ .url }}" target="_blank" aria-label="{{ .name }}">
+                  <img src="/{{ .logo }}" alt="{{ .name }} logo" class="{{ $tier.class }}" loading="lazy" />
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+  </div>
+	{{ partial "visitors.html" . }}
+  <style>
+	.sponsor-list {
+	  display: flex;
+	  flex-wrap: wrap;
+	  gap: 2em;
+	  justify-content: center;
+	  align-items: center;
+	  margin: 1em 0;
+	  padding: 0;
+	}
+	.sponsor-item {
+	  list-style: none;
+	}
+	.sponsor-logo-gold {
+	  height: 70px;
+	  max-width: 180px;
+	  object-fit: contain;
+	  display: block;
+	  margin: 0 auto;
+	}
+	.sponsor-logo-silver {
+	  height: 55px;
+	  max-width: 160px;
+	  object-fit: contain;
+	  display: block;
+	  margin: 0 auto;
+	}
+	.sponsor-logo-bronze {
+	  height: 40px;
+	  max-width: 120px;
+	  object-fit: contain;
+	  display: block;
+	  margin: 0 auto;
+	}
+  </style>
+</footer>

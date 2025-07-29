@@ -1,10 +1,6 @@
 ---
 title: "Participate"
-date: 2023-10-01
-draft: false
-weight: 3
+summary: "How to participate in Inercia"
 ---
 
-# Participate in Inercia
-
-This is the "participate" page for the English version of the site.
+Find out how you can participate in Inercia's competitions and activities!

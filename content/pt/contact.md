@@ -1,10 +1,13 @@
 ---
 title: "Contacto"
-date: 2023-10-01
-draft: false
-weight: 6
+summary: "Fala connosco"
 ---
 
-# Contactos para Inercia
+Para mais informações sobre o Inércia, contacta-nos:
 
-Esta é a página de "contactos" da versão em português do site.
+**Email:** info@inercia.pt  
+**Website:** [inercia.pt](https://inercia.pt)
+
+Segue-nos nas redes sociais para novidades:
+- **Twitter:** [@inerciaparty](https://twitter.com/inerciaparty)
+- **Facebook:** [Inércia Party](https://www.facebook.com/inerciaparty)

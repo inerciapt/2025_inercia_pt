@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+   
+   <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+   
+   <link rel="canonical" href="{{ .Permalink }}">
+   
+   <!-- Open Graph -->
+   <meta property="og:site_name" content="{{ .Site.Title }}">
+   <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+   <meta property="og:type" content="website">
+   <meta property="og:locale" content="{{ .Site.LanguageCode | default "en_GB" }}">
+   <meta property="og:url" content="{{ .Permalink }}">
+   {{ with .Site.Params.social_image }}
+   <meta property="og:image" content="{{ . }}">
+   <meta property="og:image:alt" content="Page image for {{ $.Site.Title }}">
+   <meta property="og:image:width" content="1200">
+   <meta property="og:image:height" content="630">
+   {{ end }}
+   {{ with .Description }}
+   <meta property="og:description" content="{{ . }}">
+   {{ end }}
+
+   <!-- Twitter -->
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+   {{ with .Description }}
+   <meta name="twitter:description" content="{{ . }}">
+   {{ end }}
+   {{ with .Site.Params.social_image }}
+   <meta name="twitter:image" content="{{ . }}">
+   <meta name="twitter:image:alt" content="Page image for {{ $.Site.Title }}">
+   {{ end }}
+   <meta name="twitter:url" content="{{ .Permalink }}">
+   {{ with .Site.Params.twitter }}
+   <meta name="twitter:site" content="@{{ . }}">
+   <meta name="twitter:creator" content="@{{ . }}">
+   {{ end }}
+
+   {{ with .Site.Params.facebook }}
+   <meta property="article:publisher" content="{{ . }}">
+   {{ end }}
+
+   {{ with .Description }}
+   <meta name="description" content="{{ . }}">
+   {{ end }}
+
+   <!-- Fonts -->
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+   
+   <!-- Stylesheets -->
+   {{ $css := resources.Get "css/styles.css" }}
+   {{ if $css }}
+   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+   {{ end }}
+   
+   <!-- Favicons -->
+   {{ with .Site.Params.favicon }}
+   <link rel="apple-touch-icon" sizes="180x180" href="{{ . }}">
+   <link rel="icon" type="image/png" sizes="32x32" href="{{ . }}">
+   <link rel="icon" type="image/png" sizes="16x16" href="{{ . }}">
+   {{ end }}
+   
+   <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
+   
+   {{ block "head" . }}{{ end }}
+</head>
+<body>
+   {{ partial "header.html" . }}
+   
+   {{ block "hero" . }}{{ end }}
+   
+   <main tabindex="-1" id="main-content">
+      {{ block "main" . }}{{ end }}
+   </main>
+   
+   {{ partial "footer.html" . }}
+   
+   <!-- JavaScript -->
+   {{ $js := resources.Get "js/main.js" }}
+   {{ if $js }}
+   <script src="{{ $js.RelPermalink }}"></script>
+   {{ end }}
+   
+   {{ block "scripts" . }}{{ end }}
+</body>
+</html>

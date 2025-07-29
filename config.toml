@@ -1,0 +1,81 @@
+baseURL = 'https://2025.inercia.pt/'
+languageCode = 'pt-PT'
+title = 'Inercia Demoscene'
+theme = 'inercia'
+
+defaultContentLanguage = 'pt'
+defaultContentLanguageInSubdir = true
+
+[params]
+  description = "Inércia - Digital Arts Festival in Portugal"
+  social_image = "https://inercia.pt/images/social_thumbnail.jpg"
+  twitter = "inerciaparty"
+  facebook = "https://www.facebook.com/inerciaparty"
+  favicon = "/images/ID_64px.png"
+  logo = "/images/in.svg"
+  logo_small = "/images/in.svg"
+
+[languages]
+  [languages.pt]
+    languageName = 'Português'
+    weight = 1
+    title = 'Inércia Demoscene'
+    languageCode = 'pt-PT'
+    contentDir = 'content/pt'
+    params.description = "Inércia - Festival de Artes Digitais em Portugal"
+#    [[languages.pt.menu.main]]
+#      name = "Post Party"
+#      url = "/pt/postparty/"
+#      weight = 10
+    [[languages.pt.menu.main]]
+      name = "Sobre"
+      url = "/pt/about/"
+      weight = 20
+    [[languages.pt.menu.main]]
+      name = "Localização"
+      url = "/pt/location/"
+      weight = 30
+    [[languages.pt.menu.main]]
+      name = "Participar"
+      url = "/pt/participate/"
+      weight = 40
+    [[languages.pt.menu.main]]
+      name = "Programa"
+      url = "/pt/schedule/"
+      weight = 50
+    [[languages.pt.menu.main]]
+      name = "Contacto"
+      url = "/pt/contact/"
+      weight = 60
+  [languages.en]
+    languageName = 'English'
+    weight = 2
+    title = 'Inercia Demoscene'
+    languageCode = 'en-GB'
+    contentDir = 'content/en'
+    params.description = "Inercia - Digital Arts Festival in Portugal"
+#    [[languages.en.menu.main]]
+#      name = "Post Party"
+#      url = "/en/postparty/"
+#      weight = 10
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/en/about/"
+      weight = 20
+    [[languages.en.menu.main]]
+      name = "Location"
+      url = "/en/location/"
+      weight = 30
+    [[languages.en.menu.main]]
+      name = "Participate"
+      url = "/en/participate/"
+      weight = 40
+    [[languages.en.menu.main]]
+      name = "Schedule"
+      url = "/en/schedule/"
+      weight = 50
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/en/contact/"
+      weight = 60
+
