@@ -5,9 +5,10 @@ summary: "Get in touch with us"
 
 ## General contact
 
-For any questions and enquiries regarding Inércia 2024 you can reach us through email: info inercia.pt.
+For any questions and enquiries regarding Inércia 2025 you can reach us {{< mailto email="info@inercia.pt" subject="Inércia 2025" >}} through email {{</ mailto >}}.
 
-We are also active on the portuguese scene discord.
+
+We are also active on the [portuguese scene discord](https://discord.gg/a44cmgbQFh).
 
 ## Previous Editions
 
