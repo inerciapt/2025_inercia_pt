@@ -2826,3 +2826,25 @@ h3:hover .permalink {
 		transform: scale(1);
 	}
 }
+
+/* Three Images Shortcode Styles */
+.b-features__container .b-features__items {
+	--component-max-columns: 3;
+}
+
+@media (min-width: 900px) {
+	.b-features__container .b-features__items {
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+}
+
+/* Ensure images in three-column layout maintain aspect ratio */
+.b-features__container .o-feature__image {
+	width: 100%;
+}
+
+.b-features__container .m-figure__image img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
