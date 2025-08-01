@@ -52,6 +52,12 @@ Honrando as nossas origens na Demoscene, temos como evento principal da Inércia
 
 O vencedor será determinado por votação do público.
 
+{{< threeimages
+    img1="/images/this_is_internet.webp" alt1="Screenshot of This Is Internet, a demo by teadrinker" caption1="'This Is Internet' by teadrinker (2023)"
+    img2="/images/tokidoki.webp" alt2="Screenshot of Tokidoki, a demo by Gaia Space Agency" caption2="'Tokidoki' by Gaia Space Agency (2022)"
+    img3="/images/bossa_de_cores.webp" alt3="Screenshot of Bossa de Cores, a demo by 5711 & Accession & Farbrausch" caption3="'Bossa de Cores' by 5711 & Accession & Farbrausch (2020)"
+>}}
+
 
 ## Competição Rápida e Temática de Demos
 
