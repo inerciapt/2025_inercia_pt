@@ -3,11 +3,23 @@ title: "Contact"
 summary: "Get in touch with us"
 ---
 
-For more information about Inercia, contact us:
+## General contact
 
-**Email:** info@inercia.pt  
-**Website:** [inercia.pt](https://inercia.pt)
+For any questions and enquiries regarding Inércia 2024 you can reach us through email: info inercia.pt.
 
-Follow us on social media for updates:
-- **Twitter:** [@inerciaparty](https://twitter.com/inerciaparty)
-- **Facebook:** [Inercia Party](https://www.facebook.com/inerciaparty)
+We are also active on the portuguese scene discord.
+
+## Previous Editions
+
+Previous Websites
+
+Also check complete releases and results at [Demozoo](https://demozoo.org/parties/series/244/) event series.
+
+## Additional Credits
+
+Inércia 2025 is organized by Associação Inércia with the help of a dozen volunteers and partners.
+
+The design of this website was originally taken from [NOVA demoparty](https://novaparty.org/) organizing team with permission and adapted. Further adapted in 2025 as a [Hugo](https://gohugo.io) theme for markdown easy edits.
+
+The productions submission system we use for the event is [Partyman](https://www.partyman.cloud).
+
