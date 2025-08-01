@@ -1,0 +1,22 @@
+{{ define "main" }}
+<article class="b-article" itemscope itemtype="https://schema.org/Article">
+   {{ if .Params.show_page_header | default true }}
+   <div class="b-pageHeader">
+      <div class="b-pageHeader__container">
+         <div class="m-componentHeader">
+            <h2 class="a-heading">{{ .Title }}</h2>
+            {{ with .Params.summary }}
+            <div class="a-summary -medium">{{ . }}</div>
+            {{ end }}
+         </div>
+      </div>
+   </div>
+   {{ end }}
+   
+   <div class="b-article__container">
+      <div class="b-article__content s-content">
+         {{ .Content }}
+      </div>
+   </div>
+</article>
+{{ end }}

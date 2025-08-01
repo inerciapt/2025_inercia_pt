@@ -1,0 +1,131 @@
+{{ define "hero" }}
+{{ with .Params.hero_image }}
+<section class="b-hero">
+   <img alt="" loading="lazy" decoding="async" src="{{ .src }}"
+      {{ if and .srcset (gt (len .srcset) 0) }}
+      {{ $srcsetLen := len .srcset }}
+      srcset="{{ range $i, $srcset := .srcset }}{{ $srcset.src }} {{ $srcset.width }}w{{ if lt $i (sub $srcsetLen 1) }}, {{ end }}{{ end }}"
+      {{ end }}
+      sizes="100vw">
+</section>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+<article>
+   {{ with .Params.cta }}
+   <div class="b-columns u-container b-cta t-indigo">
+      <div class="m-componentHeader">
+         <h4 class="a-heading -h4">{{ .title | safeHTML }}</h4>
+      </div>
+   </div>
+   {{ end }}
+
+
+   {{ range $i, $section := .Params.sections }}
+   <section class="b-columns{{ if modBool $i 2 }} -imageFirst{{ end }}" style="--columns-count: {{ $section.columns | default 2 }}{{ if $section.padding_top_zero }};--padding-block-start:0{{ end }}">
+      <div class="b-columns__container u-container">
+         {{ if modBool $i 2 }}
+            {{ if $section.image }}
+            <div class="b-columns__item -alignBlockStart -alignInlineStart">
+               <figure class="m-figure" style="--image-ratio: {{ $section.image.ratio | default "3/2" }}">
+                  <div class="m-figure__image">
+                     <picture>
+                        <img alt="{{ $section.image.alt }}" loading="lazy" decoding="async"
+                           src="{{ $section.image.src }}" width="{{ $section.image.width }}" height="{{ $section.image.height }}"
+                           {{ if and $section.image.srcset (gt (len $section.image.srcset) 0) }}
+                           {{ $imageSrcsetLen := len $section.image.srcset }}
+                           srcset="{{ range $j, $srcset := $section.image.srcset }}{{ $srcset.src }} {{ $srcset.width }}w{{ if lt $j (sub $imageSrcsetLen 1) }}, {{ end }}{{ end }}"
+                           {{ end }}
+                           sizes="100vw">
+                     </picture>
+                     {{ with $section.image.attribution }}
+                     <p class="m-figure__attribution">{{ . }}</p>
+                     {{ end }}
+                  </div>
+               </figure>
+            </div>
+            {{ end }}
+            <div class="b-columns__item -alignBlockStart -alignInlineStart">
+               <div class="o-copy">
+                  <div class="m-componentHeader">
+                     {{ with $section.overline }}
+                     <p class="a-overline -medium">{{ . }}</p>
+                     {{ end }}
+                     <h{{ $section.heading_level | default 3 }} class="a-heading -h{{ $section.heading_level | default 3 }}">{{ $section.title }}</h{{ $section.heading_level | default 3 }}>
+                  </div>
+                  <div class="o-copy__content s-content -medium">
+                     {{ $section.content | markdownify }}
+                  </div>
+                  {{ with $section.button }}
+                  <div class="o-copy__buttons">
+                     <a href="{{ .url }}" class="m-button">
+                        <span class="m-button__label">{{ .text }}</span>
+                        <span class="m-button__icon">
+                           <span class="a-icon">
+                              <svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 96 960 960" width="48">
+                                 <path d="m304 974-56-57 343-343-343-343 56-57 400 400-400 400Z"></path>
+                              </svg>
+                           </span>
+                        </span>
+                     </a>
+                  </div>
+                  {{ end }}
+               </div>
+            </div>
+         {{ else }}
+            <div class="b-columns__item -alignBlockStart -alignInlineStart">
+               <div class="o-copy">
+                  <div class="m-componentHeader">
+                     {{ with $section.overline }}
+                     <p class="a-overline -medium">{{ . }}</p>
+                     {{ end }}
+                     <h{{ $section.heading_level | default 3 }} class="a-heading -h{{ $section.heading_level | default 3 }}">{{ $section.title }}</h{{ $section.heading_level | default 3 }}>
+                  </div>
+                  <div class="o-copy__content s-content -medium">
+                     {{ $section.content | markdownify }}
+                  </div>
+                  {{ with $section.button }}
+                  <div class="o-copy__buttons">
+                     <a href="{{ .url }}" class="m-button">
+                        <span class="m-button__label">{{ .text }}</span>
+                        <span class="m-button__icon">
+                           <span class="a-icon">
+                              <svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 96 960 960" width="48">
+                                 <path d="m304 974-56-57 343-343-343-343 56-57 400 400-400 400Z"></path>
+                              </svg>
+                           </span>
+                        </span>
+                     </a>
+                  </div>
+                  {{ end }}
+               </div>
+            </div>
+            {{ if $section.image }}
+            <div class="b-columns__item -alignBlockStart -alignInlineStart">
+               <figure class="m-figure" style="--image-ratio: {{ $section.image.ratio | default "3/2" }}">
+                  <div class="m-figure__image">
+                     <picture>
+                        <img alt="{{ $section.image.alt }}" loading="lazy" decoding="async"
+                           src="{{ $section.image.src }}" width="{{ $section.image.width }}" height="{{ $section.image.height }}"
+                           {{ if and $section.image.srcset (gt (len $section.image.srcset) 0) }}
+                           {{ $imageSrcsetLen := len $section.image.srcset }}
+                           srcset="{{ range $j, $srcset := $section.image.srcset }}{{ $srcset.src }} {{ $srcset.width }}w{{ if lt $j (sub $imageSrcsetLen 1) }}, {{ end }}{{ end }}"
+                           {{ end }}
+                           sizes="100vw">
+                     </picture>
+                     {{ with $section.image.attribution }}
+                     <p class="m-figure__attribution">{{ . }}</p>
+                     {{ end }}
+                  </div>
+               </figure>
+            </div>
+            {{ end }}
+         {{ end }}
+      </div>
+   </section>
+   {{ end }}
+
+   {{ .Content }}
+</article>
+{{ end }}
