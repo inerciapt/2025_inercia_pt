@@ -38,30 +38,15 @@ A Inércia na sua raiz é uma demoparty mas também convida outras culturas liga
 
 {{< youtube m3vunjzAms8 >}}
 
-## Tipos de Bilhetes
+## Entrada
 
-Entrada gratuita para voluntários organizadores do evento ou associados da [Associação Inércia](https://inercia.pt) ou [SFIA](https://incrivelalmadense.pt) com as quotas anuais pagas.
+Entrada gratuita para associados da [Associação Inércia](https://inercia.pt) ou [SFIA](https://incrivelalmadense.pt) com as quotas anuais pagas.
 
-Ser associado da Associação Inércia custa 24 euros por ano, metade desse valor no caso de ser estudante ou desempregado. De facto, é mais barato tornar-se membro da Associação Inércia para aceder ao evento. Além disso, queremos que te tornes um membro ativo da associação.
+10€ para restantes interessados.
 
-FIXME
-
-
-€30 Acesso Base
-
-€125 Acesso Prateado
-Para aqueles que querem apoiar o evento financeiramente e levar para casa merchandise da Inércia.
-
-€250+ Acesso Dourado
-Para aqueles que querem apoiar o evento com um apoio ou donativo institucional.
-
-## Traz um amigo, também!
-
-Achas demasiado caro? Só tinhas curiosidade de vir ver durante um curto espaço de tempo? Querias trazer um(a) amigo/a mas eles não tem a certeza se iam gostar? Estás com sorte! Para além da entrada gratuita na tarde de sexta-feira com direito a visita guiada que já tínhamos anunciado, anunciamos agora também um sistema de “trazer um amigo para ver as vistas”, em que cada visitante pagante tem direito a +1 visitar o evento durante até uma hora. Não é necessário registo, basta perguntar no infodesk na altura. Já não há desculpas para não virem à Inércia 2025!
-
-Entrada gratuita para crianças com menos de 13 anos de idade acompanhadas de um adulto responsável.
+Devido a limitações de capacidade, teremos um sistema de pré-inscrição a abrir em Setembro.
 
 ## Regras de Conduta
 
-A organização reserva o direito de excluir do evento qualquer pessoa que possa estar a causar distúrbios, ao abrigo da lei de organização de eventos privados. Só o faremos quando recebermos queixas de discriminação ou doutrinação indesejada / discurso retórico sobre quaisquer assuntos discriminatórios (racismo, intolerância, misoginia, discurso de ódio religioso ou político, teorias da conspiração, etc.). Não serão toleradas quaisquer ameaças físicas ou verbais / assédio aos nossos voluntários organizadores ou visitantes. Quem for apanhado a infringir a lei portuguesa será entregue às autoridades locais.
+A organização reserva o direito de excluir do evento qualquer pessoa que possa estar a causar distúrbios ou tenha demonstrado esse tipo de comportamentos no passado, ao abrigo da lei de organização de eventos privados. Só o faremos quando recebermos queixas de discriminação ou doutrinação indesejada / discurso retórico sobre quaisquer assuntos discriminatórios (racismo, intolerância, misoginia, discurso de ódio religioso ou político, teorias da conspiração, etc.). Não serão toleradas quaisquer ameaças físicas ou verbais / assédio aos nossos voluntários organizadores ou visitantes. Quem for apanhado a infringir a lei portuguesa será entregue às autoridades locais.
 
