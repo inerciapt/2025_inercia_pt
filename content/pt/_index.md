@@ -4,7 +4,7 @@ description: "Inércia - Digital Arts Festival in Portugal"
 hero_image:
   src: "/images/new_badge-1920.webp"
 cta:
-  title: "Festival de Arte Digital, Portugal, 6 a 8 Dezembro de 2024<br />Mostra-nos o que tens feito!"
+  title: "Festival de Arte Digital, Portugal, 6 e 7 Dezembro de 2025<br />Mostra-nos o que tens feito!"
 sections:
   - overline: "Local"
     title: "Salão de Festas Incrível Almadense"
@@ -24,7 +24,7 @@ sections:
       attribution: "Fonte: Jaerder Sousa"
 
     imageFirst: true
-    padding_top_zero: true
+    padding_top_zero: false
 
   - overline: "Participa"
     title: "Mostras & Competições"
