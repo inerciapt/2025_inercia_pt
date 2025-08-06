@@ -30,26 +30,9 @@ Inércia is a demoparty, but also embraces other digital art cultures, hence bei
 
 Free entrance to our volunteer organizers or associates of [Associação Inércia](https://inercia.pt) or [SFIA](https://incrivelalmadense.pt) with their yearly quotas paid.
 
-Being a member of Associação Inércia costs you 24eur per year, half if you're a student or unemployed. So it's effectively cheaper to become a member and pay the yearly quota then the regular entrance ticket. We want you to become an active member of the association.
+10€ entrance fee to other attendants.
 
-FIXME
-
-
-€30 Standard Entry
-
-€125 Silver Sntry
-For those who want to support the party and get all the cool Inércia merchandise.
-
-€250+ Golden Entry
-For those who want to support the party at an advertised partner level.
-
-## Bring a buddy
-
-Too expensive? Just curious to check the vibe for little while? Wanted to bring a friend but they are not sure if it's for them? Well, you're in luck! Besides the free entrance on Friday afternoon with a guided tour that we had already announced, we are also now announcing a "bring a buddy for a visit" system, where each paying member can have a +1 visiting the event for up to one hour. No registration needed, just ask about it at the infodesk. No excuses left not to attend Inércia 2024!
-
-Free entrance to children below 13 years old, accompanied by a responsible adult.
-
-Registration form is closed, but you can still attend the event in person! See you at the party!
+Due to venue capacity limitations we will have a pre-registering system requirement, will be online in September.
 
 ## Rules of Conduct
 
