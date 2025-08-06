@@ -7,21 +7,9 @@ summary: "Festival de Arte Digital e Música em Portugal"
 
 O festival da Inércia é organizado pela [Associação Inércia](https://inercia.pt), uma associação sem fins lucrativos dedicada à promoção da demoscene. A edição de 2025 será a 17ª do evento organizada pelos membros da Associação e a 5ª a ser realizada em Almada em particular.
 
-A Inércia 2025 terá lugar de 6 e 7 de Dezembro de 2025 no Salão de Festas da Incrível Almadense, uma sala centenária no coração de Almada, do outro lado do rio de Lisboa.
+A Inércia 2025 terá lugar 6 e 7 de Dezembro de 2025 no Salão de Festas da Incrível Almadense, uma sala centenária no coração de Almada, do outro lado do rio de Lisboa.
 
 Este salão mítico oferece-nos espaço para até 150 visitantes (incluindo lugares dedicados em mesas com assentos confortáveis para até 50 pessoas). O evento decorre de sábado a domingo, durante o qual haverá muitas oportunidades para apresentares o teu trabalho e conviver com outros artistas, demosceners e criadores.
-
-## Como é o Evento
-
-Nunca visitaste este tipo de eventos? Não vens a um há uns bons anos? Eis o que podes esperar da Inércia 2025:
-
-Na sexta-feira, o objetivo é chegar ao local, encontrar um lugar numa das mesas para desempacotar as nossas coisas, conhecer toda a gente e talvez acabar de produzir algo para ser apresentado no evento. Entretanto, exibiremos algumas demos no ecrã gigante e daremos uma palestra ou um workshop antes do jantar. Depois, teremos a 5ª edição do Shader Royale, o maior evento de programação simultânea ao vivo do mundo, onde teremos participantes de todos os cantos do mundo (alguns sentados na nossa sala), a programar visuais em tempo real, acompanhados de música por um DJ. Podes participar se souberes programar shaders. A fechar a noite temos um concerto ao vivo de música electrónica. A partir da meia-noite não poderemos fazer ruído no local, mas haverá uma afterparty num bar perto, o Bar A Cerca onde continuaremos a festa com DJs amigos.
-
-A manhã de sábado é tipicamente utilizada para acabar de carregar as produções no sistema, dormir até tarde ou explorar o encantador centro de Almada. Ao longo do dia, teremos várias palestras e diferentes eventos. As competições e mostras terão lugar ao final da tarde, onde os participantes verão as suas produções apresentadas no ecrã gigante e no sistema de som. Após o jantar, teremos o ponto alto do evento: as competições de demos. De seguida, a festa continua no Bar A Cerca com mais DJ sets.
-
-O utlimo dia é domingo... lentamente com alguma socialização durante uma prova de panquecas muito especial e culmina com a cerimónia de entrega de prémios e encerramento. As portas fecharão com um almoço convívio entre os organizadores e os restantes visitantes, a última oportunidade para estabelecer alguns contactos e socializar.
-
-FIXME
 
 ## Video reportagem da Inércia 2024:
 
