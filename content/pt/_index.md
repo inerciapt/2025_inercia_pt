@@ -54,7 +54,7 @@ sections:
           img2="/images/tokidoki.webp" alt2="Screenshot of Tokidoki, a demo by Gaia Space Agency" caption2="'Tokidoki' by Gaia Space Agency (2022)"
           img3="/images/bossa_de_cores.webp" alt3="Screenshot of Bossa de Cores, a demo by 5711 & Accession & Farbrausch" caption3="'Bossa de Cores' by 5711 & Accession & Farbrausch (2020)"
       >}}
-
+<!--
   - overline: "Convite"
     title: "EN-TROPY"
     content: |
@@ -75,4 +75,5 @@ sections:
       height: 1080
       ratio: "16/9"
       attribution: '"EN-TROPY - Inércia 2024 Invite" by ASD + ma + ENR'
+      -->
 ---
