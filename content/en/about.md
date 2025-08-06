@@ -7,27 +7,9 @@ summary: "Digital Arts Festival in Portugal"
 
 Inércia is organized by [Associação Inércia](https://inercia.pt), a non profit organization dedicated to promoting the demoscene. 2025 will be the 17th edition of Inércia we organize and the fifth taking place in Almada.
 
-Inércia 2025 will take place in December 2024, from 6th to 7th at Salão Festas Incrível Almadense, the centenary event hall in the heart of Almada, just across the river from Lisbon.
+Inércia 2025 will take place on the 6th and 7th of December 2025 at Salão Festas Incrível Almadense, the centenary event hall in the heart of Almada, just across the river from Lisbon.
 
 This mythical hall provides us with room for up to 150 visitors (including dedicated table spots with comfortable seating for up to 50 people). The event runs from Friday afternoon until Sunday morning, during which there will be plenty of opportunity to present your work and socialize with other artists, demosceners and hardware tinkerers.
-
-## What's the event like?
-
-Never visited these kind of events before? Haven't been to one in a while? This is what you can expect:
-
-The focus on Saturday is to arrive, claim a spot at one of the tables, unpack your things, get to know everyone and finish your production to be submitted to the party system. 
-Meanwhile we will screen some demos on the bigscreen, hand host a talk or a workshop planned before dinner. 
-After dinner we will host the 4th edition of the Shader Royale, the worlds largest simultaneous livecoding event, where we will have participants from all corners of the world (some sitting in our hall), programming visuals in realtime for our liveact / DJ sets. 
-You are welcome to join in if you know shader coding. 
-To round up the evening program we'll have a live concert of electronic music. 
-Noise curfew on location is at midnight but we are planning an afterparty at a local nightclub with out own DJs at Bar A Cerca.
-
-Saturday morning is typically for finishing your submissions, hear some of our seminar talks or explore the charming Almada downtown.
-We will have several events scheduled throughout the day. Competitions and showcases will be later in the afternoon, where participants will have their productions presented on our stage with large screen projection and quality soundsystem. After dinner we will have the highlight of the event: the realtime intro and demo competitions. Noise curfew on location is at midnight but the afterparty at Bar A Cerca will carry on through the night.
-
-Sunday mornings start slowly with some light socializing activities and culminate with the prizegiving / closing ceremony. The doors will close with a community lunch amongst the organizers and remaining visitors, your final opportunity to network.
-
-FIXME
 
 ## Video report of Inércia 2024:
 
