@@ -74,7 +74,4 @@ Se preferes uma cama a sério, recomendamos a [Casa do Tejo](https://dotejocasa.
 
 Se estás à procura do mais barato possivel, a [Pousada da Juventude](https://www.pousadasjuventude.pt/pt/pousadas/pousada-de-almada/),  tem boa reputação de boa qualidade/preço em Almada, mas tem em conta que fica relativamente longe do Salão de Festas, não se vai facilmente a pé até lá.
 
-Em alternativa, há outros hotéis ou locais de alojamento local disponíveis através do [booking.com](booking.com).
-
-
-
+Em alternativa, há outros hotéis ou locais de alojamento local disponíveis através do [booking.com](https://booking.com).
