@@ -1,20 +1,18 @@
 ---
 title: "Inércia Demoscene"
 description: "Inércia - Digital Arts Festival in Portugal"
-hero_image:
-  src: "/images/new_badge-1920.webp"
 cta:
-  title: "Festival de Arte Digital, Portugal, 6 e 7 Dezembro de 2025<br />Mostra-nos o que tens feito!"
+  title: "<br />Festival de Arte Digital, Almada, Portugal<br />6 e 7 Dezembro de 2025<br />Mostra-nos o que tens feito!"
 sections:
   - overline: "Local"
     title: "Salão de Festas Incrível Almadense"
     content: |
-      No coração de Almada, com espaço para mais de 120 visitantes.
+      No coração de Almada, com espaço para 150 visitantes.
 
       Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção full HD e sistema de som adequado para mostrar ao mundo os teus trabalhos de arte digital.
     button:
       text: "Local & Viagem"
-      url: "/location/"
+      url: "./location/"
     image:
       src: "/images/_DSC2349-1280.webp"
       alt: "Photo of the Inércia Party hall"
@@ -37,7 +35,7 @@ sections:
       * Seminários e instalações, estamos abertos a acolher as tuas propostas.
     button:
       text: "Participa"
-      url: "/participate/"
+      url: "./participate/"
     image:
       src: "/images/this_is_internet.webp"
       alt: "Photo of the Inércia Party hall"

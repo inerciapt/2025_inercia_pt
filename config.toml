@@ -9,8 +9,7 @@ defaultContentLanguageInSubdir = true
 [params]
   description = "Inércia - Digital Arts Festival in Portugal"
   social_image = "https://inercia.pt/images/social_thumbnail.jpg"
-  twitter = "inerciaparty"
-  facebook = "https://www.facebook.com/inerciaparty"
+  twitter = "inercia_pt"
   favicon = "/images/ID_64px.png"
   logo = "/images/in.svg"
   logo_small = "/images/in.svg"
@@ -39,10 +38,10 @@ defaultContentLanguageInSubdir = true
       name = "Participar"
       url = "/pt/participate/"
       weight = 40
-#    [[languages.pt.menu.main]]
-#      name = "Programa"
-#      url = "/pt/schedule/"
-#      weight = 50
+    [[languages.pt.menu.main]]
+      name = "Programa"
+      url = "/pt/schedule/"
+      weight = 50
     [[languages.pt.menu.main]]
       name = "Contacto"
       url = "/pt/contact/"
@@ -70,10 +69,10 @@ defaultContentLanguageInSubdir = true
       name = "Participate"
       url = "/en/participate/"
       weight = 40
-#    [[languages.en.menu.main]]
-#      name = "Schedule"
-#      url = "/en/schedule/"
-#      weight = 50
+    [[languages.en.menu.main]]
+      name = "Schedule"
+      url = "/en/schedule/"
+      weight = 50
     [[languages.en.menu.main]]
       name = "Contact"
       url = "/en/contact/"

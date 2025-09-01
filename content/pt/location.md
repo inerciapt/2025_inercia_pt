@@ -2,7 +2,10 @@
 title: "Localização"
 summary: "Salão de Festas da Sociedade Filarmónica Incrível Almadense, no centro de Almada"
 ---
-No coração de Almada, com espaço para mais de 120 visitantes.
+
+## Sobre o Espaço
+
+O evento irá decorrer no Salão de Festas Incrível Almadense, situada no centro de Almada velha, com espaço para 150 visitantes.
 
 Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção full HD e sistema de som adequado para mostrar ao mundo os teus trabalhos de arte digital.
 
@@ -67,7 +70,7 @@ Pontos de interesse do nosso evento e da cidade.
 
 Durante o evento, estará disponível uma área de descanso onde poderás dormir, com a possibilidade de utilização de chuveiros. Atenção que, em dezembro, pode fazer frio em Almada (10°C durante a noite) e o nosso local não tem um isolamento adequado, por isso vem preparado com o teu saco-cama de inverno.
 
-Se preferes uma cama a sério, recomendamos a [Casa do Tejo](https://www.casadotejo.pt/) a poucos metros do Salão de Festas, e se mencionares que vens para o evento durante a reserva, fazem-te um desconto.
+Se preferes uma cama a sério, recomendamos a [Casa do Tejo](https://dotejocasa.pt/) a poucos metros do Salão de Festas, e se mencionares que vens para o evento durante a reserva, fazem-te um desconto.
 
 Se estás à procura do mais barato possivel, a [Pousada da Juventude](https://www.pousadasjuventude.pt/pt/pousadas/pousada-de-almada/),  tem boa reputação de boa qualidade/preço em Almada, mas tem em conta que fica relativamente longe do Salão de Festas, não se vai facilmente a pé até lá.
 
