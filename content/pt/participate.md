@@ -84,6 +84,12 @@ Descarrega os ficheiros aqui.
 
 O vencedor será determinado por votação do público. 
 
+{{< threeimages
+    img1="/images/atwpink.webp" alt1="'flow text, high text, contrast text,	random text, pink text' by AttentionWhore" caption1="'flow text, high text, contrast text,	random text, pink text' by AttentionWhore"
+    img2="/images/stlpinky.webp" alt2="'Pinky' by Still" caption2="'Pinky' by Still"
+    img3="/images/roasted.webp" alt3="'Roasted' by Rift" caption3="'Roasted' by Rift"
+>}}
+
 ## Mostra de Size Coding
 
 Teremos uma mostra dedicada a qualquer tipo de produções de size coding/bootblock feitas exclusivamente para a Inércia 2024!
