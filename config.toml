@@ -1,16 +1,15 @@
 baseURL = 'https://2025.inercia.pt/'
 languageCode = 'pt-PT'
-title = 'Inercia Demoscene'
+title = 'Inércia 2025'
 theme = 'inercia'
 
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = true
 
 [params]
-  description = "Inércia - Digital Arts Festival in Portugal"
+  description = "Inércia 2025 - Digital Arts Festival in Portugal"
   social_image = "https://inercia.pt/images/social_thumbnail.jpg"
-  twitter = "inerciaparty"
-  facebook = "https://www.facebook.com/inerciaparty"
+  twitter = "inercia_pt"
   favicon = "/images/ID_64px.png"
   logo = "/images/in.svg"
   logo_small = "/images/in.svg"
@@ -19,10 +18,10 @@ defaultContentLanguageInSubdir = true
   [languages.pt]
     languageName = 'Português'
     weight = 1
-    title = 'Inércia Demoscene'
+    title = 'Inércia 2025'
     languageCode = 'pt-PT'
     contentDir = 'content/pt'
-    params.description = "Inércia - Festival de Artes Digitais em Portugal"
+    params.description = "Inércia 2025 - Festival de Artes Digitais em Portugal"
 #    [[languages.pt.menu.main]]
 #      name = "Post Party"
 #      url = "/pt/postparty/"
@@ -48,16 +47,20 @@ defaultContentLanguageInSubdir = true
       url = "/retrocorner/"
       weight = 55
     [[languages.pt.menu.main]]
+      name = "Visitantes"
+      url = "/pt/visitors/"
+      weight = 55
+    [[languages.pt.menu.main]]
       name = "Contacto"
       url = "/pt/contact/"
       weight = 60
   [languages.en]
     languageName = 'English'
     weight = 2
-    title = 'Inercia Demoscene'
+    title = 'Inércia 2025'
     languageCode = 'en-GB'
     contentDir = 'content/en'
-    params.description = "Inercia - Digital Arts Festival in Portugal"
+    params.description = "Inércia 2025 - Digital Arts Festival in Portugal"
 #    [[languages.en.menu.main]]
 #      name = "Post Party"
 #      url = "/en/postparty/"
@@ -81,6 +84,10 @@ defaultContentLanguageInSubdir = true
     [[languages.en.menu.main]]
       name = "Retrocorner"
       url = "/retrocorner/"
+      weight = 55
+    [[languages.en.menu.main]]
+      name = "Visitors"
+      url = "/en/visitors/"
       weight = 55
     [[languages.en.menu.main]]
       name = "Contact"

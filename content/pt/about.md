@@ -1,5 +1,5 @@
 ---
-title: "Inércia 2025"
+title: "Sobre"
 summary: "Festival de Arte Digital e Música em Portugal"
 ---
 

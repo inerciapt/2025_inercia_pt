@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-summary: "Inércia 2025 - 6-7 December - Almada (Portugal)"
+summary: "6-7 December 2025"
 ---
 
 ## Schedule
@@ -10,80 +10,71 @@ summary: "Inércia 2025 - 6-7 December - Almada (Portugal)"
 
 ---
 
-### 📅 Thursday · December 5
+### 📅 Friday · December 5
 
-- **19:00** — **REVEAL**  
-  Theme reveal for the Fast & Themed Demo Competition
+- **Preparty @ Bar A Cerca**
+  - **23:00** — **DJ SET**  
+    rc55
 
 ---
 
-### 📅 Friday · December 6
+### 📅 Saturday · December 6
 
-- **13:37** — **EVENT**  
+- **10:00** — **EVENT**  
   Doors open
-- **15:00** — **DEMOSHOW**  
-  Demo retrospective curated by ps
-- **16:00** — **EVENT**  
-  Free entry hour for local visitors (with guided tour)
-- **17:30** — **EVENT**  
+- **11:00** — **DEMOSHOW**  
+  Curated screening of previously released demos
+- **13:37** — **EVENT**  
   Opening Ceremony
-- **18:00** — **SEMINAR**  
-  "teadrinker Demo Workflow" by teadrinker
-- **21:00** — **EVENT**  
-  Shader Royale Jam (with live music by [var.rho](https://soundcloud.com/varrho))
-- **22:30** — **PERFORMANCE**  
-  Live Chiptune Set by Enfys
+- **16:00** — **SHOWCASE**  
+  Lightning Talks by the audience on all things related to digital art
+- **18:00** — **EVENT**  
+  Shader Royale Jam (with live music TBA)
+- **21:00** — **PERFORMANCE**  
+  Live stage performance TBA
+- **22:00** — **EVENT**  
+  Open Music Improv Session
 - **Afterparty @ Bar A Cerca**
   - **23:00** — **DJ SET**  
-    dojoe
-  - **02:00** — **DJ SET**  
-    Slug Beetle
-  - **04:00** — **DJ SET**  
-    DJ General Vileam
+    bacter
 
 ---
 
-### 📅 Saturday · December 7
+### 📅 Sunday · December 7
 
-- **10:00** — **SEMINAR**  
-  "TENET: A Deep Dive into the Lost Network for ZX Spectrum" by Museu LOAD ZX
+- **10:00** — **EVENT**  
+  Pancake Breakfast
 - **11:00** — **DEADLINE**  
-  Deadline for all compo and exhibition entries except the fast compo
-- **14:00** — **SEMINAR**  
-  "ZX Spectrum Repair" by Luis Correia
-- **15:00** — **SHOW**  
-  Music Exhibition
-- **16:30** — **SHOW**  
-  Graphics Exhibition
-- **17:00** — **SHOW**  
-  Wild Exhibition
-- **18:00** — **ROUNDTABLE**  
-  Empowerment for Digital Arts
-- **19:00** — **DEADLINE**  
-  Fast compo entries deadline
-- **21:00** — **SHOW**  
-  Size Coding Exhibition
-- **21:30** — **COMPO**  
-  Fast & Themed Demo Competition
-- **22:00** — **COMPO**  
-  Demo Competition
+  Deadline for submitting productions for all the showcases and competitions.
+- **11:00** — **DEMOSHOW**  
+  Curated screening of previously released demos
+- **12:00** — **EVENT**  
+  Community Lunch
+- **14:00** — **SHOWCASE**  
+  Showcase of the Original Graphics category
+- **14:00** — **SHOWCASE**  
+  Showcase of the Original Music category
+- **16:00** — **SHOWCASE**  
+  Showcase of the Wild category
+- **17:00** — **SHOWCASE**  
+  Showcase of the AI category
+- **18:00** — **SHOWCASE**  
+  Showcase of the Size Coding category
+- **19:00** — **SHOWCASE**  
+  Showcase of the Workshop / Fast Theme category
+- **21:00** — **COMPETITION**  
+  Screening of the Combined Demo competition
+- **22:00** — **PERFORMANCE**  
+  Narcisound
+- **23:00** — **EVENT**  
+  Closing Ceremony and Prize Giving
 - **Afterparty @ Bar A Cerca**
   - **23:00** — **DJ SET**  
     Tina Stormcaller
-  - **02:00** — **DJ SET**  
-    Cronaxy
-  - **04:00** — **DJ SET**  
-    DJ General Vileam
 
 ---
 
-### 📅 Sunday · December 8
+### 📅 Monday · December 8
 
-- **10:30** — **DEADLINE**  
-  Voting deadline for competitions
-- **11:00** — **EVENT**  
-  Pancake Breakfast
-- **12:00** — **EVENT**  
-  Closing Ceremony
-- **13:37** — **EVENT**  
-  Doors close + Community Lunch
+- **10:00** — **EVENT**  
+  Doors reopen to clear out equipment

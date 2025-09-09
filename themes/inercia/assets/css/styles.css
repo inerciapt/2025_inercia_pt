@@ -63,6 +63,8 @@
 	--color-discord: #5865f2;
 	--color-twitter: #1da1f2;
 	--color-twitch: #9146ff;
+	--color-mastodon: #5d4fe6;
+	--color-bsky: #0085FF;
 	--color-youtube: red;
 	--color-marian-blue: #2b3e81;
 	--color-wisteria: #cbabea;
@@ -737,6 +739,16 @@ input:checked~.a-hamburger {
 
 	.o-socialList__link:hover.-instagram {
 		--social-item-background: var(--gradient-instagram)
+	}
+
+	.o-socialList__link:hover.-mastodon {
+		--icon-fill: #000;
+		--social-item-background: var(--color-mastodon)
+	}
+
+	.o-socialList__link:hover.-bsky {
+		--icon-fill: #000;
+		--social-item-background: var(--color-bsky)
 	}
 
 	.o-socialList__link:hover.-demopartynet {

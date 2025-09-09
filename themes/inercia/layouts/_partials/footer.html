@@ -1,6 +1,6 @@
 <footer class="b-siteFooter">
   <div class="b-siteFooter__container">
-  <div id="sponsors">
+  <!--<div id="sponsors">
 	{{ $sponsorsData := .Site.Data.sponsors }}
 	{{ $tiers := slice
 		(dict "name" "gold"   "label" "Gold Sponsors"   "class" "sponsor-logo-gold")
@@ -23,7 +23,7 @@
 		</div>
 	  {{ end }}
 	{{ end }}
-  </div>
+  </div>-->
   <div class="o-socialList">
 	<ul class="o-socialList__items">
 	  {{ with .Site.Data.social }}
@@ -39,7 +39,6 @@
 	  {{ end }}
 	</ul>
   </div>
-	{{ partial "visitors.html" . }}
   <style>
 	.sponsor-list {
 	  display: flex;
