@@ -1,3 +1,4 @@
+# ---------------------- Gold 
 - name: "Incrível Almadense"
   tier: "gold"
   url: "https://incrivelalmadense.pt"
@@ -13,16 +14,26 @@
   url: "https://www.uf-acppc.pt/"
   logo: "sponsors/junta.svg"
 
-
-- name: "Gold Sponsor 1"
-  tier: "gold"
-  url: "https://goldsponsor.com"
-  logo: "images/worker-svgrepo-com.svg"
-- name: "Silver Sponsor 1"
+# ---------------------- Silver
+- name: "Mr. Print"
   tier: "silver"
-  url: "https://silversponsor.com"
-  logo: "images/worker-svgrepo-com.svg"
-- name: "Bronze Sponsor 1"
+  url: "https://mrprint.pt/"
+  logo: "sponsors/mrprint.svg"
+
+- name: "Bar A Cerca"
+  tier: "silver"
+  url: "https://linktr.ee/baracerca"
+  logo: "sponsors/baracerca.svg"
+
+- name: "Enough Records"
+  tier: "silver"
+  url: "https://enoughrecords.scene.org/"
+  logo: "sponsors/enough.svg"
+
+
+# ---------------------- Bronze
+
+- name: "Pombal Ceramics"
   tier: "bronze"
-  url: "https://bronzesponsor.com"
-  logo: "images/worker-svgrepo-com.svg"
+  url: "https://joaquimpombal.blogspot.com/"
+  logo: "images/pombalceramics.svg"
