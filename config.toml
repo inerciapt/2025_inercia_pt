@@ -8,7 +8,7 @@ defaultContentLanguageInSubdir = true
 
 [params]
   description = "Inércia 2025 - Digital Arts Festival in Portugal"
-  social_image = "https://inercia.pt/images/social_thumbnail.jpg"
+  social_image = "/images/social_thumbnail.jpg"
   twitter = "inercia_pt"
   favicon = "/images/ID_64px.png"
   logo = "/images/in.svg"
@@ -38,18 +38,22 @@ defaultContentLanguageInSubdir = true
       name = "Participar"
       url = "/pt/participate/"
       weight = 40
+#    [[languages.pt.menu.main]]
+#      name = "Programa"
+#      url = "/pt/schedule/"
+#      weight = 50
     [[languages.pt.menu.main]]
-      name = "Programa"
-      url = "/pt/schedule/"
-      weight = 50
+      name = "Retrocorner"
+      url = "/retrocorner/"
+      weight = 60
     [[languages.pt.menu.main]]
       name = "Visitantes"
       url = "/pt/visitors/"
-      weight = 55
+      weight = 70
     [[languages.pt.menu.main]]
       name = "Contacto"
       url = "/pt/contact/"
-      weight = 60
+      weight = 80
   [languages.en]
     languageName = 'English'
     weight = 2
@@ -73,16 +77,19 @@ defaultContentLanguageInSubdir = true
       name = "Participate"
       url = "/en/participate/"
       weight = 40
+#    [[languages.en.menu.main]]
+#      name = "Schedule"
+#      url = "/en/schedule/"
+#      weight = 50
     [[languages.en.menu.main]]
-      name = "Schedule"
-      url = "/en/schedule/"
-      weight = 50
+      name = "Retrocorner"
+      url = "/retrocorner/"
+      weight = 60
     [[languages.en.menu.main]]
       name = "Visitors"
       url = "/en/visitors/"
-      weight = 55
+      weight = 70
     [[languages.en.menu.main]]
       name = "Contact"
       url = "/en/contact/"
-      weight = 60
-
+      weight = 80
