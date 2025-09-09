@@ -2,33 +2,33 @@
 - name: "Incrível Almadense"
   tier: "gold"
   url: "https://incrivelalmadense.pt"
-  logo: "incrivel.svg"
+  logo: "images/incrivel.svg"
 
 - name: "Câmara de Almada"
   tier: "gold"
   url: "https://cm-almada.pt"
-  logo: "sponsors/cmalmada.svg"
+  logo: "images/cmalmada.svg"
 
 - name: "Juntas"
   tier: "gold"
   url: "https://www.uf-acppc.pt/"
-  logo: "sponsors/junta.svg"
+  logo: "images/junta.svg"
 
 # ---------------------- Silver
 - name: "Mr. Print"
   tier: "silver"
   url: "https://mrprint.pt/"
-  logo: "sponsors/mrprint.svg"
+  logo: "images/mrprint.svg"
 
 - name: "Bar A Cerca"
   tier: "silver"
   url: "https://linktr.ee/baracerca"
-  logo: "sponsors/baracerca.svg"
+  logo: "images/baracerca.svg"
 
 - name: "Enough Records"
   tier: "silver"
   url: "https://enoughrecords.scene.org/"
-  logo: "sponsors/enough.svg"
+  logo: "images/enough.svg"
 
 
 # ---------------------- Bronze

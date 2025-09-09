@@ -15,10 +15,17 @@
 			{{ range $list }}
 			  <li class="sponsor-item">
 				<a href="{{ .url }}" target="_blank" aria-label="{{ .name }}">
-				  <img src="/{{ .logo }}" alt="{{ .name }} logo" class="{{ $tier.class }}" loading="lazy" />
+					{{ readFile "{{ .logo }}" | safeHTML }}
+
+					<figure class="{{index .Params 1}}">
+  					{{ readFile (print "inline-svg/" (index .Params 0)) | safeHTML }}
+				</figure>
 				</a>
 			  </li>
 			{{ end }}
+		  </ul>
+		  <ul>
+			
 		  </ul>
 		</div>
 	  {{ end }}
