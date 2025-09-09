@@ -42,10 +42,10 @@ defaultContentLanguageInSubdir = true
 #      name = "Programa"
 #      url = "/pt/schedule/"
 #      weight = 50
-    [[languages.pt.menu.main]]
-      name = "Retrocorner"
-      url = "/retrocorner/"
-      weight = 60
+#    [[languages.pt.menu.main]]
+#      name = "Retrocorner"
+#      url = "/retrocorner/"
+#      weight = 60
     [[languages.pt.menu.main]]
       name = "Visitantes"
       url = "/pt/visitors/"
@@ -81,10 +81,10 @@ defaultContentLanguageInSubdir = true
 #      name = "Schedule"
 #      url = "/en/schedule/"
 #      weight = 50
-    [[languages.en.menu.main]]
-      name = "Retrocorner"
-      url = "/retrocorner/"
-      weight = 60
+#    [[languages.en.menu.main]]
+#      name = "Retrocorner"
+#      url = "/retrocorner/"
+#      weight = 60
     [[languages.en.menu.main]]
       name = "Visitors"
       url = "/en/visitors/"
