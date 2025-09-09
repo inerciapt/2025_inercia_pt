@@ -1,3 +1,19 @@
+- name: "Incrível Almadense"
+  tier: "gold"
+  url: "https://incrivelalmadense.pt"
+  logo: "incrivel.svg"
+
+- name: "Câmara de Almada"
+  tier: "gold"
+  url: "https://cm-almada.pt"
+  logo: "sponsors/cmalmada.svg"
+
+- name: "Juntas"
+  tier: "gold"
+  url: "https://www.uf-acppc.pt/"
+  logo: "sponsors/junta.svg"
+
+
 - name: "Gold Sponsor 1"
   tier: "gold"
   url: "https://goldsponsor.com"
