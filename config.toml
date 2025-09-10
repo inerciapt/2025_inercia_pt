@@ -11,8 +11,8 @@ defaultContentLanguageInSubdir = true
   social_image = "/images/social_thumbnail.jpg"
   twitter = "inercia_pt"
   favicon = "/images/ID_64px.png"
-  logo = "/images/in.svg"
-  logo_small = "/images/in.svg"
+  logo = "/images/svg/in.svg"
+  logo_small = "/images/svg/in.svg"
 
 [languages]
   [languages.pt]

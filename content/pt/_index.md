@@ -14,7 +14,7 @@ sections:
       text: "Local & Viagem"
       url: "./location/"
     image:
-      src: "/images/_DSC2349-1280.webp"
+      src: "/images/_DSC2349.webp"
       alt: "Foto do Salão da Inércia"
       width: 1280
       height: 853
