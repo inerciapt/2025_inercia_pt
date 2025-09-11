@@ -11,7 +11,7 @@ This schedule is not final.
 ### 📅 Friday · December 5 
 
 ||**Preparty @ Bar A Cerca**||
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | 23:00 | DJ SET | rc55| 
 
 ---
@@ -19,7 +19,7 @@ This schedule is not final.
 ### 📅 Saturday · December 6
 
 | | | |
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | 10:00 | EVENT | Doors open| 
 | 11:00 | DEMOSHOW | Curated screening of previously released demos |
 | 13:37 | EVENT | Opening Ceremony|
@@ -29,7 +29,7 @@ This schedule is not final.
 | 22:00 | EVENT | Open Music Improv Session|
 
 ||**Afterparty @ Bar A Cerca** ||
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | 23:00 | DJ SET | bacter |
 
 ---
@@ -37,7 +37,7 @@ This schedule is not final.
 ### 📅 Sunday · December 7
 
 | | | |
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | 10:00 | EVENT | Pancake Breakfast|
 | 11:00 | DEADLINE | Deadline for submitting productions for all the showcases and competitions |
 | 11:00 | DEMOSHOW | Curated screening of previously released demos|
@@ -53,7 +53,7 @@ This schedule is not final.
 | 23:00 | EVENT | Closing Ceremony and Prize Giving|
 
 ||**Afterparty @ Bar A Cerca** ||
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | 23:00 | DJ SET | Tina Stormcaller|
 
 ---
@@ -61,5 +61,5 @@ This schedule is not final.
 ### 📅 Monday · December 8
 
 ||||
-|:------:|:------:|:------:|
+|:------:|:------:|:------|
 | 10:00 | EVENT| Doors reopen to clear out equipment|
