@@ -4,8 +4,10 @@ summary: "6-7 December 2025"
 
 # idiotic but it is what people voted for!
 # Note to orga, Luis Correia will not touch this file further
+
 # Some notes: HTML must start in left most column and no empty lines are allowed or
 # everything will fail
+# Can't make timezoner work, your responsability!
 ---
 
 <script async defer src="js/timezoner.js"></script>
@@ -68,24 +70,6 @@ This schedule is not final.
     </tr>
     <tr>
       <td>
-        <span data-jtzr-date="2024-12-06" class="jtzr-time">16:00</span>
-      </td>
-      <td>
-        <div class="tt event anchor">EVENT</div>
-      </td>
-      <td>Free visiting hours to local visitors (with guided tour)</td>
-    </tr>
-    <tr>
-      <td>
-        <span data-jtzr-date="2024-12-06" class="jtzr-time">17:30</span>
-      </td>
-      <td>
-        <div class="tt event">EVENT</div>
-      </td>
-      <td>Opening Ceremony</td>
-    </tr>
-    <tr>
-      <td>
         <span data-jtzr-date="2024-12-06" class="jtzr-time">18:00</span>
       </td>
       <td>
@@ -95,19 +79,6 @@ This schedule is not final.
     </tr>
     <tr class="info-tr">
       <td colspan="3" w3-include-html="./add-teadrinker.html"></td>
-    </tr>
-    <tr class="empty-tr"></tr>
-    <tr>
-      <td>
-        <span data-jtzr-date="2024-12-06" class="jtzr-time">21:00</span>
-      </td>
-      <td>
-        <div class="tt event anchor" id="shaderjam">EVENT</div>
-      </td>
-      <td class="add-info">Shader Royale Jam (with live music by <a href="https://soundcloud.com/varrho">var.rho</a>) </td>
-    </tr>
-    <tr class="info-tr">
-      <td colspan="3" w3-include-html="./add-shader-royale.html"></td>
     </tr>
     <tr class="empty-tr"></tr>
     <tr>
@@ -152,19 +123,6 @@ This schedule is not final.
     </tr>
     <tr class="info-tr">
       <td colspan="3" w3-include-html="./add-slug-beetle.html"></td>
-    </tr>
-    <tr class="empty-tr"></tr>
-    <tr>
-      <td>
-        <span data-jtzr-date="2024-12-07" class="jtzr-time">04:00</span>
-      </td>
-      <td>
-        <div class="tt djset anchor">DJ SET</div>
-      </td>
-      <td class="add-info">DJ General Vileam</td>
-    </tr>
-    <tr class="info-tr">
-      <td colspan="3" w3-include-html="./add-general-vileam.html"></td>
     </tr>
     <tr class="empty-tr"></tr>
     <tr>
