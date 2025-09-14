@@ -22,7 +22,7 @@ summary: "6-7 December 2025"
 
 **Fast Compo Theme REVEAL**
 |:-:|:-:|:-|
-| 13:37 | {{< cl1 class="tt deadline" >}}EVENT{{</cl1>}} | {{< details summary="See Fast Compo details" >}}
+| 13:37 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="See Fast Compo details" >}}
 For 2025 the Fast Competition will be 'babanas and potatoes'
 multiline shenanigans
 

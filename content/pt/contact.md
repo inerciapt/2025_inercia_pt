@@ -9,7 +9,7 @@ Qualquer dúvida ou questão sobre o Festival pode ser esclarecida através do n
 
 Também estamos ativos no [canal de discord da demoscene portuguesa](https://discord.gg/a44cmgbQFh)
 
-## Previous Editions
+## Edições Anteriores
 {{< pastwebsites text="Páginas web das edições anteriores" >}}
 
 Podes encontrar os conteúdos disponíveis das edições anteriores do evento através da página no portal [Demozoo](https://demozoo.org/parties/series/244/).

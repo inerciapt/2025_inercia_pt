@@ -1,5 +1,5 @@
 ---
-title: "Registo"
+title: "Visitar"
 summary: "Anuncia a tua vinda"
 ---
 >

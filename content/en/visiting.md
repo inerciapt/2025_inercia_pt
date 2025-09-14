@@ -1,5 +1,5 @@
 ---
-title: "Register"
+title: "Visiting"
 summary: "Let us know you are coming"
 ---
 >

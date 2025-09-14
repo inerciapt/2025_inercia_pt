@@ -47,8 +47,8 @@ defaultContentLanguageInSubdir = true
 #      url = "/retrocorner/"
 #      weight = 60
     [[languages.pt.menu.main]]
-      name = "Registo"
-      url = "/pt/register/"
+      name = "Visitar"
+      url = "/pt/visiting/"
       weight = 70
     [[languages.pt.menu.main]]
       name = "Contacto"
@@ -86,8 +86,8 @@ defaultContentLanguageInSubdir = true
 #      url = "/retrocorner/"
 #      weight = 60
     [[languages.en.menu.main]]
-      name = "Register"
-      url = "/en/register/"
+      name = "Visiting"
+      url = "/en/visiting/"
       weight = 70
     [[languages.en.menu.main]]
       name = "Contact"
