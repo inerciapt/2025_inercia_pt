@@ -1,9 +1,8 @@
 ---
-title: "Visitantes"
+title: "Registo"
 summary: "Anuncia a tua vinda"
 ---
-
-## Registo
+>
 
 O local do evento tem capacidade limitada, o registo prévio da tua visita presencial ajuda-nos a planear melhor.
 

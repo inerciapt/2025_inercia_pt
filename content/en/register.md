@@ -2,8 +2,7 @@
 title: "Register"
 summary: "Let us know you are coming"
 ---
-
-## Registration
+>
 
 The venue has a limited attendance, early registration of your physical attendance helps us plan things better.
 

@@ -2,9 +2,7 @@
 title: "Sobre"
 summary: "Festival de Arte Digital e Música em Portugal"
 ---
-
-## Sobre Inércia
-
+>
 O festival da Inércia é organizado pela [Associação Inércia](https://inercia.pt), uma associação sem fins lucrativos dedicada à promoção da demoscene. A edição de 2025 será a 17ª do evento organizada pelos membros da Associação e a 5ª a ser realizada em Almada em particular.
 
 A Inércia 2025 terá lugar 6 e 7 de Dezembro de 2025 no Salão de Festas da Incrível Almadense, uma sala centenária no coração de Almada, do outro lado do rio de Lisboa.

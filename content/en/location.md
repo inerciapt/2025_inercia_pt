@@ -1,13 +1,13 @@
 ---
 title: "Location"
-summary: "Salão de Festas da Sociedade Filarmónica Incrível Almadense, in the heart Almada, just across the river from Lisbon"
+summary: "Salão de Festas da Sociedade Filarmónica Incrível Almadense, in the heart of Almada, just across the river from Lisbon"
 ---
-
+>
 Taking place at this mythical location, in the heart of Almada, with room for over 150 visitors.
 
 We will have the hall equipped with tables, chairs, lighting, Full HD projection and a suitably large sound system for the party. There is also a bar, catering facilities, sleeping area and backstage area.
 
-{{< figure src="/images/_DSC2349-1280.webp" title="Salão de Festas Incrível Almadense" caption="Source: Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
+{{< figure src="/images/_DSC2349.webp" title="Salão de Festas Incrível Almadense" caption="Source: Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
 
 
 ## About Almada

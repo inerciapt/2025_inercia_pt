@@ -2,9 +2,7 @@
 title: "About"
 summary: "Digital Arts Festival in Portugal"
 ---
-
-## About Inércia
-
+>
 Inércia is organized by [Associação Inércia](https://inercia.pt), a non profit organization dedicated to promoting the demoscene. 2025 will be the 17th edition of Inércia we organize and the fifth taking place in Almada.
 
 Inércia 2025 will take place on the 6th and 7th of December 2025 at Salão Festas Incrível Almadense, the centenary event hall in the heart of Almada, just across the river from Lisbon.
