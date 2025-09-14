@@ -14,7 +14,7 @@ sections:
       text: "Location & Travel"
       url: "./location/"
     image:
-      src: "/images/_DSC2349-1280.webp"
+      src: "/images/_DSC2349.webp"
       alt: "Photo of the Inércia Party hall"
       width: 1280
       height: 853
