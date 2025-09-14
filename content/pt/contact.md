@@ -5,7 +5,7 @@ summary: "Fala connosco"
 
 ## Contacto Geral
 
-Qualquer dúvida ou questão sobre o Festival pode ser esclarecida através do nosso {{< mailto email="info@inercia.pt" subject="Inércia 2025" >}} endereço electrónico {{</ mailto >}}.
+Qualquer dúvida ou questão sobre o Festival pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)
 
 Também estamos ativos no [canal de discord da demoscene portuguesa](https://discord.gg/a44cmgbQFh)
 
@@ -19,7 +19,8 @@ Podes encontrar os conteúdos disponíveis das edições anteriores do evento at
 
 O Festival é organizado através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
 
-O design gráfico desta página web foi emprestada e alterada da [NOVA demoparty](https://novaparty.org/) com permissão. 
+O design gráfico desta página web foi emprestado e alterado com permissão a partir de [NOVA demoparty](https://novaparty.org/).
+
 Adaptada e expandida em 2025 como um tema [Hugo](https://gohugo.io).
 
-O sistema de gestão da participação no evento que utilizamos é o [Partyman](https://www.partyman.cloud).
+O sistema de gestão das participações no evento que utilizamos é o [Partyman](https://www.partyman.cloud).

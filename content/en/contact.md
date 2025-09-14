@@ -5,7 +5,7 @@ summary: "Get in touch with us"
 
 ## General contact
 
-For any questions and enquiries regarding the festival you can reach us {{< mailto email="info@inercia.pt" subject="Inércia 2025" >}} through email {{</ mailto >}}.
+For any questions and enquiries regarding the festival you can reach us [through email](mailto:info@inercia.pt&subject=Inércia%202025).
 
 We are also active on the [portuguese scene discord](https://discord.gg/a44cmgbQFh).
 

@@ -94,8 +94,8 @@ defaultContentLanguageInSubdir = true
       url = "/en/contact/"
       weight = 80
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      unsafe = true
 
