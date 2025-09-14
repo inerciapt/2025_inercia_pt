@@ -2,9 +2,7 @@
 title: "Localização"
 summary: "Salão de Festas da Sociedade Filarmónica Incrível Almadense, no centro de Almada"
 ---
-
-## Sobre o Espaço
-
+>
 O evento irá decorrer no Salão de Festas Incrível Almadense, situada no centro de Almada velha, com espaço para 150 visitantes.
 
 Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção full HD e sistema de som adequado para mostrar ao mundo os teus trabalhos de arte digital.

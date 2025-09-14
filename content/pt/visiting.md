@@ -1,15 +1,14 @@
 ---
-title: "Visitantes"
+title: "Visitar"
 summary: "Anuncia a tua vinda"
 ---
-
-## Registo
+>
 
 O local do evento tem capacidade limitada, o registo prévio da tua visita presencial ajuda-nos a planear melhor.
 
 Não é necessário registares-te para participar remotamente.
 
-Podes-te registar através [deste formulário google](https://forms.gle/JaWHKEY1zUMBJxWp7) ou {{< mailto email="info@inercia.pt" subject="Inércia 2025 Registration" >}} enviando-nos um email {{</ mailto >}}.
+Podes-te registar através [deste formulário google](https://forms.gle/JaWHKEY1zUMBJxWp7) ou [enviando-nos um email](mailto:info@inercia.pt&subject=Inércia%202025).
 
 ## Visitantes
 

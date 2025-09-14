@@ -2860,3 +2860,61 @@ h3:hover .permalink {
 	height: auto;
 	display: block;
 }
+
+/***********
+ * TIMETABLE
+ ***********/
+.event {
+	background-color: rgb(200, 200, 100);
+}
+
+.seminar {
+	background-color: rgb(136, 187, 255);
+}
+
+.deadline {
+	background-color: rgb(246, 97, 97);
+}
+
+.show {
+	background-color: rgb(100, 200, 100);
+}
+
+.music {
+	background-color: rgb(208, 140, 169);
+}
+
+.performance {
+	background-color: rgb(255, 148, 66);
+}
+
+.djset {
+	background-color: rgb(68, 30, 255);
+}
+
+.compo {
+	background-color: rgb(100, 200, 100);
+	color: rgb(0, 0, 0);
+	padding: 5px;
+}
+
+.tt {
+	font-size: 75%;
+	padding: 0.25em 0.4em;
+	border-radius: 0.25rem;
+	color: rgb(0, 0, 0);
+}
+
+tr {
+	margin: 18px 0;
+}
+
+td {
+	padding-right: var(--gap);
+	padding-bottom: var(--gap);
+	vertical-align: top;
+}
+
+td h3 {
+	margin-top: var(--gap);
+}

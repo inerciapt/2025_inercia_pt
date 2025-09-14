@@ -1,0 +1,54 @@
+[
+	{
+		"date": "2024-12-05",
+		"time": "19:00",
+		"datetime": "2024-12-05T19:00:00",
+		"kind": "event",
+		"label": "REVEAL",
+		"title": "Online reveal of the theme for this years fast theme competition",
+		"addInfo": true,
+		"infoHtml": "<p>The theme of Inércia 2024 Fast Themed Compo is the 50th anniversary of the 25th April 1974 Revolution.</p><ul><li>make a demo that follows the theme</li><li>original content only</li></ul><p>Download the assets <a href=\"https://inercia.pt/files/inercia24-fastcompo.zip\">here</a>.</p>",
+		"anchor": true
+	},
+	{
+		"date": "2024-12-06",
+		"section": "📅 Friday · December 6th"
+	},
+	{
+		"date": "2024-12-06",
+		"time": "13:37",
+		"datetime": "2024-12-06T13:37:00",
+		"kind": "event",
+		"label": "EVENT",
+		"title": "Doors Open"
+	},
+	{
+		"date": "2024-12-06",
+		"time": "21:00",
+		"datetime": "2024-12-06T21:00:00",
+		"kind": "event",
+		"label": "EVENT",
+		"title": "Shader Royale Jam (with live music by <a href=\"https://soundcloud.com/varrho\">var.rho</a>)",
+		"addInfo": true,
+		"infoHtml": "<p><br><img src=\"../images/_DSC2420-1920.webp\"><br>Experience the world's largest simultaneous online shader programming event…</p>",
+		"anchor": true,
+		"id": "shaderjam"
+	},
+	{
+		"spacer": true
+	},
+	{
+		"section": "Afterparty @ Bar A Cerca"
+	},
+	{
+		"date": "2024-12-06",
+		"time": "23:00",
+		"datetime": "2024-12-06T23:00:00",
+		"kind": "djset",
+		"label": "DJ SET",
+		"title": "dojoe",
+		"addInfo": true,
+		"infoHtml": "<p><br><img src=\"../images/dojoe.webp\"><br>…</p>",
+		"anchor": true
+	}
+]

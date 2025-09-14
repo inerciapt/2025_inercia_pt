@@ -38,17 +38,17 @@ defaultContentLanguageInSubdir = true
       name = "Participar"
       url = "/pt/participate/"
       weight = 40
-#    [[languages.pt.menu.main]]
-#      name = "Programa"
-#      url = "/pt/schedule/"
-#      weight = 50
+    [[languages.pt.menu.main]]
+      name = "Programa"
+      url = "/pt/schedule/"
+      weight = 50
 #    [[languages.pt.menu.main]]
 #      name = "Retrocorner"
 #      url = "/retrocorner/"
 #      weight = 60
     [[languages.pt.menu.main]]
-      name = "Visitantes"
-      url = "/pt/visitors/"
+      name = "Visitar"
+      url = "/pt/visiting/"
       weight = 70
     [[languages.pt.menu.main]]
       name = "Contacto"
@@ -77,19 +77,25 @@ defaultContentLanguageInSubdir = true
       name = "Participate"
       url = "/en/participate/"
       weight = 40
-#    [[languages.en.menu.main]]
-#      name = "Schedule"
-#      url = "/en/schedule/"
-#      weight = 50
+    [[languages.en.menu.main]]
+      name = "Schedule"
+      url = "/en/schedule/"
+      weight = 50
 #    [[languages.en.menu.main]]
 #      name = "Retrocorner"
 #      url = "/retrocorner/"
 #      weight = 60
     [[languages.en.menu.main]]
-      name = "Visitors"
-      url = "/en/visitors/"
+      name = "Visiting"
+      url = "/en/visiting/"
       weight = 70
     [[languages.en.menu.main]]
       name = "Contact"
       url = "/en/contact/"
       weight = 80
+
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      unsafe = true
+
