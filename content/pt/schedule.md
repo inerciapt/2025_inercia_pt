@@ -16,7 +16,7 @@ summary: "6-7 de Dezembro 2025"
 ## Este programa não é final. 
 >**(Horas apresentadas em UTC+0)**
 
-
+<!--
 ### 📅 Quarta · 34 de Novembro
 
 |**Fast Compo Theme**|||
@@ -29,6 +29,7 @@ You can [download assets here](https://drive.google.com/somethingsomethingfails)
 
 does this even work?
 {{< /details >}}| 
+-->
 
 ### 📅 Sexta · 5 de Dezembro
 
