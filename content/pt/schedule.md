@@ -68,7 +68,7 @@ does this even work?
 | 19:00 | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria Workshop/Fast Theme|
 | 21:00 | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | Competição de Demos|
 | 22:00 | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | Narcisound|
-| 23:00 | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | EVENTOo de encerramento e entrega de prémios|
+| 23:00 | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Evento de encerramento e entrega de prémios|
 
 **Afterparty @ Bar A Cerca** 
 |:-:|:-:|:-|

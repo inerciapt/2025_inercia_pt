@@ -6,7 +6,7 @@ summary: "6-7 December 2025"
 # Notes for anyone editing:
 # !do not remove cl1 class shortcodes!
 # you can add multi line details summary, which will resemble '+info' from last year
-# without having to add extra HTML files (see fast compo example)
+# without having to add extra HTML files(see fast compo example)
 #
 # if you need something added changed, please ask me first
 #

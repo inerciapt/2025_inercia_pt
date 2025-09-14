@@ -40,3 +40,8 @@
   tier: "bronze"
   url: "https://joaquimpombal.blogspot.com/"
   logo: "images/svg/pombalceramics.svg"
+
+- name: "Assoc Hic Et Nunc"
+  tier: "bronze"
+  url: "https://www.instagram.com/assohicetnunc/"
+  logo: "images/svg/assohicetnunc.svg"
