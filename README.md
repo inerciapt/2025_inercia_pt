@@ -45,7 +45,7 @@ Ensure you have the following installed:
 3. Start the development server:
 
    ```bash
-   hugo server
+   hugo server --disableFastRender
    ```
 
 ## Contributing
