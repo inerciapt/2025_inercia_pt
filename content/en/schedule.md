@@ -17,7 +17,7 @@ summary: "6-7 December 2025"
 
 > **(Times are presented in UTC+0)**
 
-
+<!-- 
 ### 📅 Wednesday · November 34 
 
 **Fast Compo Theme REVEAL**
@@ -30,6 +30,7 @@ You can [download assets here](https://drive.google.com/somethingsomethingfails)
 
 does this even work?
 {{< /details >}}| 
+-->
 
 ### 📅 Friday · December 5 
 
