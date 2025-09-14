@@ -1,18 +1,28 @@
 ---
 title: "Schedule"
 summary: "6-7 December 2025"
+
+#
+# Notes for anyone editing:
+# !do not remove cl1 class shortcodes!
+# you can add multi line details summary, which will resemble '+info' from last year
+# without having to add extra HTML files (see fast compo example)
+#
+# if you need something added changed, please ask me first
+#
+
 ---
 
-> This schedule is not final.
+## This schedule isn't final.
 
-> **Times are presented in UTC+0**
+> **(Times are presented in UTC+0)**
 
 
 ### 📅 Wednesday · November 34 
 
-|**Fast Compo Theme**|||
-|:------:|:------:|:------|
-| 13:37 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | {{< details summary="See Fast Compo details" >}}
+**Fast Compo Theme REVEAL**
+|:-:|:-:|:-|
+| 13:37 | {{< cl1 class="tt deadline" >}}REVEAL{{</cl1>}} | {{< details summary="See Fast Compo details" >}}
 For 2025 the Fast Competition will be 'babanas and potatoes'
 multiline shenanigans
 
@@ -24,13 +34,13 @@ does this even work?
 ### 📅 Friday · December 5 
 
 **Preparty @ Bar A Cerca**
-|:------:|:------:|:------|
-| 23:00 | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | rc55| 
+|:-:|:-:|:-|
+| 23:00 | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | rc55 | 
 
 ### 📅 Saturday · December 6
 
 | | | |
-|:------:|:------:|:------|
+|:-:|:-:|:-|
 | 10:00 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors open| 
 | 11:00 | {{< cl1 class="tt show" >}}DEMOSHOW{{</cl1>}} | Curated screening of previously released demos |
 | 13:37 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony|
@@ -40,13 +50,13 @@ does this even work?
 | 22:00 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Open Music Improv Session|
 
 **Afterparty @ Bar A Cerca**
-|:------:|:------:|:------|
+|:-:|:-:|:-|
 | 23:00 | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | bacter |
 
 ### 📅 Sunday · December 7
 
 | | | |
-|:------:|:------:|:------|
+|:-:|:-:|:-|
 | 10:00 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Pancake Breakfast|
 | 11:00 | {{< cl1 class="tt deadline" >}}DEADLINE{{</cl1>}} | Deadline for submitting productions for showcases and competitions |
 | 11:00 | {{< cl1 class="tt show" >}}DEMOSHOW{{</cl1>}} | Curated screening of previously released demos|
@@ -62,11 +72,11 @@ does this even work?
 | 23:00 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Closing Ceremony and Prize Giving|
 
 **Afterparty @ Bar A Cerca** 
-|:------:|:------:|:------|
+|:-:|:-:|:-|
 | 23:00 | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Tina Stormcaller|
 
 ### 📅 Monday · December 8
 
 ||||
-|:------:|:------:|:------|
+|:-:|:-:|:-|
 | 10:00 | {{< cl1 class="tt event" >}}EVENT{{</cl1>}}| Doors reopen to clear out equipment|
