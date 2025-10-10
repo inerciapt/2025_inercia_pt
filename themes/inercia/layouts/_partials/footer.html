@@ -74,4 +74,12 @@
 	  margin: 0 auto;
 	}
   </style>
+  <script async defer src="{{ "/js/jtruk-timezoner.js" | urlize | relURL }}"></script>
+  <script defer>
+    window.onload = () => {
+      jtzrInit({
+        eventUTC: 0
+      });
+    }
+  </script>
 </footer>
