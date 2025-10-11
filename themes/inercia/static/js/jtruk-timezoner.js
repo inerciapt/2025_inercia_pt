@@ -1,13 +1,12 @@
-
 'use strict';
 
 // ============================================================
 // Timezoner - Easy timezone shifting for your website visitors 
-// JTRUK 2024. Demoparties and live events are very welcome to use this
+// JTRUK 2024-5. Demoparties and live events are very welcome to use this
 // Please drop me a line if you do!
 // Latest version, docs, contact:
 // https://github.com/creativenucleus/jtruk-timezoner.js
-// Update: 2024/05/24
+// Update: 2025/02/10
 
 const jtzrInit = (() => {
     // jtzr gets set by init...
@@ -53,24 +52,42 @@ const jtzrInit = (() => {
         return "UTC" + (offset < 0 ? offset : "+" + offset);
     }
 
+    // getTimezonePart converts our offset into "Z" / "-XXYY" / "+XXYY", suitable for the <time> element
+    const getTimezonePart = (offset) => {
+        if (offset == 0) {
+            return "Z";
+        }
+
+        const offsetAbs = Math.abs(offset);
+        return (offset < 0 ? "-" : "+")
+            + Math.trunc(offsetAbs).toString().padStart(2, '0')
+            + ((offsetAbs % 1) * 60).toString().padStart(2, '0')
+    }
 
     // setTimezone updates all the demarkated times to respect utcOffset
     const setTimezone = (utcOffset) => {
         const hourOffset = utcOffset - jtzr.eventTimezoneUTC;
         const localUTCString = getTimezoneLegend(utcOffset);
         const eventUTCString = getTimezoneLegend(jtzr.eventTimezoneUTC);
-        document.querySelectorAll(".jtzr-time").forEach((el) => {
-            const datetime = el.getAttribute("data-jtzr-datetime");
+        document.querySelectorAll("time").forEach((el) => {
+            const datetime = el.getAttribute("datetime");
             if (!datetime) {
                 return;
             }
 
-            const match = datetime.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})$/);
+            const match = datetime.match(/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})/);   // NB ignoring timezone
             if (!match) {
                 return;
             }
 
-            // Add the utcOffset to the time, as minutes (to cope with x.5 and x.75 offsets)
+            // Our anchor date has been sourced from the nearest date marker above this time (or overridden in the time element itself)
+            const anchorDate = el.getAttribute("data-jtzr-anchor-date");
+            if (!anchorDate) {
+                return;
+            }
+            const anchorDateTime = new Date(anchorDate);
+
+            // Add the utcOffset to the time. This is done in minutes (to cope with x.5 and x.75 offsets)
             const localTimeInMinutes = (Number(match[4]) + hourOffset) * 60 + Number(match[5]);
             // Wrap the minutes around 24 hours (add 1440 to prevent negative numbers)
             const localTimeInMinutesWrapped = (1440 + (Number(match[4]) + hourOffset) * 60 + Number(match[5])) % 1440;
@@ -80,14 +97,13 @@ const jtzrInit = (() => {
 
             // JS Date() is not great, so we'll just use it to see if the time has overflowed to the previous or next day...
             const eventDateTime = new Date(Date.UTC(match[1], match[2] - 1, match[3], 0, 0, 0));
-            const eventIDayOfWeek = eventDateTime.getDay();
             const daysDiff = Math.floor(localTimeInMinutes / 1440);
             const localIDayOfWeek = (7 + eventDateTime.getDay() + daysDiff) % 7;
-
+ 
             // Receive a formatted time string...
             jtzr.fnTimeFormatter(el, {
                 localIDayOfWeek: localIDayOfWeek, localHour: localHour, localMinute: localMinute, localUTCString: localUTCString,
-                eventIDayOfWeek: eventIDayOfWeek, eventUTCstring: eventUTCString
+                eventIDayOfWeek: anchorDateTime.getDay(), eventUTCstring: eventUTCString
             })
         });
     }
@@ -118,26 +134,27 @@ const jtzrInit = (() => {
     }
 
 
-    // prepareDatetimes takes our '.jtzr-time' objects and sets 'data-jtzr-datetime' attributes using the date from the nearest '.jtzr-date' attribute.
+    // prepareDatetimes discovers our <time> elements, setting `datetime` and `data-jtzr-anchor-date` attributes, anchoring the date
+    // to the one supplied in the nearest time element above it with a `jtzr-anchor-date` class
     const prepareDatetimes = () => {
-        datesPopulateUpwards();
-        timesGrabDates();
+        populateTempDateAnchors();
+        populateTimeAttributes();
         clearTempAttributes();
     }
 
 
     // Send date attributes up the DOM tree - populate the parents of each element above our date markers with some temporary values...
-    const datesPopulateUpwards = () => {
-        [...document.querySelectorAll("[data-jtzr-date]")].reverse().forEach((el) => {
-            const date = el.getAttribute("data-jtzr-date");
+    const populateTempDateAnchors = () => {
+        [...document.querySelectorAll("time.jtzr-anchor-date")].reverse().forEach((el) => {
+            const date = el.getAttribute("datetime");
             if (!date) {
-                console.warn(".jtzr-date element should have [data-date] set");
+                console.warn("time.jtzr-anchor-date element should have [datetime] set");
                 return;
             }
 
             // Basic regex for sanity, but we won't bother checking the date is a real one
             if (!date.match(/^\d{4}-\d{2}-\d{2}$/)) {
-                console.warn(".jtzr-date [data-jtzr-date] attribute should be in the format 'YYYY-MM-DD'");
+                console.warn("time.jtzr-anchor-date element [datetime] attribute should be in the format 'YYYY-MM-DD'");
                 return;
             }
 
@@ -145,18 +162,18 @@ const jtzrInit = (() => {
             let elParent = el;
             while(elParent = elParent.parentNode) {
                 if(elParent.setAttribute) { // Set an attribute on this element if we are permitted...
-                    elParent.setAttribute("data-jtzr-temp-date", date);
+                    elParent.setAttribute("data-jtzr-temp-anchor-date", date);
                 }
             }
         });
     }
 
 
-    // Read temporary date values and mix them in to make the `datetime` attributes we need for the time shifting
-    const timesGrabDates = () => {  
-        const dateFindInSelfOrPrevSibling = (el) => {
+    // Read temporary anchor date values and mix them in to make the `datetime` attributes we need for the time shifting
+    const populateTimeAttributes = () => {  
+        const anchorDateFindInSelfOrPrevSibling = (el) => {
             do {
-                const date = el.getAttribute("data-jtzr-temp-date");
+                const date = el.getAttribute("data-jtzr-temp-anchor-date");
                 if(date) {
                     return date;
                 }    
@@ -164,40 +181,50 @@ const jtzrInit = (() => {
             return null;    // Not found
         }
 
-        const dateFind = (el) => {
+        const anchorDateFind = (el) => {
             do {
-                const date = dateFindInSelfOrPrevSibling(el);
+                const date = anchorDateFindInSelfOrPrevSibling(el);
                 if(date) {
                     return date;
                 }
-            } while(el = el.parentNode)
+            } while((el = el.parentNode) && (el != document.body))  // Stop before we hit the top
         
             return null;
         }
         
-        document.querySelectorAll(".jtzr-time").forEach((el) => {
+        document.querySelectorAll("time:not(.jtzr-anchor-date)").forEach((el) => {
             const timeContent = el.textContent;
             const timeMatch = timeContent.match(/(\d{1,2})[\.:](\d{2})/);
             if (!timeMatch) {
-                console.warn(`jtzr-time does not match a time format [${timeContent}]`)
+                console.warn(`time element does not match a time format [${timeContent}]`)
                 return;
             }
 
-            const date = dateFind(el);
-            if(!date) {
-                console.warn("Could not find date for time");
+            let anchorDate = anchorDateFind(el);
+            if(!anchorDate) {
+                console.error(`Could not find anchor date for time ${timeContent}`);
                 return;
             }
+            
+            // Check if our element has a date override
+            let date = anchorDate;
+            const dateOverride = el.getAttribute("datetime");
+            if (dateOverride) {
+                date = dateOverride;
+            }
 
-            el.setAttribute("data-jtzr-datetime", `${date}T${timeMatch[1].padStart(2, '0')}:${timeMatch[2].padStart(2, '0')}:00`);
+            const timezonePart = getTimezonePart(jtzr.eventTimezoneUTC)
+
+            el.setAttribute("datetime", `${date}T${timeMatch[1].padStart(2, '0')}:${timeMatch[2].padStart(2, '0')}:00${timezonePart}`);
+            el.setAttribute("data-jtzr-anchor-date", anchorDate);
         });
     }
 
 
     // Clear up our temporary attributes...
     const clearTempAttributes = () => {
-        document.querySelectorAll("[data-jtzr-temp-date]").forEach((el) => {
-            el.removeAttribute("data-jtzr-temp-date");
+        document.querySelectorAll("[data-jtzr-temp-anchor-date]").forEach((el) => {
+            el.removeAttribute("data-jtzr-temp-anchor-date");
         });
     }
 
@@ -209,6 +236,8 @@ const jtzrInit = (() => {
 
         prepareDatetimes();
         makeTimezoneUI();
+        // Run the selector, so that any <time>s that differ from their anchor date get decorated e.g. "(on [day])" appended.
+        document.jtzrSelectUpdated();
     }
 
     return init;
