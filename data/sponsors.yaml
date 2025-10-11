@@ -30,10 +30,10 @@
   url: "https://linktr.ee/baracerca"
   logo: "images/svg/baracerca.svg"
 
-- name: "Enough Records"
+- name: "Arte & Impacto"
   tier: "silver"
-  url: "https://enoughrecords.scene.org/"
-  logo: "images/svg/enough.svg"
+  url: "https://www.arteeimpacto.com/"
+  logo: "images/svg/arteeimpacto.svg"
 
 # ---------------------- Bronze
 - name: "Pombal Ceramics"
@@ -45,3 +45,8 @@
   tier: "bronze"
   url: "https://www.instagram.com/assohicetnunc/"
   logo: "images/svg/assohicetnunc.svg"
+
+- name: "Enough Records"
+  tier: "bronze"
+  url: "https://enoughrecords.scene.org/"
+  logo: "images/svg/enough.svg"
