@@ -42,13 +42,13 @@ does this even work?
 
 | | | |
 |:-:|:-:|:-|
-| {{<jtzr-time>}}10:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors open| 
+| {{< jtzr-time >}}10:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Doors open | 
 | {{< jtzr-time >}}11:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}DEMOSHOW{{</cl1>}} | Curated screening of previously released demos |
-| {{< jtzr-time >}}13:37{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony|
+| {{< jtzr-time >}}13:37{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Opening Ceremony |
 | {{< jtzr-time >}}16:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Lightning Talks by the audience on all things related to digital art|
 | {{< jtzr-time >}}18:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Shader Royale Jam (with live music TBA) |
-| {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | Live stage performance TBA |
-| {{< jtzr-time >}}22:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Open Music Improv Session|
+| {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | WAKE |
+| {{< jtzr-time >}}22:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Open Music Improv Jam Session |
 
 **Afterparty @ Bar A Cerca**
 |:-:|:-:|:-|
@@ -69,7 +69,7 @@ does this even work?
 | {{< jtzr-time >}}18:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Size Coding Showcase|
 | {{< jtzr-time >}}19:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Workshop / Fast Theme Showcase|
 | {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt compo" >}}COMPETITION{{</cl1>}} | Screening of the Combined Demo competition|
-| {{< jtzr-time >}}22:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | Narcisound|
+| {{< jtzr-time >}}22:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | TBA|
 | {{< jtzr-time >}}23:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Closing Ceremony and Prize Giving|
 
 **Afterparty @ Bar A Cerca** 
