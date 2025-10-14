@@ -76,7 +76,7 @@ does this even work?
 |:-:|:-:|:-|
 | {{< jtzr-time >}}23:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Tina Stormcaller|
 
-### 📅 {{< jtzr-anchor-date datetime="2025-12-08" >}}Monday · December 8{{< /jtzr-anchor-date >}}
+### 📅 {{< jtzr-anchor-date datetime="2025-12-08" >}}Monday · December 8 (national holiday){{< /jtzr-anchor-date >}}
 
 ||||
 |:-:|:-:|:-|
