@@ -24,6 +24,28 @@ sections:
     imageFirst: true
     padding_top_zero: false
 
+  - overline: "Theme"
+    title: "Bridges"
+    content: |
+      The theme for Inércia 2025 is bridges. Those small and large systems carefully engineered to bring and maintain connectivity.
+
+      Technological bridges, cultural bridges, circuit board bridges, real size bridges, we have a pretty iconic bridge here in Almada that you can also reference if you'd like. Get inspired by bridges and show us what you came up with.
+
+      It's not mandatory to follow this year's theme but you get extra karma points if you do.
+    button:
+      text: "Participate!"
+      url: "./participate/"
+    image:
+      src: "/images/inercia_2025_pontes.png"
+      alt: "Inércia 2025 by harvest"
+      width: 1280
+      height: 1024
+      ratio: "3/2"
+      attribution: "Inércia 2025 by harvest"
+
+    imageFirst: true
+    padding_top_zero: true
+
   - overline: "Participate!"
     title: "Competitions & Showcases"
     content: |
@@ -95,3 +117,5 @@ sections:
     imageFirst: true
     padding_top_zero: true
 ---
+
+{{< youtube kRxPyPyCyxE >}}

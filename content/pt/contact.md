@@ -17,7 +17,7 @@ Podes encontrar os conteúdos disponíveis das edições anteriores do evento at
 
 ## Créditos Adicionais
 
-O Festival é organizado através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
+A Inércia 2025 é organizada através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
 
 O design gráfico desta página web foi emprestado e alterado com permissão a partir de [NOVA demoparty](https://novaparty.org/).
 

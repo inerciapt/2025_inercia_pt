@@ -9,10 +9,13 @@ A Inércia 2025 terá lugar 6 e 7 de Dezembro de 2025 no Salão de Festas da Inc
 
 Este salão mítico oferece-nos espaço para até 150 visitantes (incluindo lugares dedicados em mesas com assentos confortáveis para até 50 pessoas). O evento decorre de sábado a domingo, durante o qual haverá muitas oportunidades para apresentares o teu trabalho e conviver com outros artistas, demosceners e criadores.
 
+## Video convite para a Inércia 2025:
+
+{{< youtube kRxPyPyCyxE >}}
+
 ## Video reportagem da Inércia 2024:
 
 {{< youtube kG94qxRUF7k >}}
-
 
 ## Sobre a Demoscene
 

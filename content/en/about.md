@@ -9,10 +9,13 @@ Inércia 2025 will take place on the 6th and 7th of December 2025 at Salão Fest
 
 This mythical hall provides us with room for up to 150 visitors (including dedicated table spots with comfortable seating for up to 50 people). The event runs from Friday afternoon until Sunday morning, during which there will be plenty of opportunity to present your work and socialize with other artists, demosceners and hardware tinkerers.
 
+## Invitation video of Inércia 2025:
+
+{{< youtube kRxPyPyCyxE >}}
+
 ## Video report of Inércia 2024:
 
 {{< youtube kG94qxRUF7k >}}
-
 
 ## About the Demoscene
 
@@ -28,9 +31,9 @@ Inércia is a demoparty, but also embraces other digital art cultures, hence bei
 
 Free entrance to our volunteer organizers or associates of [Associação Inércia](https://inercia.pt) or [SFIA](https://incrivelalmadense.pt) with their yearly quotas paid.
 
-10€ entrance fee to other attendants.
+10€ entrance fee to other attendants (5€ each day).
 
-Due to venue capacity limitations we will have a pre-registering system requirement, will be online in September.
+Due to venue capacity limitations we have a pre-registration system requirement, you can read more about it at [this other page](./visiting/).
 
 ## Rules of Conduct
 

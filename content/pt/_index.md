@@ -107,6 +107,7 @@ sections:
       url: "./visitors/"
     content: |
       Fica atento às diversas apresentações, instalações, mesas redondas e workshops que irão decorrer durante o evento. Cobrindo uma diversidade de tópicos ligados à demoscene, movimento maker, fabricação digital e os vários tipos de arte digital. Gostarias de apresentar algo? Entra em contacto, diz-nos o que tens em mente para tentarmos encaixar no nosso hórario.
+
     image:
       src: "/images/_DSC2500-1920.webp"
       alt: "Seminários e Instalações"

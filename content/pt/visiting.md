@@ -22,4 +22,4 @@ Entrada gratuita para crianças até 13 anos, desde que acompanhadas por um adul
 
 Custo de entrada €5 por dia.
 
-Queres apoiar a realização do evento? Temos um bilhete especial com custo de entrada 100€ para apoiantes do evento, inclui vário merchandise da Inércia e aquele sentimento fofo de estar a apoiar a organização deste e futuros eventos da Associação Inércia.
+Queres apoiar a realização do evento? Temos um bilhete especial com custo de entrada 100€ para apoiantes do evento, inclui vário merchandise da Inércia e aquele sentimento fofo de estar a apoiar a organização deste e futuros eventos organizados pela Associação Inércia.

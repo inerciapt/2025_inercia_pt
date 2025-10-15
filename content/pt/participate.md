@@ -41,7 +41,6 @@ Todas as produções submetidas ao sistema serão posteriormente distribuídas p
 
 A organização reserva o direito de poder não selecionar o teu trabalho, por qualquer motivo que considere adequado. Tipicamente só é aplicado no caso de produções consideradas inapropriadamente ofensivas, imorais ou ilegais de acordo com a lei portuguesa.
 
-
 ## Competição de Demos
 
 O evento principal da Inércia 2025 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
@@ -106,8 +105,7 @@ Esta regra tem alguma flexibilidade para facilitar colaborações mas não é pa
 
 ## Mostra de Gráficos
 
-Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2025.
-Estamos à procura de obras dos seguintes tipos:
+Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2025. Estamos à procura de obras dos seguintes tipos:
 
  * Arte com texto, usando ASCII, ANSI, PETSCII, ATASCII, TELETEXT, etc
  * Pixel art, palette e resolução de canvas limitados, usando standards de máquinas retro ou fantasy consoles
@@ -148,7 +146,7 @@ Estamos à procura de músicas dos seguintes tipos:
  * Música ao Vivo, beatboxing, cantar, rap improvisado, instrumentos de palco
  * Outros
 
-📤Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato estranho que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
+📤 Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato estranho que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
 
 Máximo uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
@@ -159,7 +157,6 @@ Aceitamos músicas de qualquer género mas levas pontos de karma se forem ambien
     img2="/images/arkos.webp" alt2="Starchild by Ash" caption2="'Starchild' by Ash (Arkos Tracker)"
     img3="/images/vortex_tracker.webp" alt3="Cesare: The Somnambule by Jumperror" caption3="'Cesare: The Somnambule' by Jumperror (Vortex Tracker)"
 >}}
-
 
 ## Mostra de genAI
 
@@ -175,7 +172,7 @@ Estamos à procura de produções dos seguintes tipos:
  * Demos ou jogos geradas por AI
  * Outros
 
-📤Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
+📤 Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
 Máximo uma produção por participante, escolhe bem o que queres apresentar.
 
@@ -204,7 +201,7 @@ Estamos à procura de produções dos seguintes tipos:
  * Demos em badges eletrónicos
  * Outros
 
-📤Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
+📤 Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
 Máximo uma produção por participante, escolhe bem o que queres apresentar.
 
@@ -220,11 +217,11 @@ Temos um novo formato de participação este ano, com vista a incentivar a apres
 
 Apresenta em 15 minutos algo interessante sobre o teu processo de criação de arte digital!
 
-Pode ser algo desenvolvido por ti ou algo que tenhas andado a explorar recentemente e que aches interessante. Pode ser uma ferramenta, uma produção, uma metodologia de trabalho, uma fonte de inspiração, um projecto em que tens estado a trabalho. Sê criativo, mostra o que tens feito e inspira os outros visitantes. Desde que seja relacionado com a arte digital é bem vindo.
+Pode ser algo desenvolvido por ti ou algo que tenhas andado a explorar recentemente e que aches interessante. Pode ser uma ferramenta, uma produção, uma metodologia de trabalho, uma fonte de inspiração, um projecto em que tens estado a trabalho. Sê criativo, mostra o que tens feito e inspira os outros visitantes. Desde que seja relacionado com a arte digital e computadores, é bem vindo.
 
 Tens uma ideia mas dúvidas sobre se fará sentido apresentar na Inércia? Contacta-nos no discord para medir o interesse da comunidade que estará presente no evento.
 
-📤Carrega um zip com os slides / video / informação da tua apresentação.
+📤 Carrega um zip com os slides / video / informação da tua apresentação.
 
 ## Shader Royale
 
