@@ -28,9 +28,9 @@ A Inércia na sua raiz é uma demoparty mas também convida outras culturas liga
 
 Entrada gratuita para associados da [Associação Inércia](https://inercia.pt) ou [SFIA](https://incrivelalmadense.pt) com as quotas anuais pagas.
 
-10€ para restantes interessados.
+10€ para restantes interessados (5€ cada dia).
 
-Devido a limitações de capacidade, teremos um sistema de pré-inscrição a abrir em Setembro.
+Devido às limitações de capacidade, temos um sistema de pré-inscrição. Mais informações [nesta página](./visiting/).
 
 ## Regras de Conduta
 

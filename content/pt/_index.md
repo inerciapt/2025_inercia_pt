@@ -24,15 +24,37 @@ sections:
     imageFirst: true
     padding_top_zero: false
 
+  - overline: "Tema"
+    title: "Pontes"
+    content: |
+      O tema para a edição de 2025 da Inércia são as pontes. Esses pequenos e grandes sistemas cuidadosamente criados para fomentar e manter a conectividade.
+
+      Pontes tecnológicas, pontes culturais, pontes em circuitos, pontes em tamanho real, temos uma bastante icónica aqui em Almada que podem referenciar se quiserem. Inspirem-se nas pontes e mostrem-nos onde chegaram.
+
+      Não é obrigatório seguirem o tema deste ano, mas ganham pontos de karma se o fizerem.
+    button:
+      text: "Participa"
+      url: "./participate/"
+    image:
+      src: "/images/inercia_2025_pontes.png"
+      alt: "Inércia 2025 by harvest"
+      width: 1280
+      height: 1024
+      ratio: "3/2"
+      attribution: "Inércia 2025 by harvest"
+
+    imageFirst: true
+    padding_top_zero: true
+
   - overline: "Participa"
     title: "Mostras & Competições"
     content: |
-      Crias arte com computadores? Queremos que a venhas apresentar ao público na Inércia! Temos vários modos de participação:
+      Crias arte com computadores? Queremos a apresentes ao público na Inércia! Temos várias categorias para participares:
 
       * Competição de Demos, o formato clássico da demoscene onde o voto do público determina o vencedor.
-      * Mostras de música e gráficos, um novo formato para mostrares os teus trabalho originais sem vencedores nem vencidos.
+      * Mostras de música e gráficos, para mostrares os teus trabalhos originais sem vencedores nem vencidos.
       * Apresentações Relâmpago, apresentações de 15 minutos sobre algum tema ou projecto relacionado com a criação de arte digital.
-      * Sessões de programação gráfica e jam musical ao vivo, diverte-te a explorar as possibilidades da criação conjunta.
+      * Sessões de programação de gráficos ao vivo e jam musical conjunta.
       * Seminários e instalações, estamos abertos a acolher as tuas propostas, envia-nos um email.
     button:
       text: "Participa"
@@ -51,7 +73,7 @@ sections:
   - overline: "Explora"
     title: "Retro Corner"
     content: |
-      Explora o nosso Retro Corner, um canto no evento repleto de computadores e consolas vintage onde podes aprender mais sobre as máquinas que tiveste (ou nunca tiveste) quando eras mais pequeno. Aprende um bocado mais sobre os limites de cada uma delas, vê demonstrações do que elas são capazes, aproveita para jogar alguns jogos e falar com pessoas que te conseguem ajudar a restaurar as máquinas antigas que possas ter guardadas na arrecadação.
+      Explora o Retro Corner, um canto repleto de computadores e consolas vintage onde podes aprender mais sobre as máquinas que tiveste (ou que nunca tiveste mas gostarias de ter tido). Aprende mais sobre os limites delas, vê demonstrações do que elas são capazes, aproveita para jogar alguns jogos e falar com pessoas que te conseguem ajudar a restaurar algumas das máquinas antigas que possas ter guardadas na arrecadação.
     image:
       src: "/images/_DSC2571-1920.webp"
       alt: "Retro Corner"
@@ -84,7 +106,7 @@ sections:
       text: "Regista-te"
       url: "./visitors/"
     content: |
-      Fica atento às diversas apresentações, instalações, mesas redondas e workshops que estamos a organizar durante o evento. Cobrindo uma diversidade de tópicos ligados à demoscene, movimento maker, fabricação digital e os vários tipos de arte digital. Gostarias de apresentar algo? Entra em contacto, diz-nos o que tens em mente para tentarmos encaixar no nosso hórario.
+      Fica atento às diversas apresentações, instalações, mesas redondas e workshops que irão decorrer durante o evento. Cobrindo uma diversidade de tópicos ligados à demoscene, movimento maker, fabricação digital e os vários tipos de arte digital. Gostarias de apresentar algo? Entra em contacto, diz-nos o que tens em mente para tentarmos encaixar no nosso hórario.
     image:
       src: "/images/_DSC2500-1920.webp"
       alt: "Seminários e Instalações"
@@ -96,3 +118,5 @@ sections:
     imageFirst: true
     padding_top_zero: true
 ---
+
+{{< youtube kRxPyPyCyxE >}}

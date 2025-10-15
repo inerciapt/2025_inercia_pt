@@ -1,14 +1,12 @@
 ---
 title: "Visitar"
-summary: "Anuncia a tua vinda"
+summary: "Anuncia a tua presença"
 ---
 >
 
-O local do evento tem capacidade limitada, o registo prévio da tua visita presencial ajuda-nos a planear melhor.
-
 Não é necessário registares-te para participar remotamente.
 
-Podes-te registar através [deste formulário google](https://forms.gle/JaWHKEY1zUMBJxWp7) ou [enviando-nos um email](mailto:info@inercia.pt&subject=Inércia%202025).
+O local do evento tem capacidade limitada, o registo prévio da tua visita presencial ajuda-nos a planear melhor. Podes-te registar para a visita presencial através [deste formulário google](https://forms.gle/JaWHKEY1zUMBJxWp7) ou [enviando-nos um email](mailto:info@inercia.pt&subject=Inércia%202025).
 
 ## Visitantes
 
@@ -23,3 +21,5 @@ Entrada gratuita para os nossos organizadores voluntários e membros da Associa�
 Entrada gratuita para crianças até 13 anos, desde que acompanhadas por um adulto responsável.
 
 Custo de entrada €5 por dia.
+
+Queres apoiar a realização do evento? Temos um bilhete especial com custo de entrada 100€ para apoiantes do evento, inclui vário merchandise da Inércia e aquele sentimento fofo de estar a apoiar a organização deste e futuros eventos da Associação Inércia.

@@ -5,18 +5,16 @@ summary: "Veterano? Novo na demoscene?! Vem mostrar a tua arte!"
 
 ## Mostras e Competições
 
-Crias arte com computadores? Queremos ver-te a apresentá-la ao público na Inércia! Existem várias formas de o fazer, dependendo do tipo de arte que queres exibir e se te sentes confortável com o escrutínio público. Consulta estas categorias para ver qual se adapta melhor à tua produção.
+Crias arte com computadores? Queremos que a apresentes na Inércia! Existem várias categorias em que podes participar para o fazer, dependendo do tipo de arte que queres exibir. Consulta a seguinte lista para determinar qual se adapta melhor aos teus talentos:
 
- * Competição de Demos
- * Mostra de Size Coding
- * Mostra de Gráficos
- * Mostra de Música
- * Mostra de AI
- * Mostra Wild
- * Apresentações Relâmpago
- * Live Coding
-
-Além disso, toma o teu tempo para te familiarizares com as nossas regras.
+ * [Competição de Demos](#competição-de-demos)
+ * [Mostra de Size Coding](#mostra-de-size-coding)
+ * [Mostra de Gráficos](#mostra-de-gráficos)
+ * [Mostra de Música](#mostra-de-música)
+ * [Mostra de genAI](#mostra-de-genai)
+ * [Mostra Wild](#mostra-wild)
+ * [Apresentações Relâmpago](#apresentações-relâmpago)
+ * [Shader Royale](#shader-royale)
 
 ## Regras Gerais
 
@@ -28,30 +26,28 @@ Seguindo os desenvolvimentos da tecnologia recente dos modelos de inteligência 
 
 ### Especificações do Computador de Competição
 
-Sistema Operativo : Windows 10 (com as mais recentes atualizações)
-Chipset : Z790
-CPU : Intel 13600K (14C/20T)
-RAM : 32GB DDR5-6400MHz
-GFX : RTX3080Ti 12GB GDDR6X
-Armazenamento : NVME Gen4
+Sistema Operativo : Windows 11 (com as mais recentes atualizações)
+CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
+RAM : 2x 32GB DDR4-3200
+GFX : RTX3060Ti 8GB GDDR6X
 
-Se a tua produção se destinar a outra plataforma, fornece também uma gravação vídeo da mesma. Se não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir como captar o seu sinal com uma qualidade aceitável.
+Se a tua produção correr noutra plataforma, por favor fornece-nos também uma gravação vídeo da mesma a executar. Se tal não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir a melhor maneira de captarmos o video com qualidade aceitável.
 
 ### Licenças de Produções
 
-Todas as produções inscritas serão distribuídas gratuitamente para descarregamento na Internet após o evento. Ao carregares a tua produção para o nosso sistema, estás a concordar com esta distribuição. Os direitos de autor continuam a ser teus, claro, e és livre de escolher a licença que o teu trabalho utiliza, se preferires outra que não a Creative Commons BY-NC-SA que aplicamos por defeito. Mas, por favor, toma nota que a tua produção será arquivada e tornada pública. Poderemos também usar o teu trabalho para promover futuras edições do Inércia. Por favor, apenas submete a tua produção se estiveres de acordo com isto.
+Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por defeito distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada públicament com uma licença creative commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Inércia.
 
 ### Declaração de Exoneração de Responsabilidade
 
-A organização reserva-se o direito de não selecionar o teu trabalho por qualquer motivo que considere adequado, o que será aplicado no caso de produções consideradas inapropriadamente ofensivas, imorais ou ilegais de acordo com a lei portuguesa.
+A organização reserva o direito de poder não selecionar o teu trabalho, por qualquer motivo que considere adequado. Tipicamente só é aplicado no caso de produções consideradas inapropriadamente ofensivas, imorais ou ilegais de acordo com a lei portuguesa.
 
 
 ## Competição de Demos
 
-Honrando as nossas origens na Demoscene, temos como evento principal da Inércia uma Competição de Demos!
-É uma competição para produções executáveis em tempo real, que corram em qualquer plataforma computacional, feitas exclusivamente para esta edição da Inércia.
+O evento principal da Inércia 2025 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
+Uma competição para produções executáveis que correm em tempo real, para qualquer plataforma computacional, desde que tenham sido feitas exclusivamente para ser mostradas nesta edição da Inércia.
 
-📤 Carrega um arquivo zip com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição do conteúdo, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, inclui também um video da produção.
+📤 Carrega um arquivo zip com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição do conteúdo, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum, ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
 O vencedor será determinado por votação do público.
 
@@ -95,10 +91,9 @@ O vencedor será determinado por votação do público.
 --->
 ## Mostra de Size Coding
 
-Teremos uma mostra dedicada a qualquer tipo de produções de size coding/bootblock feitas exclusivamente para a Inércia 2024!
-Estamos à procura de participações em qualquer plataforma cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
+Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http://www.sizecoding.org/wiki/Main_Page) e bootblocks, criadas exclusivamente para a Inércia 2025! Estamos à procura de participações para qualquer plataforma, cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
 
-📤 Carrega um zip com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, inclui também um video da produção.
+📤 Carrega um zip com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
 Máximo de duas produções por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
@@ -111,8 +106,8 @@ Esta regra tem alguma flexibilidade para facilitar colaborações mas não é pa
 
 ## Mostra de Gráficos
 
-Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2024.
-Estamos à procura de produções dos seguintes tipos:
+Esta mostra é dedicada a produções gráficas feitas exclusivamente para a Inércia 2025.
+Estamos à procura de obras dos seguintes tipos:
 
  * Arte com texto, usando ASCII, ANSI, PETSCII, ATASCII, TELETEXT, etc
  * Pixel art, palette e resolução de canvas limitados, usando standards de máquinas retro ou fantasy consoles
@@ -127,7 +122,7 @@ Estamos à procura de produções dos seguintes tipos:
  * GIF Animado, curtos e em loop
  * Outros
 
-📤 Carrega um zip com a tua produção: deverá conter a produção em si, um PNG se for um formato extranho que possa ser mostrado incorretamente, 3-4 passos intermédios do processo e um ficheiro textual com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para ver a produção caso seja necessário um visualizador especial ou algumas definições específicas.
+📤 Carrega um zip com a tua produção: deverá conter a produção em si, um PNG se for um formato extranho que possa ser mostrado incorretamente, 3 a 4 passos intermédios do processo e um ficheiro textual com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para ver a produção caso seja necessário um visualizador especial ou algumas definições específicas.
 
 Máximo de uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
@@ -153,13 +148,11 @@ Estamos à procura de músicas dos seguintes tipos:
  * Música ao Vivo, beatboxing, cantar, rap improvisado, instrumentos de palco
  * Outros
 
-Pontos bónus se forem ambient drone ou jazz.
-
 📤Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato estranho que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
 
 Máximo uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
-Aceitamos músicas de qualquer género.
+Aceitamos músicas de qualquer género mas levas pontos de karma se forem ambient drone ou jazz.
 
 {{< threeimages
     img1="/images/pretracker.webp" alt1="A Moment of Inercia by JosSs" caption1="'A Moment of Inercia' by JosSs (Pretracker)"
@@ -168,10 +161,9 @@ Aceitamos músicas de qualquer género.
 >}}
 
 
-## Mostra de AI
+## Mostra de genAI
 
-Usaste elementos de AI generativa no teu processo criativo? Esta mostra é para ti.
-Todas as produções são aceites desde que não tenham sido apresentadas publicamente no passado. A produção será mostrada por um máximo de 5 minutos.
+Usaste elementos de inteligência artificial generativa (genAI) no teu processo criativo? Esta mostra é para ti! Todas as produções são aceites desde que não tenham sido apresentadas publicamente no passado. No caso de videos ou música a produção será mostrada por um máximo de 5 minutos.
 Estamos à procura de produções dos seguintes tipos:
 
  * Imagens AI, gerada por prompts textuais, transferência de estilos ou qualquer outra combinação de metódos
@@ -187,6 +179,12 @@ Estamos à procura de produções dos seguintes tipos:
 
 Máximo uma produção por participante, escolhe bem o que queres apresentar.
 
+{{< threeimages
+    img1="/images/hiking.png" alt1="'Hiking Home for Christmas' by Critikill" caption1="'Hiking Home for Christmas' by Critikill"
+    img2="/images/death_cursor.png" alt2="'The Death of the Cursor' by Bus Error Collective" caption2="'The Death of the Cursor' by Bus Error Collective"
+    img3="/images/inercia_2023_ai.jpg" alt3="'Ballet of Transformation - Inercia 2023' by Paulo Falcão" caption3="'Ballet of Transformation - Inercia 2023' by Paulo Falcão"
+>}}
+
 ## Mostra Wild
 
 Se a tua produção não encaixa em qualquer das outras categorias, esta mostra é para ti.
@@ -196,13 +194,8 @@ Estamos à procura de produções dos seguintes tipos:
  * Vídeos Editados
  * Animações
  * Trailers / Reels
- * Perfomances ao Vivo
- * Mostra de uma nova demotool
- * Mostra de uma nova tecnologia
- * Apresentação de um novo projecto de eletrónica
- * Lançamentos de novas diskmags ou musicdisk
- * Palestras curtas
- * Standup comedy
+ * Performances ao Vivo
+ * Lançamentos de novas diskmags ou musicdisks
  * Instalações artísticas
  * Jogos, versões finais ou em desenvolvimento
  * GLSL / Shadertoy
@@ -215,10 +208,26 @@ Estamos à procura de produções dos seguintes tipos:
 
 Máximo uma produção por participante, escolhe bem o que queres apresentar.
 
-## Lightning Talks
+{{< threeimages
+    img1="/images/mosca.webp" alt1="'Noite da Mosca' por cc2023" caption1="'Noite da Mosca' por cc2023"
+    img2="/images/badge-1920.webp" alt2="'Inércia Floppy Badges - MOD Insanity' by Afonsus" caption2="'Inércia Floppy Badges - MOD Insanity' by Afonsus"
+    img3="/images/se.webp" alt3="'Subliminal Extacy #5' by Papaya Dezign" caption3="'Subliminal Extacy #5' by Papaya Dezign"
+>}}
 
-Apresenta em 15 minutos algo interessante sobre o teu processo de criação de arte digital. Pode ser algo desenvolvido por ti ou algo que tenhas andado a explorar recentemente e que aches interessante. Pode ser uma ferramenta, uma produção, uma metodologia de trabalho, uma fonte de inspiração. Sê criativo, mostra o que tens feito e inspira os outros visitantes.
+## Apresentações Relâmpago
 
-## Live Coding
+Temos um novo formato de participação este ano, com vista a incentivar a apresentação pública e troca de conhecimento entre os participantes locais.
 
-Iremos ter na Inércia mais uma edição do evento com o record mundial da programação simultânea de shaders ao vivo: o Shader Royale. Com participantes locais e remotamente ligados um pouco por todo o mundo (no ano passado tivemos 33 participantes). Estás interessado? Podes participar em pessoa no evento ou remotamente, só precisas da versão mais recente do Bonzomatic e de avisar psenough ou totetmatt no discord para receberes os detalhes de como te ligares.
+Apresenta em 15 minutos algo interessante sobre o teu processo de criação de arte digital!
+
+Pode ser algo desenvolvido por ti ou algo que tenhas andado a explorar recentemente e que aches interessante. Pode ser uma ferramenta, uma produção, uma metodologia de trabalho, uma fonte de inspiração, um projecto em que tens estado a trabalho. Sê criativo, mostra o que tens feito e inspira os outros visitantes. Desde que seja relacionado com a arte digital é bem vindo.
+
+Tens uma ideia mas dúvidas sobre se fará sentido apresentar na Inércia? Contacta-nos no discord para medir o interesse da comunidade que estará presente no evento.
+
+📤Carrega um zip com os slides / video / informação da tua apresentação.
+
+## Shader Royale
+
+Iremos ter na Inércia mais uma edição do evento com o record mundial da programação simultânea de shaders ao vivo: o Shader Royale. Com participantes locais e remotamente ligados um pouco por todo o mundo (no ano passado tivemos 33 participantes). Estás interessado? Podes participar em pessoa no evento ou remotamente, só precisas da versão mais recente do Bonzomatic e de avisar psenough ou totetmatt no discord para receberes os detalhes de como te ligares durante a sessão.
+
+{{< youtube -Iqov7pkNUQ >}}

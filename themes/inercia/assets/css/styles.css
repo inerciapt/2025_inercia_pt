@@ -2850,14 +2850,9 @@ h3:hover .permalink {
 	}
 }
 
-/* Ensure images in three-column layout maintain aspect ratio */
-.b-features__container .o-feature__image {
-	width: 100%;
-}
-
 .b-features__container .m-figure__image img {
 	width: 100%;
-	height: auto;
+	height: 100%;
 	display: block;
 }
 
