@@ -49,7 +49,7 @@ sections:
   - overline: "Participa"
     title: "Mostras & Competições"
     content: |
-      Crias arte com computadores? Queremos a apresentes ao público na Inércia! Temos várias categorias para participares:
+      Crias arte com computadores? Queremos que a apresentes ao público na Inércia! Temos várias categorias para participares:
 
       * Competição de Demos, o formato clássico da demoscene onde o voto do público determina o vencedor.
       * Mostras de música e gráficos, para mostrares os teus trabalhos originais sem vencedores nem vencidos.
@@ -118,6 +118,7 @@ sections:
 
     imageFirst: true
     padding_top_zero: true
+
 ---
 
 {{< youtube kRxPyPyCyxE >}}
