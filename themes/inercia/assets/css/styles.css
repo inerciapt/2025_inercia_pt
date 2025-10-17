@@ -363,7 +363,7 @@ input:checked~.a-hamburger {
 }
 
 .m-button {
-	--button-background-color: linear-gradient(90deg, #8958fe 0%, #7273fe 100%);
+	--button-background-color: #c8e883;
 	--button-border-color: transparent;
 	--button-border-width: 0;
 	--button-border-radius: 4px;
