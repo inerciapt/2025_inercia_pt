@@ -5,11 +5,11 @@ cta:
   title: "<br />Inércia 2025 - Festival de Arte Digital<br />6 e 7 Dezembro de 2025, Almada, Portugal<br />Mostra-nos o que tens feito!"
 sections:
   - overline: "Local"
-    title: "Salão de Festas Incrível Almadense"
+    title: "Incrível Almadense"
     content: |
       No coração de Almada, com espaço para 150 visitantes.
 
-      Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção full HD e sistema de som adequado para mostrares ao mundo os teus projectos de arte digital.
+      Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção Full HD e sistema de som adequado para mostrares ao mundo os teus projectos de arte digital.
     button:
       text: "Local & Viagem"
       url: "./location/"
@@ -104,7 +104,7 @@ sections:
     title: "Seminários e Instalações"
     button:
       text: "Regista-te"
-      url: "./visitors/"
+      url: "./visiting/"
     content: |
       Fica atento às diversas apresentações, instalações, mesas redondas e workshops que irão decorrer durante o evento. Cobrindo uma diversidade de tópicos ligados à demoscene, movimento maker, fabricação digital e os vários tipos de arte digital. Gostarias de apresentar algo? Entra em contacto, diz-nos o que tens em mente para tentarmos encaixar no nosso hórario.
 

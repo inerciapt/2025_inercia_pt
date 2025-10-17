@@ -59,9 +59,10 @@ Parking in Almada's historic center can be challenging and while you might get l
  * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - €0.80 / hour, 3 minutes walk, underground
  * [Parque Gabriel Pedro](https://www.bragaparques.pt/pdfs/Tarifario_P004GP.pdf) - €1.20 / hour, 3 minutes walk, underground
 
-Map of Almada *inserir imagem*
+## Map of Almada
 
-Points of interest for the event and the city.
+Points of interest for the event and the city
+![](/images/local_map.jpg)
 
 [Open in Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 

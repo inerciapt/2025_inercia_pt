@@ -26,16 +26,16 @@ Seguindo os desenvolvimentos da tecnologia recente dos modelos de inteligência 
 
 ### Especificações do Computador de Competição
 
-Sistema Operativo : Windows 11 (com as mais recentes atualizações)
-CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
-RAM : 2x 32GB DDR4-3200
-GFX : RTX3060Ti 8GB GDDR6X
+* Sistema Operativo : Windows 11 (com as mais recentes atualizações)
+* CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
+* RAM : 2x 32GB DDR4-3200
+* GFX : RTX3060Ti 8GB GDDR6X
 
 Se a tua produção correr noutra plataforma, por favor fornece-nos também uma gravação vídeo da mesma a executar. Se tal não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir a melhor maneira de captarmos o video com qualidade aceitável.
 
 ### Licenças de Produções
 
-Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por defeito distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada públicament com uma licença creative commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Inércia.
+Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por omissão distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada publicamente com uma licença Creative Commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Inércia.
 
 ### Declaração de Exoneração de Responsabilidade
 
@@ -146,9 +146,9 @@ Estamos à procura de músicas dos seguintes tipos:
  * Música ao Vivo, beatboxing, cantar, rap improvisado, instrumentos de palco
  * Outros
 
-📤 Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato estranho que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
+📤 Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato invulgar que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
 
-Máximo uma produção por participante, escolhe bem no que te focas.
+Máximo de uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
 Aceitamos músicas de qualquer género mas levas pontos de karma se forem ambient drone ou jazz.
 
@@ -174,7 +174,7 @@ Estamos à procura de produções dos seguintes tipos:
 
 📤 Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
-Máximo uma produção por participante, escolhe bem o que queres apresentar.
+Máximo de uma produção por participante, escolhe bem o que queres apresentar.
 
 {{< threeimages
     img1="/images/hiking.png" alt1="'Hiking Home for Christmas' by Critikill" caption1="'Hiking Home for Christmas' by Critikill"
@@ -203,7 +203,7 @@ Estamos à procura de produções dos seguintes tipos:
 
 📤 Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
-Máximo uma produção por participante, escolhe bem o que queres apresentar.
+Máximo de uma produção por participante, escolhe bem o que queres apresentar.
 
 {{< threeimages
     img1="/images/mosca.webp" alt1="'Noite da Mosca' por cc2023" caption1="'Noite da Mosca' por cc2023"

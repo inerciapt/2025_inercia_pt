@@ -5,7 +5,7 @@ cta:
   title: "<br />Inércia 2025 - Digital Art & Music Festival<br />6-7 December 2025, Almada, Portugal<br />Show us what you've been working on!"
 sections:
   - overline: "Location"
-    title: "Salão de Festas Incrível Almadense"
+    title: "Incrível Almadense"
     content: |
       In the heart of Almada, with room for over 120 visitors.
 
@@ -103,7 +103,7 @@ sections:
     title: "Seminars and Installations"
     button:
       text: "Register"
-      url: "./visitors/"
+      url: "./visiting/"
     content: |
       Join us for several talks, roundtables and workshops during the event. Covering a range of topics related to the demoscene, electronic tinkering, retro computing and the digital arts. Would you like to present something? Get in touch and tell us what you have in mind and we'll try to accomodate within reason.
     image:

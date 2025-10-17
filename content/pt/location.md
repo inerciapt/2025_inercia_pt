@@ -55,12 +55,13 @@ Quer venhas de norte ou do sul, existe uma saída da autoestrada A2 que liga dir
 Estacionar no centro histórico de Almada pode ser um desafio e, embora possas ter sorte e encontrar um lugar perto do local do evento, a maioria das ruas tem parquímetro ou requer dístico de residente. Recomendamos estas opções de estacionamento:
 
  * [Parque do Morro de Cacilhas](https://www.parkopedia.com/parking/carpark/parque_do_morro_de_cacilhas/2800/almada/) - €1.50 / dia, 15 minutos a pé, ar livre
- * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - €0.80 / hour, 3 minutos a pé, garagem subterrânea
- * [Parque Gabriel Pedro](https://www.bragaparques.pt/pdfs/Tarifario_P004GP.pdf) - €1.20 / hour, 3 minutos a pé, garagem subterrânea
+ * [Parque Capitão Leitão](https://www.parkopedia.com/parking/carpark/capit%C3%A3o_leit%C3%A3o/2800/almada/) - €0.80 / hora, 3 minutos a pé, garagem subterrânea
+ * [Parque Gabriel Pedro](https://www.bragaparques.pt/pdfs/Tarifario_P004GP.pdf) - €1.20 / hora, 3 minutos a pé, garagem subterrânea
 
-Mapa of Almada *inserir imagem*
+## Mapa de Almada
 
 Pontos de interesse do nosso evento e da cidade.
+![](/images/local_map.jpg)
 
 [Abrir em Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 
