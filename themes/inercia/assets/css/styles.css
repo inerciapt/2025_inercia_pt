@@ -83,7 +83,7 @@
 	--color-primary-start: red;
 	--color-primary-end: blue;
 	--columns-width: var(--container-max-width);
-	--color-highlight: #98a3df;
+	--color-highlight: #c8e883;
 	--gradient-blue-purple: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
 	--gradient-deluxe-paint: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
 	--gradient-blood-red: linear-gradient(-118.4deg, #7a2334 27.5%, #3e091b 92.7%);
@@ -202,7 +202,7 @@ input:checked~.a-hamburger {
 
 .a-heading {
 	margin: 0;
-	padding: 0
+	padding: 0;
 }
 
 .a-heading.-h1 {
@@ -363,7 +363,7 @@ input:checked~.a-hamburger {
 }
 
 .m-button {
-	--button-background-color: linear-gradient(90deg, #8958fe 0%, #7273fe 100%);
+	--button-background-color: #c8e883;
 	--button-border-color: transparent;
 	--button-border-width: 0;
 	--button-border-radius: 4px;
