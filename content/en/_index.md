@@ -103,7 +103,7 @@ sections:
     title: "Seminars and Installations"
     button:
       text: "Register"
-      url: "./visitors/"
+      url: "./visiting/"
     content: |
       Join us for several talks, roundtables and workshops during the event. Covering a range of topics related to the demoscene, electronic tinkering, retro computing and the digital arts. Would you like to present something? Get in touch and tell us what you have in mind and we'll try to accomodate within reason.
     image:
