@@ -35,7 +35,7 @@ Se a tua produção correr noutra plataforma, por favor fornece-nos também uma 
 
 ### Licenças de Produções
 
-Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por defeito distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada públicament com uma licença creative commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Inércia.
+Todas as produções submetidas ao sistema serão posteriormente distribuídas para descarregamento gratuito na Internet. Ao submeteres a tua produção no sistema estás a concordar com esta distribuição. Os direitos de autoria continuam a ser exclusivamente teus, por omissão distribuimos as obras sobre uma liçenca Creative Commons BY-NC-SA, se preferires outra por favor inclui essa informação no arquivo. Se não estás confortavel com a tua produção ser arquivada publicamente com uma licença Creative Commons por favor não participes. Poderemos também usar o teu trabalho para promover futuras edições do Inércia.
 
 ### Declaração de Exoneração de Responsabilidade
 
@@ -146,7 +146,7 @@ Estamos à procura de músicas dos seguintes tipos:
  * Música ao Vivo, beatboxing, cantar, rap improvisado, instrumentos de palco
  * Outros
 
-📤 Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato estranho que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
+📤 Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato invulgar que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
 
 Máximo uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.

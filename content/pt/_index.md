@@ -9,7 +9,7 @@ sections:
     content: |
       No coração de Almada, com espaço para 150 visitantes.
 
-      Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção full HD e sistema de som adequado para mostrares ao mundo os teus projectos de arte digital.
+      Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção Full HD e sistema de som adequado para mostrares ao mundo os teus projectos de arte digital.
     button:
       text: "Local & Viagem"
       url: "./location/"
