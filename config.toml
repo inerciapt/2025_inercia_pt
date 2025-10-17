@@ -11,8 +11,8 @@ defaultContentLanguageInSubdir = true
   social_image = "/images/inercia2025_promo.png"
   twitter = "inercia_pt"
   favicon = "/images/ID_64px.png"
-  logo = "/images/svg/iD_grey_graded.svg"
-  logo_small = "/images/svg/iD_grey_graded.svg"
+  logo = "/images/svg/iD_color_graded.svg"
+  logo_small = "/images/svg/iD_color_graded.svg"
   
 #  logo = "/images/svg/inercia_logo.svg"
 #  logo_small = "/images/svg/inercia_logo.svg"
