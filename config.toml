@@ -14,8 +14,8 @@ defaultContentLanguageInSubdir = true
 #  logo = "/images/svg/iD_color_graded.svg"
 #  logo_small = "/images/svg/iD_color_graded.svg"
   
-  logo = "/images/svg/inercia_logo.svg"
-  logo_small = "/images/svg/inercia_logo.svg"
+  logo = "/images/svg/iD_grey_flat.svg"
+  logo_small = "/images/svg/iD_grey_flat.svg"
 
 [languages]
   [languages.pt]

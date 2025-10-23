@@ -1,6 +1,6 @@
 baseURL = 'https://inercia.pt/'
 languageCode = 'pt-PT'
-title = 'Inercia Demoscene'
+title = 'Inércia 2025'
 
 [menus]
   [[menus.main]]
