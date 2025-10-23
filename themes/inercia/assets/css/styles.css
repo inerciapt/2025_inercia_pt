@@ -1321,8 +1321,8 @@ thead .o-timetable__cell {
 	clip-path: margin-box;
 	/* top: -10%; */
 	position: relative;
-	/* height: unset; */
-	width: 100%;
+	/* height: unset; 
+	width: 100%;*/
 	height: fit-content;
 	left: 0px;
 	max-height: unset;
