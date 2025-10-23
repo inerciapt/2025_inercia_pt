@@ -1,0 +1,23 @@
+{{/*
+Shortcode: singleimage
+Usage:
+{{< singleimage
+    img="/images/example.webp" alt="Description of the image" caption="Image caption text"
+>}}
+*/}}
+<div class="b-features__container b-singleimage__container">
+  <ul class="b-features__items b-singleimage__items">
+    <li class="b-features_item b-singleimage__item">
+      <div class="o-feature">
+        <div class="o-feature__image">
+          <figure class="m-figure m-singleimage__figure">
+            <div class="m-figure__image m-singleimage__image">
+              <img alt="{{ .Get "alt" }}" loading="lazy" decoding="async" src="{{ .Get "img" }}" class="m-singleimage__img">
+              <p class="m-figure__attribution">{{ .Get "caption" }}</p>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
