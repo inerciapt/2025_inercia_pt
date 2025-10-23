@@ -71,6 +71,7 @@
    {{ block "head" . }}{{ end }}
 </head>
 <body>
+	<div id="container">
    {{ partial "header.html" . }}
    
    {{ block "hero" . }}{{ end }}
@@ -88,5 +89,6 @@
    {{ end }}
    
    {{ block "scripts" . }}{{ end }}
+	</div>
 </body>
 </html>

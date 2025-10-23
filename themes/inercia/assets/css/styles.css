@@ -1604,12 +1604,12 @@ thead .o-timetable__cell {
 	box-sizing: border-box;
 	padding: 7px 0;
 	z-index: 10;
-	width: 100vw;
+	width: 1000px;
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
-	margin-left: auto;
+	margin: auto;
 }
 
 .b-siteNav svg {
@@ -1634,7 +1634,6 @@ thead .o-timetable__cell {
 	box-sizing: content-box;
 	justify-content: space-between;
 	align-items: center;
-	max-width: 1440px;
 	margin-block-start: 0;
 	margin-block-end: 0;
 	margin-inline-start: auto;
@@ -1646,7 +1645,7 @@ thead .o-timetable__cell {
 	display: flex;
 	position: relative;
 	gap: 30px;
-	width: 1000px;
+	width: 1000px - var(--unit-m);
 }
 
 .live-stream-container {
@@ -1690,10 +1689,22 @@ thead .o-timetable__cell {
 	pointer-events: none
 }
 
+#container {
+	position: relative;
+	width: 1000px;
+	margin: auto;
+	background: var(--site-background-color);
+}
+
 @media (max-width:959px) {
 
+	#container {
+		width: unset;
+	}
+
 	.b-siteNav {
-		--site-nav-brand-width: 92px
+		width: unset;
+		--site-nav-brand-width: 92px;
 	}
 
 	.live-stream-container {
@@ -1962,6 +1973,19 @@ thead .o-timetable__cell {
 	font-size: var(--fs-xl)
 }
 
+.s-content img {
+	max-width: 100%;
+}
+
+@media (max-width: 767px) {
+	.s-content:not(:has(.b-features__container)) figure {
+    margin: 0 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+	}
+}
+
 .s-content picture:not([class]) {
 	width: 100%;
 	max-width: 100vh
@@ -2031,11 +2055,10 @@ body {
 	flex-direction: column;
 	height: auto;
 	margin: auto;
-	width: 1000px;
 	font-family: IBM Plex Sans, sans-serif;
 	display: flex;
 	overflow-x: clip;
-	background: var(--site-background-color);
+	/*background: var(--color-black-off);*/
 	color: var(--site-text-color)
 }
 
