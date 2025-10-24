@@ -7,7 +7,7 @@ O evento irá decorrer no Salão de Festas Incrível Almadense, situada no centr
 
 Esta sala centenária estará equipada com mesas, cadeiras, luzes, projeção full HD e sistema de som adequado para mostrar ao mundo os teus trabalhos de arte digital.
 
-{{< figure src="/images/_DSC2349.webp" title="Salão de Festas Incrível Almadense" caption="Fonte: Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
+{{< singleimage img="/images/_DSC2349.webp" caption="Salão de Festas Incrível Almadense - Jaerder Sousa" alt="Salão de Festas Incrível Almadense" >}}
 
 ## Sobre Almada
 
@@ -61,7 +61,7 @@ Estacionar no centro histórico de Almada pode ser um desafio e, embora possas t
 ## Mapa de Almada
 
 Pontos de interesse do nosso evento e da cidade.
-![](/images/local_map.jpg)
+{{< singleimage img="/images/local_map.jpg" caption="Mapa de Almada" alt="Mapa de Almada" >}}
 
 [Abrir em Google Maps](https://maps.app.goo.gl/NgLG3YnugNhWMAvK7)
 

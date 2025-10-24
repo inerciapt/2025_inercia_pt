@@ -2954,3 +2954,38 @@ td {
 td h3 {
 	margin-top: var(--gap);
 }
+
+/* Single Image Shortcode - Responsive viewport scaling */
+.b-singleimage__container {
+	max-width: 100%;
+}
+
+.b-singleimage__items {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.b-singleimage__item {
+	width: 100%;
+	max-width: 100%;
+}
+
+.m-singleimage__figure {
+	width: 100%;
+	height: auto;
+}
+
+.m-singleimage__image {
+	aspect-ratio: auto !important;
+	height: auto !important;
+	position: relative;
+}
+
+.m-singleimage__img {
+	width: 100% !important;
+	height: auto !important;
+	object-fit: contain !important;
+	max-width: 100%;
+	position: relative !important;
+}
