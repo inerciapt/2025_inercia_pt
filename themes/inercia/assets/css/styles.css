@@ -85,7 +85,7 @@
 	--columns-width: var(--container-max-width);
 	--color-highlight: #c8e883;
 	--gradient-blue-purple: linear-gradient(19deg, #21d4fd 0%, #b721ff 100%);
-	--gradient-deluxe-paint: linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%);
+	--gradient-deluxe-paint: linear-gradient(43deg, #309E80 10%, #B4D26E 40%, #F2405F 70%, #972156 90%); 
 	--gradient-blood-red: linear-gradient(-118.4deg, #7a2334 27.5%, #3e091b 92.7%);
 	--mix-deluxe-paint: #8554c8;
 	--gradient-instagram: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
@@ -216,7 +216,7 @@ input:checked~.a-hamburger {
 }
 
 .a-heading.-h3 {
-	font-size: var(--fs-xl);
+	font-size: var(--fs-l);
 	line-height: 1.2
 }
 
@@ -879,7 +879,7 @@ thead .o-timetable__cell {
 }
 
 .b-article {
-	color: #cdd1e1;
+	color: #a4ad9b;
 	z-index: 1;
 	position: relative
 }
@@ -1997,12 +1997,12 @@ thead .o-timetable__cell {
 }
 
 .s-content a:not(.m-button) {
-	color: #9ac8fe
+	color: #a7d97d
 }
 
 @media (hover:hover) {
 	.s-content a:not(.m-button):hover {
-		color: #67acfe
+		color: #f0ff9f
 	}
 }
 
@@ -2426,7 +2426,7 @@ td h3 {
 }
 
 .visitors {
-	background-color: rgba(26, 28, 44, 0.7);
+	background-color: rgb(200 232 131 / 8%);
 	column-count: 3;
 	margin: 0 auto;
 	list-style: none;
