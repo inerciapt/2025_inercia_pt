@@ -23,4 +23,4 @@ O design gráfico desta página web foi emprestado e alterado com permissão a p
 
 Adaptada e expandida em 2025 como um tema [Hugo](https://gohugo.io).
 
-O sistema de gestão das participações no evento que utilizamos é o [Partyman](https://inercia.partyman.cloud).
+O sistema de gestão das participações no evento que utilizamos é o [Partyman](https://www.partyman.cloud).
