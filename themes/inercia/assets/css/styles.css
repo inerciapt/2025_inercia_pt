@@ -92,6 +92,8 @@
 	--site-nav-height: 48px;
 	--table-border-color: #ffffff24;
 	--glow-val: 0px 0px 5px 1px red;
+	--fs-base: clamp(.XXrem, .XXXvw + .XXXrem, 1.0rem); /* only the last value changed from 1.25rem to 1.0rem */
+	--color-grey70: #b3b3b3; /* added to blend and achieve color variance together with single accent color */
 }
 
 :root .garden {
@@ -363,10 +365,10 @@ input:checked~.a-hamburger {
 }
 
 .m-button {
-	--button-background-color: #c8e883;
+	--button-background-color: var(--color-highlight);
+	--button-border-radius: 6px;
 	--button-border-color: transparent;
 	--button-border-width: 0;
-	--button-border-radius: 4px;
 	--button-font-size: var(--fs-base);
 	--button-size: 60px;
 	--button-text-color: black;
@@ -879,7 +881,7 @@ thead .o-timetable__cell {
 }
 
 .b-article {
-	color: #a4ad9b;
+	color: color-mix(in srgb, var(--color-highlight), var(--color-grey70) 80%);
 	z-index: 1;
 	position: relative
 }
@@ -1449,7 +1451,7 @@ thead .o-timetable__cell {
 
 .b-pageHeader__container .m-componentHeader {
 	z-index: 2;
-	max-inline-size: 75.188%;
+	max-inline-size: 80%;
 	position: relative
 }
 
@@ -1886,7 +1888,8 @@ thead .o-timetable__cell {
 
 .s-content {
 	font-size: var(--fs-base);
-	line-height: 1.667
+	line-height: 1.667;
+	color: color-mix(in srgb, var(--color-highlight), var(--color-grey70) 80%);
 }
 
 .s-content big {
@@ -2426,7 +2429,7 @@ td h3 {
 }
 
 .visitors {
-	background-color: rgb(200 232 131 / 8%);
+	background-color: color-mix(in srgb, var(--color-highlight), transparent 95%);
 	column-count: 3;
 	margin: 0 auto;
 	list-style: none;
@@ -2988,4 +2991,14 @@ td h3 {
 	object-fit: contain !important;
 	max-width: 100%;
 	position: relative !important;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: var(--color-white);
+  background: color-mix(in srgb, var(--color-highlight), transparent 80%);
+}
+
+::selection {
+  color: var(--color-white);
+  background: color-mix(in srgb, var(--color-highlight), transparent 80%);
 }
