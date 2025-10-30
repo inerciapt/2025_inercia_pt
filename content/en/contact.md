@@ -23,5 +23,5 @@ The design of this website was originally taken from [NOVA demoparty](https://no
 
 Further adapted in 2025 as a [Hugo](https://gohugo.io) theme.
 
-The productions submission system we use for the event is [Partyman](https://www.partyman.cloud).
+The productions submission system we use for the event is [Partyman](https://inercia.partyman.cloud).
 
