@@ -1,9 +1,9 @@
 ---
 title: "Inércia Demoscene"
-description: "Inércia - Digital Arts Festival in Portugal"
+description: "Inércia - Festival de Arte Digital e Música em Portugal"
 hero_image:
   src: "/images/inercia20205_banner.png"
-  overlay: "Digital Art & Music Festival<br />6-7 December 2025, Almada, Portugal"
+  overlay: "Festival de Arte Digital e Música<br />6-7 Dezembro 2025, Almada, Portugal"
 sections:
   - overline: "Local"
     title: "Incrível Almadense"
