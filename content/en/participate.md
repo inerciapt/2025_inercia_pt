@@ -3,6 +3,11 @@ title: "Participate"
 summary: "Veteran? Newcomer?! Show us what you've been working on!"
 ---
 
+## SUBMIT YOUR WORK HERE
+
+{{< lnk1 link="https://inercia.partyman.cloud" text="2025 Party System" target="_blank" >}}
+
+
 ## Competitions & Showcases
 
 Do you create art with computers? We want you at Inércia presenting it! There are several ways to do so, depending on what kind of art you are showing and if you are comfortable with being scrutinized by a public vote. Check these categories to see which one fits your production the best.

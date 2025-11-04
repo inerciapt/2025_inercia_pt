@@ -1,0 +1,11 @@
+{{- $link := .Get "link" -}}
+{{- $text := .Get "text" -}}
+{{- $target := .Get "target" | default "_self" -}}
+{{- $class := .Get "class" | default "" -}}
+
+<a href="{{ $link }}" 
+   class="m-button-black {{ $class }}" 
+   target="{{ $target }}"
+   {{ if eq $target "_blank" }}rel="noopener noreferrer"{{ end }}>
+    {{ $text }}
+</a>

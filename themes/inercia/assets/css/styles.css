@@ -453,6 +453,61 @@ input:checked~.a-hamburger {
 	--button-text-color: white
 }
 
+.m-button-black {
+    display: inline-block;
+    padding: 10px 20px;
+    background: var(--button-background-color);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #000000 !important;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    cursor: pointer;
+    text-shadow: none;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+    user-select: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.m-button-black {
+    display: inline-block;
+    padding: 10px 20px;
+	background: linear-gradient(to bottom, #c8e883 0%, #c8e883 100%);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: #000000;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    cursor: pointer;
+    text-shadow: none;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+}
+
+.m-button-black:hover {
+    background: linear-gradient(to bottom, #f8f8f8 0%, #e8e8e8 100%);
+    border-color: #999;
+    color: #000000;
+    text-decoration: none;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.m-button-black:active {
+    background: linear-gradient(to bottom, #e8e8e8 0%, #d8d8d8 100%);
+    border-color: #888;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);
+    color: #000000;
+}
+
+
 @media (hover:hover) {
 	.m-button.-white:hover {
 		--button-background-color: var(--color-wisteria);
