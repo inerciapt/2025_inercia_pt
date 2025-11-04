@@ -53,10 +53,10 @@ defaultContentLanguageInSubdir = true
       name = "Visitar"
       url = "/pt/visiting/"
       weight = 70
-    [[languages.pt.menu.main]]
-      name = "Contacto"
-      url = "/pt/contact/"
-      weight = 80
+#    [[languages.pt.menu.main]]
+#      name = "Contacto"
+#      url = "/pt/contact/"
+#      weight = 80
   [languages.en]
     languageName = 'English'
     weight = 2
@@ -92,10 +92,10 @@ defaultContentLanguageInSubdir = true
       name = "Visiting"
       url = "/en/visiting/"
       weight = 70
-    [[languages.en.menu.main]]
-      name = "Contact"
-      url = "/en/contact/"
-      weight = 80
+#    [[languages.en.menu.main]]
+#      name = "Contact"
+#      url = "/en/contact/"
+#      weight = 80
 
 #[markup]
 #  [markup.goldmark]

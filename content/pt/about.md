@@ -39,3 +39,24 @@ Devido às limitações de capacidade, temos um sistema de pré-inscrição. Mai
 
 A organização reserva o direito de excluir do evento qualquer pessoa que possa estar a causar distúrbios ou tenha demonstrado esse tipo de comportamentos no passado, ao abrigo da lei de organização de eventos privados. Só o faremos quando recebermos queixas de discriminação ou doutrinação indesejada / discurso retórico sobre quaisquer assuntos discriminatórios (racismo, intolerância, misoginia, discurso de ódio religioso ou político, teorias da conspiração, etc.). Não serão toleradas quaisquer ameaças físicas ou verbais / assédio aos nossos voluntários organizadores ou visitantes. Quem for apanhado a infringir a lei portuguesa será entregue às autoridades locais.
 
+## Contacto Geral
+
+Qualquer dúvida ou questão sobre a Inércia 2025 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)
+
+Também estamos ativos no [canal de discord da demoscene portuguesa](https://discord.gg/a44cmgbQFh)
+
+## Edições Anteriores
+
+{{< pastwebsites text="Páginas web das edições anteriores" >}}
+
+Podes encontrar os conteúdos disponíveis das edições anteriores do evento através da página no portal [Demozoo](https://demozoo.org/parties/series/244/).
+
+## Créditos Adicionais
+
+A Inércia 2025 é organizada através da Associação Inércia com a ajuda e apoio de uma dúzia de voluntários e parceiros.
+
+O design gráfico desta página web foi emprestado e alterado com permissão a partir de [NOVA demoparty](https://novaparty.org/).
+
+Adaptada e expandida em 2025 como um tema [Hugo](https://gohugo.io).
+
+O sistema de gestão das participações no evento que utilizamos é o [Partyman](https://www.partyman.cloud).
