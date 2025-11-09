@@ -1385,6 +1385,26 @@ thead .o-timetable__cell {
 	max-height: unset;
 }
 
+	@media (max-width: 768px) {
+		.b-hero {
+			/* in mobile limit the hero to the first 530px slice of the original 1024px image */
+			--hero-mobile-source-width: 1024;
+			--hero-mobile-slice-width: 530;
+			--hero-mobile-slice-height: 296;
+			aspect-ratio: var(--hero-mobile-slice-width) / var(--hero-mobile-slice-height);
+			height: auto;
+			overflow: hidden;
+		}
+
+		.b-hero img {
+			max-width: none;
+			width: calc(var(--hero-mobile-source-width) / var(--hero-mobile-slice-width) * 100%);
+			height: auto;
+			object-fit: cover;
+			object-position: left center;
+		}
+	}
+
 .b-hero div {
 	position: absolute;
 	bottom: 2em;
