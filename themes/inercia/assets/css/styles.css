@@ -1403,6 +1403,10 @@ thead .o-timetable__cell {
 			object-fit: cover;
 			object-position: left center;
 		}
+
+		.b-hero div {
+			display: none;
+		}
 	}
 
 .b-hero div {
@@ -1844,10 +1848,6 @@ thead .o-timetable__cell {
 		display: block
 	}
 
-	.b-hero div {
-		display: none;
-	}
-
 	#live-banner {
 		padding: 15px !important;
 		bottom: 20px;
@@ -2192,6 +2192,16 @@ h6 {
 .u-hidden {
 	clip: rect(0, 0, 0, 0);
 	position: absolute
+}
+
+.u-mobileOnly {
+	display: none;
+}
+
+@media (max-width: 768px) {
+	.u-mobileOnly {
+		display: block;
+	}
 }
 
 .u-container {

@@ -14,6 +14,11 @@
 
 {{ define "main" }}
 <article>
+   {{ with .Params.hero_image.overlay }}
+   <div class="u-container u-mobileOnly">
+      <p class="s-content-date">{{ . | safeHTML }}</p>
+   </div>
+   {{ end }}
    {{ with .Params.cta }}
    <div class="b-columns u-container b-cta t-indigo">
       <div class="m-componentHeader">
