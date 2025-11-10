@@ -61,7 +61,11 @@ WAKE is a live audiovisual project from Berlin. Lena Kilkka [/lucid/](https://ww
 
 **Afterparty @ Bar A Cerca**
 |:-:|:-:|:-|
-| {{< jtzr-time >}}23:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | bacter + friends |
+| {{< jtzr-time >}}23:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | {{< details summary="bacter" >}}
+![image](/images/bacter.jpg)
+Bacter will serve us with some nice and smooth Disco licks and synthwave bangers through the evening for you to enjoy sweet (and sour) cocktails and beer.
+(No AI was involved in writing this)
+{{< /details >}}| 
 | {{< jtzr-time >}}02:00{{</jtzr-time>}} | {{< cl1 class="tt djset" >}}DJ SET{{</cl1>}} | Varrho |
 
 
