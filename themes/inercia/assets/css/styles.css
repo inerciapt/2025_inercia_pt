@@ -1347,6 +1347,16 @@ thead .o-timetable__cell {
 	position: relative;
 }
 
+.b-hero::after {
+	content: "";
+	position: absolute;
+	inset: auto 0 0;
+	height: 10%;
+	background: linear-gradient(180deg, rgba(6, 18, 19, 0) 0%, var(--color-black-off) 90%);
+	pointer-events: none;
+	z-index: 1;
+}
+
 .b-hero.-alignBlockStart {
 	align-items: flex-start
 }
@@ -1383,6 +1393,7 @@ thead .o-timetable__cell {
 	height: fit-content;
 	left: 0px;
 	max-height: unset;
+	z-index: 0;
 }
 
 	@media (max-width: 768px) {
@@ -1413,6 +1424,7 @@ thead .o-timetable__cell {
 	position: absolute;
 	bottom: 2em;
 	right: 2em;
+	z-index: 2;
 }
 
 .b-hero .m-componentHeader {
