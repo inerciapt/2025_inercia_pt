@@ -30,6 +30,11 @@
   url: "https://linktr.ee/baracerca"
   logo: "images/svg/baracerca.svg"
 
+- name: "Realiza Som"
+  tier: "silver"
+  url: "https://realizasom.com/"
+  logo: "images/svg/realiza_som.svg"
+
 - name: "Arte & Impacto"
   tier: "silver"
   url: "https://www.arteeimpacto.com/"
