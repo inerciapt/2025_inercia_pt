@@ -39,6 +39,10 @@ Devido às limitações de capacidade, temos um sistema de pré-inscrição. Mai
 
 A organização reserva o direito de excluir do evento qualquer pessoa que possa estar a causar distúrbios ou tenha demonstrado esse tipo de comportamentos no passado, ao abrigo da lei de organização de eventos privados. Só o faremos quando recebermos queixas de discriminação ou doutrinação indesejada / discurso retórico sobre quaisquer assuntos discriminatórios (racismo, intolerância, misoginia, discurso de ódio religioso ou político, teorias da conspiração, etc.). Não serão toleradas quaisquer ameaças físicas ou verbais / assédio aos nossos voluntários organizadores ou visitantes. Quem for apanhado a infringir a lei portuguesa será entregue às autoridades locais.
 
+## Pacote de Imprensa
+
+Temos um pacote de imprensa [disponivel para download](/Inercia2025PressPack.zip).
+
 ## Contacto Geral
 
 Qualquer dúvida ou questão sobre a Inércia 2025 pode ser esclarecida através do nosso [endereço electrónico](mailto:info@inercia.pt&subject=Inércia%202025)

@@ -41,6 +41,10 @@ The organization reserves the right to exclude anyone from attending the event t
 We will enforce this only when dealing with complaints of discrimination or unwanted indoctrination / rhetoric speech regarding any discriminatory subjects (racism, bygotry, mysogny, religious or political hate speech, conspiracy theories, etc). Any physical or verbal threat / harrassment of our volunteer organizing staff or visitors will not be tolerated. 
 Anyone found breaking Portuguese law will be turned over to local authorities.
 
+## Press Pack
+
+We have a press pack [available for download](/Inercia2025PressPack.zip).
+
 ## General contact
 
 For any questions and enquiries regarding the festival you can reach us [through email](mailto:info@inercia.pt&subject=Inércia%202025).
