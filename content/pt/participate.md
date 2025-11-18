@@ -49,7 +49,7 @@ A organização reserva o direito de poder não selecionar o teu trabalho, por q
 O evento principal da Inércia 2025 é a competição de [demos](https://en.wikipedia.org/wiki/Demoscene).
 Uma competição para produções executáveis que correm em tempo real, para qualquer plataforma computacional, desde que tenham sido feitas exclusivamente para ser mostradas nesta edição da Inércia.
 
-📤 Carrega um arquivo zip com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição do conteúdo, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum, ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
+📤 Carrega [um arquivo zip](https://inercia.partyman.cloud) com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição do conteúdo, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum, ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
 O vencedor será determinado por votação do público.
 
@@ -81,7 +81,7 @@ Descarrega os ficheiros aqui.
 
 É uma competição para produções executáveis em tempo real, que corram em qualquer plataforma computacional.
 
-📤 Carrega um arquivo zip com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, inclui também um video da produção.
+📤 Carrega [um arquivo zip](https://inercia.partyman.cloud) com a tua produção: deverá conter o executável em si e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, inclui também um video da produção.
 
 O vencedor será determinado por votação do público. 
 
@@ -95,7 +95,7 @@ O vencedor será determinado por votação do público.
 
 Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http://www.sizecoding.org/wiki/Main_Page) e bootblocks, criadas exclusivamente para a Inércia 2025! Estamos à procura de participações para qualquer plataforma, cujo executável esteja dentro de certos limites de tamanho. Os limites mais comuns são 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb e 64kb.
 
-📤 Carrega um zip com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
+📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
 Máximo de duas produções por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
@@ -123,7 +123,7 @@ Esta mostra é dedicada a produções gráficas feitas exclusivamente para a In�
  * GIF Animado, curtos e em loop
  * Outros
 
-📤 Carrega um zip com a tua produção: deverá conter a produção em si, um PNG se for um formato extranho que possa ser mostrado incorretamente, 3 a 4 passos intermédios do processo e um ficheiro textual com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para ver a produção caso seja necessário um visualizador especial ou algumas definições específicas.
+📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter a produção em si, um PNG se for um formato extranho que possa ser mostrado incorretamente, 3 a 4 passos intermédios do processo e um ficheiro textual com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para ver a produção caso seja necessário um visualizador especial ou algumas definições específicas.
 
 Máximo de uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
@@ -149,7 +149,7 @@ Estamos à procura de músicas dos seguintes tipos:
  * Música ao Vivo, beatboxing, cantar, rap improvisado, instrumentos de palco
  * Outros
 
-📤 Carrega um zip com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato invulgar que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
+📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato invulgar que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
 
 Máximo de uma produção por participante, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
@@ -175,7 +175,7 @@ Estamos à procura de produções dos seguintes tipos:
  * Demos ou jogos geradas por AI
  * Outros
 
-📤 Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
+📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
 Máximo de uma produção por participante, escolhe bem o que queres apresentar.
 
@@ -204,7 +204,7 @@ Estamos à procura de produções dos seguintes tipos:
  * Demos em badges eletrónicos
  * Outros
 
-📤 Carrega um zip com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
+📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
 Máximo de uma produção por participante, escolhe bem o que queres apresentar.
 
@@ -224,10 +224,16 @@ Pode ser algo desenvolvido por ti ou algo que tenhas andado a explorar recenteme
 
 Tens uma ideia mas dúvidas sobre se fará sentido apresentar na Inércia? Contacta-nos no discord para medir o interesse da comunidade que estará presente no evento.
 
-📤 Carrega um zip com os slides / video / informação da tua apresentação.
+📤 Carrega [um zip](https://inercia.partyman.cloud) com os slides / video / informação da tua apresentação.
 
 ## Shader Royale
 
-Iremos ter na Inércia mais uma edição do evento com o record mundial da programação simultânea de shaders ao vivo: o Shader Royale. Com participantes locais e remotamente ligados um pouco por todo o mundo (no ano passado tivemos 33 participantes). Estás interessado? Podes participar em pessoa no evento ou remotamente, só precisas da versão mais recente do Bonzomatic e de avisar psenough ou totetmatt no discord para receberes os detalhes de como te ligares durante a sessão.
+Pela quinta vez desde a sua criação na Inércia iremos ter mais uma edição do evento com o record mundial da programação simultânea de shaders ao vivo: o Shader Royale.
+
+Com participantes locais e remotamente ligados um pouco por todo o mundo (no ano passado tivemos 33 participantes).
+
+Estás interessado em participate? Só precisas de alguma experiência a programa shaders, da versão mais recente do Bonzomatic, de ler a página de [como participar no shader royale](./shader_royale) e de avisar psenough no discord para confirmares a tua presença na sessão.
+
+No ano passado foi assim:
 
 {{< youtube -Iqov7pkNUQ >}}

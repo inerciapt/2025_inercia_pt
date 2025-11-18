@@ -2033,9 +2033,8 @@ thead .o-timetable__cell {
 }
 
 .s-content pre {
-	background-color: #00000020;
+	background-color: #00000060;
 	max-width: 100%;
-	overflow: scroll
 }
 
 .s-content>:last-child {
@@ -3098,4 +3097,12 @@ td h3 {
 ::selection {
   color: var(--color-white);
   background: color-mix(in srgb, var(--color-highlight), transparent 80%);
+}
+
+pre code {
+	background-color: #00000000;
+}
+
+code {
+	background-color: #00000080;
 }

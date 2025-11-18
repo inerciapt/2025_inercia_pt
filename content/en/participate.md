@@ -52,7 +52,7 @@ The organization reserves the right to not screen your submission for any reason
 Our main event is the Combined Demo Competition. A competition for executable realtime entries, running on any computer platform, as long as they were made exclusively for Inércia 2025.
 If you are not sure what we mean by demo, you might want to [read about the demoscene](https://en.wikipedia.org/wiki/Demoscene) first.
 
-📤 Please submit a zip with your entry: the working binaries of the executable and a short text file explaining what it is, the target platform, the techniques and references used, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
+📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: the working binaries of the executable and a short text file explaining what it is, the target platform, the techniques and references used, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
 
 The winner will be determined by public voting.
 
@@ -67,7 +67,7 @@ The winner will be determined by public voting.
 
 We will have a screening block dedicated to any <a href="http://www.sizecoding.org/wiki/Main_Page">size coding</a> / bootblock productions made exclusively for Inércia 2025! We are looking for submissions running on any platforms under specific size constraints, it must not have been previously released. The most common target size restrictions are usually 8 bytes, 16 bytes, 32 bytes, 64 bytes, 128 bytes, 256 bytes, 512 bytes, 1kb, 4kb, 8kb, 20kb, 40kb and 64kb.
 
-📤 Please submit a zip with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
+📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
 
 Maximum two entries per participant allowed, choose wisely what you want to focus on!
 Some leeway on this rule to also allow collaborations but please don't abuse it.
@@ -95,7 +95,7 @@ We will have a screening block dedicated to graphics productions made exclusivel
  * Animated GIF, short looping GIF animation
  * Others
 
-📤 Please submit a zip with your entry: it should contain the entry itself, a PNG version if it's a strange format we might otherwise display incorrectly, 3-4 steps of your work in progress and a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings.
+📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a PNG version if it's a strange format we might otherwise display incorrectly, 3-4 steps of your work in progress and a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings.
 
 One entry per participant allowed, choose wisely what you want to focus on!
 Some leeway on this rule to also allow collaborations but please don't abuse it.
@@ -120,7 +120,7 @@ We will play a maximum of 5 minutes of each track submitted. We are looking for 
  * Live music, beatboxing, singing, improv rap, easy instrument to setup
  * Others
 
-📤 Please submit a zip with your entry: it should contain the entry itself, an mp3 version of it if it's in a format we might potentially play incorrectly and a short text file explaining the techniques and references used. This text file should also explain the best way to play the entry if it needs a special player and special settings.
+📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, an mp3 version of it if it's in a format we might potentially play incorrectly and a short text file explaining the techniques and references used. This text file should also explain the best way to play the entry if it needs a special player and special settings.
 
 One entry per participant allowed, choose wisely what you want to focus on!
 Some leeway on this rule to also allow collaborations but please don't abuse it.
@@ -147,7 +147,7 @@ We are looking for productions of the following types:
  * Demos or games partially generated by AI tools and systems
  * Others
 
-📤 Please submit a zip with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer or special settings.
+📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer or special settings.
 
 One entry per participant allowed, choose wisely what you want to show us!
 
@@ -176,7 +176,7 @@ We are looking for submissions of the following kind:
  * Electronic badge demos
  * Others
 
-📤 Please submit a zip with your entry: the binaries if it's an executable release, a video capture if it's not. Should also contain a short text file explaining what it is, the techniques and references used and how to play it.
+📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: the binaries if it's an executable release, a video capture if it's not. Should also contain a short text file explaining what it is, the techniques and references used and how to play it.
 
 One entry per participant allowed, choose wisely what you want to show us!
 
@@ -196,10 +196,16 @@ It can be something that was developed by you or something you have been explori
 
 Have an idea but doubts if it makes sense to present it at Inércia? Get in touch with us through discord and measure it's interest amongst the rest of the community before commiting to it.
 
-📤 Upload a zip file with any slides / video / information about your presentation.
+📤 Upload a [zip file](https://inercia.partyman.cloud) with any slides / video / information about your presentation.
 
 ## Shader Royale
 
-For the 5th time at Inércia since it's inception we will be hosting the Shader Royale, with participants locally and a bit from all over the world joining remotely to participate (last year we had 33 participants). You can participate in person at the venue and remotely, you just need latest version of Bonzomatic and to ping psenough or totetmatt on discord for the details on joining.
+For the 5th time at Inércia since it's inception we will be hosting the Shader Royale.
+
+With people local and all over the world joining to participate on the largest simultaneous live shader coding event of the world.
+
+All you need is some experience in shader coding, the latest version of Bonzomatic, read the [how to join](./shader_royale) page and ping psenough on discord a confirmation that you are participating.
+
+This is what it looked like last year:
 
 {{< youtube -Iqov7pkNUQ >}}
