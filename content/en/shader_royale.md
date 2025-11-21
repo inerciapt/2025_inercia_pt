@@ -73,6 +73,7 @@ Click on Bonzomatic.exe, a window should open asking your for configuration. On 
 * Room: inercia2025
 * Nickname: {your nickname}
 * Click on Run
+
 If you're on MacOs or Linux, you need to update config.json and update the serverUrl to: `ws://drone.alkama.com:9000/inercia2025/{yourhandle}`
 
 If you don't see a Red Block next to your name on the bottom right of Bonzomatic main window, it means you're OK. Otherwise there might be an issue.
