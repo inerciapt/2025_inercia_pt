@@ -55,3 +55,13 @@
   tier: "bronze"
   url: "https://enoughrecords.scene.org/"
   logo: "images/svg/enough.svg"
+
+- name: "Museum Load ZX Spectrum"
+  tier: "bronze"
+  url: "https://loadzx.com/"
+  logo: "images/svg/load_zx_spectrum.svg"
+
+- name: "Gaming Hub"
+  tier: "bronze"
+  url: "https://www.uflgaminghub.com/"
+  logo: "images/svg/gaminghub.svg"
