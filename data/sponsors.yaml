@@ -40,6 +40,11 @@
   url: "https://www.arteeimpacto.com/"
   logo: "images/svg/arteeimpacto.svg"
 
+- name: "SceneSat"
+  tier: "silver"
+  url: "https://scenesat.com/"
+  logo: "images/svg/scenesat.svg"
+
 # ---------------------- Bronze
 - name: "Pombal Ceramics"
   tier: "bronze"
