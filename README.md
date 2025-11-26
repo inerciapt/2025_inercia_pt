@@ -1,6 +1,6 @@
 # Inercia 2025 Website
 
-![Demoparty Logo](static/images/inercia_logo_grad.svg)
+![Demoparty Logo](static/images/svg/inercia_associacao.svg)
 
 Welcome to the official repository for the **Inercia 2025 Website**! This website is designed to showcase all information and updates related to the upcoming demoparty event. Whether you're a participant, organizer, or attendee, this site will provide everything you need to know.
 

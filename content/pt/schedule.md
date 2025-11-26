@@ -45,7 +45,7 @@ does this even work?
 | {{<jtzr-time>}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Abertura de Portas| 
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}DEMOSHOW{{</cl1>}} | Retrospetiva de demos |
 | {{< jtzr-time >}}13:37{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Cerimónia de Abertura|
-| {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Workshop de TiXL" >}}
+| {{< jtzr-time >}}14:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}WORKSHOP{{</cl1>}} | {{< details summary="Workshop de TiXL" >}}
 ![image](/images/tixl.png)
 [TiXL](https://tixl.app) é uma ferramenta gratuita de código aberto para gerar efeitos visuais e animações gráficas para instalações, performances ao vivo e VJing. 
 {{< /details >}}| 
