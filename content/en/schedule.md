@@ -53,11 +53,7 @@ A powerful FREE software for generating visual effects and  motion graphics for 
 {{< /details >}}| 
 | {{< jtzr-time >}}16:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Lightning Talks |
 | {{< jtzr-time >}}18:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (with dj set by Tina Stormcaller) |
-| {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | {{< details summary="WAKE" >}}
-![image](/images/wake.jpeg)
-WAKE is a live audiovisual project from Berlin. Lena Kilkka [/lucid/](https://www.youtube.com/playlist?list=PLTkAm-uTA4HWl_eBBT1ecf3mEmfqZAMxX) and Thomas Mann [/pixtur/](https://www.youtube.com/user/ThePixtur) blend an original, live-coded, eclectic fusion of hypnotic, cinematic sounds with demoscene realtime visuals. All visuals are built and performed using our own custom-made 3D engine [TiXL](https://tixl.app/) / Tooll3.
-{{< /details >}}| 
-| {{< jtzr-time >}}22:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}JAM SESSION{{</cl1>}} | Open Music Improv Jam Session |
+| {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}JAM SESSION{{</cl1>}} | Open Music Improv Jam Session |
 
 **Afterparty @ Bar A Cerca**
 |:-:|:-:|:-|
@@ -83,6 +79,10 @@ Bacter will serve us with some nice and smooth Disco licks and synthwave bangers
 | {{< jtzr-time >}}18:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | AI Showcase|
 | {{< jtzr-time >}}19:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Size Coding Showcase|
 | {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt compo" >}}COMPETITION{{</cl1>}} | Combined Demo Competition|
+| {{< jtzr-time >}}22:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | {{< details summary="WAKE" >}}
+![image](/images/wake.jpeg)
+WAKE is a live audiovisual project from Berlin. Lena Kilkka [/lucid/](https://www.youtube.com/playlist?list=PLTkAm-uTA4HWl_eBBT1ecf3mEmfqZAMxX) and Thomas Mann [/pixtur/](https://www.youtube.com/user/ThePixtur) blend an original, live-coded, eclectic fusion of hypnotic, cinematic sounds with demoscene realtime visuals. All visuals are built and performed using our own custom-made 3D engine [TiXL](https://tixl.app/) / Tooll3.
+{{< /details >}}| 
 | {{< jtzr-time >}}23:00{{</jtzr-time>}} | {{< cl1 class="tt event" >}}EVENT{{</cl1>}} | Closing Ceremony and Prize Giving|
 
 **Afterparty @ Bar A Cerca** 
