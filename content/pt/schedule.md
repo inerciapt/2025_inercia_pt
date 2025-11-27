@@ -72,7 +72,7 @@ Through the evening for you to enjoy sweet (and sour) cocktails and beer.
 | | | |
 |:-:|:-:|:-|
 | {{< jtzr-time >}}10:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Pequeno Almoço com Panquecas |
-| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PRAZO{{</cl1>}} | Prazo limite para a entrega de produções de todas as competições e mostras, exceto a competição rápida |
+| {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt deadline" >}}PRAZO{{</cl1>}} | Prazo limite para a submissão de produções |
 | {{< jtzr-time >}}11:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}DEMOSHOW{{</cl1>}} | Retrospetiva de demos|
 | {{< jtzr-time >}}12:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Almoço Comunitário|
 | {{< jtzr-time >}}15:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria de Gráficos originais |
