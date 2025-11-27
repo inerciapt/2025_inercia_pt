@@ -79,3 +79,5 @@ Quando a janela de código do Bonzomatic abre verifica se tens ou não um bloco 
 ### Resolução de conflitos
 
 Já aconteceu no passado por vezes o serviço de DNS não estar a funcionar devidamente, em alternativa a ligares a `ws://drone.alkama.com:9000` podes tentar ligar directamente a `ws://37.187.21.171:9000` para testar se é esse o problema.
+
+Para mais ajuda contactar `psenough` no discord.
