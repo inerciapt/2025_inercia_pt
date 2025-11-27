@@ -51,11 +51,7 @@ does this even work?
 {{< /details >}}| 
 | {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Apresentações relâmpago|
 | {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (com DJ Tina Stormcaller) |
-| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | {{< details summary="WAKE" >}}
-![image](/images/wake.jpeg)
-WAKE é um projecto audiovisual ao vivo de Berlin. Lena Kilkka [/lucid/](https://www.youtube.com/playlist?list=PLTkAm-uTA4HWl_eBBT1ecf3mEmfqZAMxX) e Thomas Mann [/pixtur/](https://www.youtube.com/user/ThePixtur) misturam uma fusão de sons originais, hipnóticos e cinemáticos, programados ao vivo com visuais em tempo real da demoscene. Todos os visuais são criados e performados utilizando [TiXL](https://tixl.app/) uma ferramenta e motor 3D de código aberto que os próprios criaram e desenvolvem activamente.
-{{< /details >}}| 
-| {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}EVENTO{{</cl1>}} | Sessão de improvisação musical aberta|
+| {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}EVENTO{{</cl1>}} | Sessão de improvisação musical aberta|
 
 **Afterparty @ Bar A Cerca**
 |:-:|:-:|:-|
@@ -81,6 +77,10 @@ Through the evening for you to enjoy sweet (and sour) cocktails and beer.
 | {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria AI|
 | {{< jtzr-time >}}19:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Mostra da categoria Size Coding|
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt compo" >}}COMPETIÇÃO{{</cl1>}} | Competição de Demos |
+| {{< jtzr-time >}}22:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}PERFORMANCE{{</cl1>}} | {{< details summary="WAKE" >}}
+![image](/images/wake.jpeg)
+WAKE é um projecto audiovisual ao vivo de Berlin. Lena Kilkka [/lucid/](https://www.youtube.com/playlist?list=PLTkAm-uTA4HWl_eBBT1ecf3mEmfqZAMxX) e Thomas Mann [/pixtur/](https://www.youtube.com/user/ThePixtur) misturam uma fusão de sons originais, hipnóticos e cinemáticos, programados ao vivo com visuais em tempo real da demoscene. Todos os visuais são criados e performados utilizando [TiXL](https://tixl.app/) uma ferramenta e motor 3D de código aberto que os próprios criaram e desenvolvem activamente.
+{{< /details >}}| 
 | {{< jtzr-time >}}23:00{{< /jtzr-time >}} | {{< cl1 class="tt event" >}}EVENTO{{</cl1>}} | Evento de encerramento e entrega de prémios|
 
 **Afterparty @ Bar A Cerca** 
