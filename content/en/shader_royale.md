@@ -81,3 +81,5 @@ If you don't see a Red Block next to your name on the bottom right of Bonzomatic
 ### Troubleshooting
 
 Sometimes the DNS resolution isn't working properly, instead of `ws://drone.alkama.com:9000` you can use `ws://37.187.21.171:9000` to avoid this issue.
+
+For more help on joining please ping `psenough` on discord.
