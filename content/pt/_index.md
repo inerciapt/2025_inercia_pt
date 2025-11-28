@@ -75,6 +75,9 @@ sections:
     title: "Retro Corner"
     content: |
       Explora o Retro Corner, um canto repleto de computadores e consolas vintage onde podes aprender mais sobre as máquinas que tiveste (ou que nunca tiveste mas gostarias de ter tido). Aprende mais sobre os limites delas, vê demonstrações do que elas são capazes, aproveita para jogar alguns jogos e falar com pessoas que te conseguem ajudar a restaurar algumas das máquinas antigas que possas ter guardadas na arrecadação.
+    button:
+      text: "Retrocorner"
+      url: "./retrocorner/"        
     image:
       src: "/images/_DSC2571-1920.webp"
       alt: "Retro Corner"

@@ -74,6 +74,9 @@ sections:
     title: "Retro Corner"
     content: |
       Explore our retro corner filled with vintage computers where you can learn about the old machines you used to have (or never did), learn more about their limitations, watch some demos, play some games and chat with people that can help you get your old machine working again.
+    button:
+      text: "Retrocorner"
+      url: "./retrocorner/"      
     image:
       src: "/images/_DSC2571-1920.webp"
       alt: "Retro Corner"
