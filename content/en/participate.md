@@ -80,7 +80,7 @@ Some leeway on this rule to also allow collaborations but please don't abuse it.
 
 ## Graphics Showcase
 
-We will have a screening block dedicated to graphics productions made exclusively for Inércia 2024. We are looking for submissions of the following kind:
+We will have a screening block dedicated to graphics productions made exclusively for Inércia 2025. We are looking for submissions of the following kind:
 
  * Text art, be it ASCII, ANSI, PETSCII, ATASCII, TELETEXT, etc
  * Pixel art, limited palette and canvas resolution, using standards from retro machines or fantasy consoles
