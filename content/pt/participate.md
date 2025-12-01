@@ -32,7 +32,7 @@ Seguindo os desenvolvimentos da tecnologia recente dos modelos de inteligência 
 * Sistema Operativo : Windows 11 (com as mais recentes atualizações)
 * CPU : 12th Gen Intel(R) Core(TM) i7-12700F (2.10 GHz)
 * RAM : 2x 32GB DDR4-3200
-* GFX : RTX3060Ti 8GB GDDR6X
+* GFX : ~~RTX3060Ti 8GB GDDR6X~~ RTX 4080 16GB
 
 Se a tua produção correr noutra plataforma, por favor fornece-nos também uma gravação vídeo da mesma a executar. Se tal não for possível, fala connosco o mais rapidamente possível para tentarmos descobrir a melhor maneira de captarmos o video com qualidade aceitável.
 
