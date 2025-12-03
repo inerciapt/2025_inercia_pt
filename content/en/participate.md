@@ -69,7 +69,7 @@ We will have a screening block dedicated to any <a href="http://www.sizecoding.o
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings, and how to play it. If you're targetting an uncommon platform and/or wish to guarantee we play the demo as it's meant to be shown, please also include a video capture of your entry.
 
-Maximum two entries per participant allowed, choose wisely what you want to focus on!
+Maximum two entries per participant allowed on this category, choose wisely what you want to focus on!
 Some leeway on this rule to also allow collaborations but please don't abuse it.
 
 {{< threeimages
@@ -97,7 +97,7 @@ We will have a screening block dedicated to graphics productions made exclusivel
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a PNG version if it's a strange format we might otherwise display incorrectly, 3-4 steps of your work in progress and a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer and special settings.
 
-One entry per participant allowed, choose wisely what you want to focus on!
+One entry per participant on this category allowed, choose wisely what you want to focus on!
 Some leeway on this rule to also allow collaborations but please don't abuse it.
 
 {{< threeimages
@@ -122,7 +122,7 @@ We will play a maximum of 5 minutes of each track submitted. We are looking for 
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, an mp3 version of it if it's in a format we might potentially play incorrectly and a short text file explaining the techniques and references used. This text file should also explain the best way to play the entry if it needs a special player and special settings.
 
-One entry per participant allowed, choose wisely what you want to focus on!
+One entry per participant on this category allowed, choose wisely what you want to focus on!
 Some leeway on this rule to also allow collaborations but please don't abuse it.
 We accept music of all genres. Special karma points if they are drone ambient or jazz musician submissions.
 
@@ -149,7 +149,7 @@ We are looking for productions of the following types:
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: it should contain the entry itself, a short text file explaining the techniques and references used. This text file should also explain the best way to display the entry if it needs a special viewer or special settings.
 
-One entry per participant allowed, choose wisely what you want to show us!
+One entry per participant on this category allowed, choose wisely what you want to show us!
 
 {{< threeimages
     img1="/images/hiking.png" alt1="'Hiking Home for Christmas' by Critikill" caption1="'Hiking Home for Christmas' by Critikill"
@@ -178,7 +178,7 @@ We are looking for submissions of the following kind:
 
 📤 Please [submit a zip](https://inercia.partyman.cloud) with your entry: the binaries if it's an executable release, a video capture if it's not. Should also contain a short text file explaining what it is, the techniques and references used and how to play it.
 
-One entry per participant allowed, choose wisely what you want to show us!
+One entry per participant on this category allowed, choose wisely what you want to show us!
 
 {{< threeimages
     img1="/images/mosca.webp" alt1="'Noite da Mosca' por cc2023" caption1="'Noite da Mosca' por cc2023"
