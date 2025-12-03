@@ -36,6 +36,12 @@
 						</a>
 					</li>
 					{{ end }}
+					{{ if .Site.Params.acceptingsubmissions }}
+                    <li class="b-siteNav__item">
+						<a id="header_submit.html" class="b-siteNav__link -highlighted" href="https://inercia.partyman.cloud/">
+							<span class="b-siteNav__item-label">Partyman</span></a>
+					</li>
+					{{ end }}
 					
 				   {{/* Robust Hugo language switcher using merged translations */}}
 				   {{ $bookTranslatedOnly := default false .Site.Params.BookTranslatedOnly }}

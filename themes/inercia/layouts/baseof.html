@@ -74,10 +74,10 @@
 	<div id="container">
    {{ partial "header.html" . }}
    
-   {{ block "hero" . }}
-   <!-- this if enables a LIVE button on menu bar, configures in TOML file -->
+   {{ block "hero" . }}{{ end }}
+      <!-- this if enables a LIVE button on menu bar, configured in TOML file -->
 		{{ if .Site.Params.wearelive }}
-<div class="live-banner">
+      <div class="live-banner-container">
          <h2>We are Live!</h2>
          <p>Don’t miss a moment of the event! We’re streaming it live so you can tune in from anywhere. Choose one streaming service below to join the live stream and be part of the excitement in real time. <br>Stay connected and experience the event as it unfolds!</p>
 
@@ -85,15 +85,14 @@
             <a class="twitch" href="https://www.twitch.tv/inercia_pt" aria-label="Twitch" target="_blank" rel="nofollow">
                {{ partial "icons/twitch.html" . }}
             </a>
-            <a class="yt" href="https://www.youtube.com/watch?v=live_link_here" aria-label="YouTube" target="_blank" rel="nofollow">
+            <a class="yt" href="https://www.youtube.com/watch?v={{ .Site.Params.youlinktube }}" aria-label="YouTube" target="_blank" rel="nofollow">
                {{ partial "icons/youtube.html" . }}
             </a>
-            <a class="scenesat" href="https://scenesat.com/live_link_here">
+            <a class="scenesat" href="https://scenesat.com/{{ .Site.Params.scenelinksat }}">
                {{ partial "icons/scenesat.html" . }}
             </a>
-</div>  
+      </div>  
       {{ end }}
-   {{ end }}
    
    <main tabindex="-1" id="main-content">
       {{ block "main" . }}{{ end }}

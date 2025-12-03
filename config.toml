@@ -12,11 +12,15 @@ defaultContentLanguageInSubdir = true
   social_image = "/images/inercia2025_promo.png"
   twitter = "inercia_pt"
   favicon = "/images/ID_64px.png"
-#  logo = "/images/svg/iD_color_graded.svg"
-#  logo_small = "/images/svg/iD_color_graded.svg"
-  
   logo = "/images/svg/iD_grey_flat.svg"
   logo_small = "/images/svg/iD_grey_flat.svg"
+
+  # Place Youtube partial like here (stuff after ?v=)
+  youlinktube = "sdfgsd435s,dkfhjagklsdjfhaklsjdfhklajsdhfkl3rtfg"
+  scenelinksat = "dfkgjdsfhgkljs"
+
+  # Change to show Partyman button on navbar
+  acceptingsubmissions = true
 
   # Change this mofo to true Saturday morning
   wearelive = true
