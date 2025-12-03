@@ -97,7 +97,7 @@ Teremos uma mostra dedicada a qualquer tipo de produções de [size coding](http
 
 📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter o executável e um ficheiro de texto com descrição, plataforma, técnicas e referências usadas e instruções para correr. Se estiveres a desenvolver para uma plataforma menos comum ou queres garantir que mostramos a demo corretamente, por favor inclui também uma video captura da produção.
 
-Máximo de duas produções por participante, escolhe bem no que te focas.
+Máximo de duas produções por participante nesta categoria, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
 
 {{< threeimages
@@ -125,7 +125,7 @@ Esta mostra é dedicada a produções gráficas feitas exclusivamente para a In�
 
 📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter a produção em si, um PNG se for um formato extranho que possa ser mostrado incorretamente, 3 a 4 passos intermédios do processo e um ficheiro textual com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para ver a produção caso seja necessário um visualizador especial ou algumas definições específicas.
 
-Máximo de uma produção por participante, escolhe bem no que te focas.
+Máximo de uma produção por participante nesta categoria, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
 
 {{< threeimages
@@ -151,7 +151,7 @@ Estamos à procura de músicas dos seguintes tipos:
 
 📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: deverá conter a própria produção, uma versão em mp3 se for um formato invulgar que corra o risco de ser reproduzido incorretamente e um ficheiro de texto com uma pequena descrição das técnicas e referências usadas. Este ficheiro também deverá explicar qual a melhor forma para reproduzir a produção caso seja necessário software especial ou algumas definições específicas.
 
-Máximo de uma produção por participante, escolhe bem no que te focas.
+Máximo de uma produção por participante nesta categoria, escolhe bem no que te focas.
 Esta regra tem alguma flexibilidade para facilitar colaborações mas não é para abusar.
 Aceitamos músicas de qualquer género mas levas pontos de karma se forem ambient drone ou jazz.
 
@@ -177,7 +177,7 @@ Estamos à procura de produções dos seguintes tipos:
 
 📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
-Máximo de uma produção por participante, escolhe bem o que queres apresentar.
+Máximo de uma produção por participante nesta categoria, escolhe bem o que queres apresentar.
 
 {{< threeimages
     img1="/images/hiking.png" alt1="'Hiking Home for Christmas' by Critikill" caption1="'Hiking Home for Christmas' by Critikill"
@@ -206,7 +206,7 @@ Estamos à procura de produções dos seguintes tipos:
 
 📤 Carrega [um zip](https://inercia.partyman.cloud) com a tua produção: o executável caso seja uma produção executável ou, caso contrário, um vídeo. Deverá também incluir um ficheiro de texto que descreve o que é, referências e técnicas usadas e como apresentar a produção na mostra.
 
-Máximo de uma produção por participante, escolhe bem o que queres apresentar.
+Máximo de uma produção por participante nesta categoria, escolhe bem o que queres apresentar.
 
 {{< threeimages
     img1="/images/mosca.webp" alt1="'Noite da Mosca' por cc2023" caption1="'Noite da Mosca' por cc2023"
