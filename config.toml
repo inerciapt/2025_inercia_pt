@@ -3,6 +3,7 @@ languageCode = 'pt-PT'
 title = 'Inércia 2025'
 theme = 'inercia'
 
+
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = true
 
@@ -16,6 +17,9 @@ defaultContentLanguageInSubdir = true
   
   logo = "/images/svg/iD_grey_flat.svg"
   logo_small = "/images/svg/iD_grey_flat.svg"
+
+  # Change this mofo to true Saturday morning
+  wearelive = true
 
 [languages]
   [languages.pt]

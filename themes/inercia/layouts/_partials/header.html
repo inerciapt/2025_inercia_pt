@@ -5,7 +5,7 @@
 			{{ with .Site.Params.logo }}
 			<img width="20em" height="auto" alt="" src="{{ . }}" srcset="{{ $.Site.Params.logo_small }} 959w, {{ . }} 1920w" sizes="100vw">
 			{{ end }}
-<span class="b-siteNav__item-label" style="vertical-align: middle;">{{ .Site.Title }}</span>
+        <span class="b-siteNav__item-label" style="vertical-align: middle;">{{ .Site.Title }}</span>
 		</a>
 
 		<nav class="b-siteNav__nav" aria-label="Primary">
@@ -17,6 +17,18 @@
 				</button>
 				<ul class="b-siteNav__items">
 					{{ $currentPage := . }}
+					<!-- this if enables a LIVE button on menu bar, configures in TOML file -->
+					{{ if .Site.Params.wearelive }}
+					<li class="b-siteNav__item">
+						<a class="live-stream-container" href="https://www.twitch.tv/inercia_pt">
+  							<div id="live-stream">
+								<span class="shadow">LIVE!</span>
+								<span class="text">LIVE!</span>
+								<div class="background"></div>
+							</div>
+						</a>
+					</li>
+					{{ end }}
 					{{ range .Site.Menus.main }}
 					<li class="b-siteNav__item">
 						<a id="header_{{ .URL | path.Base }}" class="b-siteNav__link{{ if .Params.highlight }} highlight{{ end }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | absURL }}">
