@@ -22,6 +22,17 @@ The Macintosh LC III was a personal computer designed, manufactured and sold by 
 
 ![Macintosh LC III](https://upload.wikimedia.org/wikipedia/commons/d/d3/Macintosh_LC_III.jpg)
 
+---
+
+## **Sinclair ZX Spectrum 128K +2**
+
+The ZX Spectrum +2 has a grey case with a spring-loaded keyboard, dual joystick ports, and an integrated cassette recorder known as the "Datacorder" (akin to the Amstrad CPC 464). 
+The boot-up message reads "© 1986 Amstrad". It is largely identical to the ZX Spectrum 128 in most technical aspects.
+
+![Sinclair ZX Spectrum 128K +2](https://en.wikipedia.org/wiki/ZX_Spectrum#/media/File:ZX_Spectrum_Plus2_(retouched).jpg)
+
+---
+
 <!-- copy this text to create a new machine entry
 
 ## **[Machine Name]**
