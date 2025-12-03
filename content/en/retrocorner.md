@@ -8,6 +8,7 @@ summary: "A window into the past"
 A random collection of machines and consoles, full of CRT goodness
 
 ---
+
 ## **Commodore Amiga 500**
 
 The Amiga 500, also known as the A500, was the first popular version of the Amiga home computer. It contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128. Released in 1987, the Amiga 500 was the first computer for the home market capable of multitasking. As well, it featured rich color graphics at a time when most high-end computer systems like the Personal Computer and the original Macintosh either had limited color or were entirely monochrome.
