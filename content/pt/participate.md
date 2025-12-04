@@ -2,9 +2,6 @@
 title: "Participa!"
 summary: "Veterano? Novo na demoscene?! Vem mostrar a tua arte!"
 ---
-## ENVIA O TEU TRABALHO AQUI
-
-{{< lnk1 link="https://inercia.partyman.cloud" text="2025 Party System" target="_blank" >}}
 
 ## Mostras e Competições
 

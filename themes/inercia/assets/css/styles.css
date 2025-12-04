@@ -49,7 +49,7 @@
 	--unit-l: clamp(30px, calc(60/1440*100vw), 60px);
 	--unit-xl: clamp(40px, calc(80/1440*100vw), 80px);
 	--unit-xxl: clamp(60px, calc(120/1440*100vw), 80px);
-	--container-max-width: 1280px;
+	--container-max-width: 1111px;
 	--fs-s: clamp(.563rem, .556vw + .438rem, .938rem);
 	--fs-base: clamp(.85rem, .741vw + .583rem, 1.25rem);
 	--fs-m: clamp(1rem, .987vw + .778rem, 1.666rem);
