@@ -3,7 +3,6 @@ languageCode = 'pt-PT'
 title = 'Inércia 2025'
 theme = 'inercia'
 
-
 defaultContentLanguage = 'pt'
 defaultContentLanguageInSubdir = true
 
@@ -104,9 +103,3 @@ defaultContentLanguageInSubdir = true
 #      name = "Contact"
 #      url = "/en/contact/"
 #      weight = 80
-
-#[markup]
-#  [markup.goldmark]
-#    [markup.goldmark.renderer]
-#      unsafe = true
-
