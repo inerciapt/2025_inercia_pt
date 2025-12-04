@@ -24,3 +24,7 @@ function updateHeaderLinks() {
     }
   });
 }
+
+function dismissLivePopup() {
+    document.getElementById('live-banner-container').style.display = 'none';
+}
