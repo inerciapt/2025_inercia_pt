@@ -16,14 +16,14 @@ defaultContentLanguageInSubdir = true
   logo_small = "/images/svg/iD_grey_flat.svg"
 
   # Place Youtube partial like here (stuff after ?v=)
-  youlinktube = "sdfgsd435s,dkfhjagklsdjfhaklsjdfhklajsdhfkl3rtfg"
-  scenelinksat = "dfkgjdsfhgkljs"
+  youlinktube = "wEaReInErCiA"
+  scenelinksat = "video/5"
 
   # Change to show Partyman button on navbar
   acceptingsubmissions = true
 
   # Change this mofo to true Saturday morning
-  wearelive = true
+  wearelive = false
 
 [languages]
   [languages.pt]
