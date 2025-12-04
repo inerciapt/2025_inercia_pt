@@ -49,7 +49,7 @@
 	--unit-l: clamp(30px, calc(60/1440*100vw), 60px);
 	--unit-xl: clamp(40px, calc(80/1440*100vw), 80px);
 	--unit-xxl: clamp(60px, calc(120/1440*100vw), 80px);
-	--container-max-width: 1280px;
+	--container-max-width: 1111px;
 	--fs-s: clamp(.563rem, .556vw + .438rem, .938rem);
 	--fs-base: clamp(.85rem, .741vw + .583rem, 1.25rem);
 	--fs-m: clamp(1rem, .987vw + .778rem, 1.666rem);
@@ -1697,7 +1697,7 @@ thead .o-timetable__cell {
 	box-sizing: border-box;
 	padding: 7px 0;
 	z-index: 10;
-	width: 1000px;
+	width: var(--container-max-width);
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -1784,7 +1784,7 @@ thead .o-timetable__cell {
 
 #container {
 	position: relative;
-	width: 1000px;
+	width: var(--container-max-width);
 	margin: auto;
 	background: var(--site-background-color);
 }
@@ -3105,4 +3105,65 @@ pre code {
 
 code {
 	background-color: #00000080;
+}
+
+/* --- live banner stuff --- */
+#live-banner-container {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100dvh;
+}
+
+#live-banner-container .img-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: var(--site-nav-height);
+	max-height: 840px;
+	overflow: hidden;
+}
+
+#live-banner {
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 20px;
+	color: white;
+	padding: 30px;
+	background: var(--gradient-blue-purple);
+	border-radius: 15px;
+	box-shadow: 0px 7px 12px #080808;
+}
+
+#live-banner .links-container {
+	display: flex;
+	gap: 40px;
+	justify-content: space-around;
+}
+
+#live-banner .links-container a {
+	display: flex;
+	align-items: center;
+	transition: transform 0.1s ease;
+}
+
+#live-banner .links-container a:hover {
+	transform: scale(1.1);
+}
+
+#live-banner h2 {
+	margin: 0;
+}
+
+#live-banner p {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 20px;
+	border-radius: 15px;
+	max-width: 424px;
+	line-height: 1.4em;
+	letter-spacing: 0.8px;
+	font-size: var(--fs-base);
 }
