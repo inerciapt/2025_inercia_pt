@@ -22,7 +22,7 @@ defaultContentLanguageInSubdir = true
   acceptingsubmissions = true
 
   # Change this mofo to true Saturday morning
-  wearelive = false
+  wearelive = true
 
 [languages]
   [languages.pt]
