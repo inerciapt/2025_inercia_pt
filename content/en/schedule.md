@@ -51,7 +51,7 @@ does this even work?
 
 A powerful FREE software for generating visual effects and  motion graphics for installations, live performances, and VJing. 
 {{< /details >}}| 
-| {{< jtzr-time >}}16:00{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Lightning Talks |
+| {{< jtzr-time >}}16:30{{</jtzr-time>}} | {{< cl1 class="tt show" >}}SHOWCASE{{</cl1>}} | Lightning Talks |
 | {{< jtzr-time >}}18:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (with dj set by Tina Stormcaller) |
 | {{< jtzr-time >}}21:00{{</jtzr-time>}} | {{< cl1 class="tt performance" >}}JAM SESSION{{</cl1>}} | Open Music Improv Jam Session |
 
