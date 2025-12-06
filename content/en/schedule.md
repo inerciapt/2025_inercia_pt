@@ -13,7 +13,7 @@ summary: "6-7 December 2025"
 
 ---
 
-## This schedule isn't final.
+# This schedule isn't final.
 
 > {{< jtzr-ui >}}**(Times are presented in UTC+0)**{{< /jtzr-ui >}}
 
