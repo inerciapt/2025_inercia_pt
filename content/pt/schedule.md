@@ -49,7 +49,7 @@ does this even work?
 ![image](/images/tixl.png)
 [TiXL](https://tixl.app) é uma ferramenta gratuita de código aberto para gerar efeitos visuais e animações gráficas para instalações, performances ao vivo e VJing. 
 {{< /details >}}| 
-| {{< jtzr-time >}}16:00{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Apresentações relâmpago|
+| {{< jtzr-time >}}16:30{{< /jtzr-time >}} | {{< cl1 class="tt show" >}}MOSTRA{{</cl1>}} | Apresentações relâmpago|
 | {{< jtzr-time >}}18:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}SHADER ROYALE{{</cl1>}} | Shader Royale Jam (com DJ Tina Stormcaller) |
 | {{< jtzr-time >}}21:00{{< /jtzr-time >}} | {{< cl1 class="tt performance" >}}EVENTO{{</cl1>}} | Sessão de improvisação musical aberta|
 
