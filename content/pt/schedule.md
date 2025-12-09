@@ -13,7 +13,7 @@ summary: "6-7 de Dezembro 2025"
 
 ---
 
-# Este programa não é final. 
+<!-- ## Este programa não é final. -->
 
 > {{< jtzr-ui >}}**(Horas apresentadas em UTC+0)**{{< /jtzr-ui >}}
 
