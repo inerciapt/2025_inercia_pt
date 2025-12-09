@@ -24,6 +24,9 @@ defaultContentLanguageInSubdir = true
   # Change this mofo to true Saturday morning
   wearelive = false
 
+  # PostParty button thing
+  postparty = false
+
 [languages]
   [languages.pt]
     languageName = 'Português'

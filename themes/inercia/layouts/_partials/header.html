@@ -17,7 +17,17 @@
 				</button>
 				<ul class="b-siteNav__items">
 					{{ $currentPage := . }}
-					<!-- this if enables a LIVE button on menu bar, configures in TOML file -->
+
+					<!-- POSTPARTY variables in TOML file -->
+					{{ if .Site.Params.postparty }}
+					<li class="b-siteNav__item">
+						<a id="header_postparty" class="b-siteNav__link highlight" href="./postparty">
+							<span class="b-siteNav__item-label">PostParty</span>
+						</a>
+					</li>					
+					{{ end }}
+
+					<!-- LIVE variables in TOML file -->
 					{{ if .Site.Params.wearelive }}
 					<li class="b-siteNav__item">
 						<a class="live-stream-container" href="https://www.twitch.tv/inercia_pt">
@@ -29,6 +39,8 @@
 						</a>
 					</li>
 					{{ end }}
+
+					<!-- Normal Menu Buttons -->
 					{{ range .Site.Menus.main }}
 					<li class="b-siteNav__item">
 						<a id="header_{{ .URL | path.Base }}" class="b-siteNav__link{{ if .Params.highlight }} highlight{{ end }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | absURL }}">
@@ -36,6 +48,8 @@
 						</a>
 					</li>
 					{{ end }}
+
+					<!-- PARTYMAN variables in TOML file -->
 					{{ if .Site.Params.acceptingsubmissions }}
                     <li class="b-siteNav__item">
 						<a id="header_submit.html" class="b-siteNav__link -highlighted" href="https://inercia.partyman.cloud/">
