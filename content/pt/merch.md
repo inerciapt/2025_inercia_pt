@@ -11,8 +11,7 @@ summary: "Coisas para te lembrares de nós"
 
 ### 🏆 Troféus Inércia {#trophies}
 
-{{< singleimage img="/images/trophies-1920.webp" caption="Troféus" alt="Troféus" >}}
-*Fonte: Jaerder Sousa*
+{{< singleimage img="/images/trophies-1920.webp" caption="Jaerder Sousa" alt="Troféus" >}}
 
 Os troféus da Inércia Demoparty são exclusivos para os vencedores das competições da demoscene da Inércia. Dinheiro não os compra; vais precisar de convencer o público de que és digno de receber um! Design e produção por Jae686.
 
@@ -20,8 +19,7 @@ Os troféus da Inércia Demoparty são exclusivos para os vencedores das competi
 
 ### 🧣 Cachecóis Inércia {#scarfs}
 
-![Scarfs Inércia](images/scarfs-1280.jpg)
-*Fonte: Cristina Gaspar*
+{{< singleimage img="/images/scarfs-1280.jpg" caption="Cristina Gaspar" alt="Cachecóis" >}}
 
 E para proteger do frio, os vencedores da competição de Demos levarão para casa um cachecol feito à mão com a imagem do evento. Apenas alguns foram feitos, por isso o melhor é ter a certeza que a vossa demo é a melhor de todas!
 
