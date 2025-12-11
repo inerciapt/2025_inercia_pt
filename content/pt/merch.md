@@ -11,7 +11,7 @@ summary: "Coisas para te lembrares de nós"
 
 ### 🏆 Troféus Inércia {#trophies}
 
-![Troféus](../images/trophies-1920.webp)
+![Troféus](images/trophies-1920.webp)
 *Fonte: Jaerder Sousa*
 
 Os troféus da Inércia Demoparty são exclusivos para os vencedores das competições da demoscene da Inércia. Dinheiro não os compra; vais precisar de convencer o público de que és digno de receber um! Design e produção por Jae686.
@@ -20,7 +20,7 @@ Os troféus da Inércia Demoparty são exclusivos para os vencedores das competi
 
 ### 🧣 Cachecóis Inércia {#scarfs}
 
-![Scarfs Inércia](../images/scarfs-1280.jpg)
+![Scarfs Inércia](images/scarfs-1280.jpg)
 *Fonte: Cristina Gaspar*
 
 E para proteger do frio, os vencedores da competição de Demos levarão para casa um cachecol feito à mão com a imagem do evento. Apenas alguns foram feitos, por isso o melhor é ter a certeza que a vossa demo é a melhor de todas!
@@ -29,7 +29,7 @@ E para proteger do frio, os vencedores da competição de Demos levarão para ca
 
 ### 👕 T-Shirts do Evento {#tshirts}
 
-![T-shirts mockup](../images/tshirt_mockup-1280.webp)
+![T-shirts mockup](images/tshirt_mockup-1280.webp)
 *Mockup da t-shirt Inércia 2025. Design: harvest*
 
 Gostas do nosso logótipo? Vais adorar as nossas t-shirts! O design é do [harvest](https://demozoo.org/sceners/127889/) e são impressas em tecido de alta qualidade. Temos t-shirts em todos os tamanhos, disponíveis durante o evento na infodesk em troca de um donativo.
@@ -40,7 +40,7 @@ E boas notícias: se és membro da [Associação Inércia](https://inercia.pt) c
 
 ### 🩹 Autocolantes da Inércia {#stickers}
 
-![Autocolantes Inércia](../images/stickers.jpg)
+![Autocolantes Inércia](images/stickers.jpg)
 *Fonte: Jorge Silva*
 
 O ano passado fomos invadidos por vários autocolantes de diversos visitantes, por isso este ano fizemos os nossos próprios! Podes obtê-los na Infodesk mas, por favor, usa-os de modo responsável (não vandalizes o salão ou equipamentos públicos, apenas a impressora do Jeenio)!
@@ -49,7 +49,7 @@ O ano passado fomos invadidos por vários autocolantes de diversos visitantes, p
 
 ### ☕ Canecas Inércia {#mugs}
 
-![Caneca](../images/mug-1920.webp)
+![Caneca](images/mug-1920.webp)
 *Fonte: Tina Stormcaller*
 
 Como brinde gratuito para ajudar a reduzir o desperdício de plástico e papel, no ano passado oferecemos canecas personalizadas para café/água a todos os nossos visitantes. Embora não tenhamos feito novas este ano, ainda temos algumas do lote do ano passado. Se fores rápido podes obter uma em troca de um donativo antes que o stock acabe. Estarão disponíveis na Infodesk.
@@ -58,7 +58,7 @@ Como brinde gratuito para ajudar a reduzir o desperdício de plástico e papel, 
 
 ### 🧣 Mantas Inércia {#blankets}
 
-![Mantas Inércia](../images/blankets-1280.jpg)
+![Mantas Inércia](images/blankets-1280.jpg)
 *Fonte: Filipe Cruz*
 
 O ano passado, ficou bastante frio durante a noite, e este ano a previsão não é muito melhor. Não há muito que possamos fazer acerca do isolamento térmico do local, mas podemos fornecer umas mantas personalizadas da Inércia para te aqueceres. Estarão disponíveis na Infodesk.
@@ -66,7 +66,7 @@ O ano passado, ficou bastante frio durante a noite, e este ano a previsão não 
 ---
 
 ### 🖽 Azulejos Inércia {#tiles}
-![Tiles Inércia](../images/tiles-1280.jpg)
+![Tiles Inércia](images/tiles-1280.jpg)
 *Fonte: Cristina Gaspar*
 
 Com o design de [Manuel Correia](https://demozoo.org/sceners/42627/) e a produção da [Pombal Ceramics](https://joaquimpombal.blogspot.com/), o Azulejo Inércia é o artigo mais tradicionalmente português desta lista. Cada novo associado terá direito a um, e no caso de não poderem estar presentes, será enviado com o maior amor e carinho para vossa casa. De que estão à espera para se tornarem associados? [Registem-se agora](https://inercia.pt/?register&lang=pt)!
