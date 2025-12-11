@@ -11,7 +11,7 @@ summary: "Coisas para te lembrares de nós"
 
 ### 🏆 Troféus Inércia {#trophies}
 
-![Troféus](images/trophies-1920.webp)
+{{< singleimage img="/images/trophies-1920.webp" caption="Troféus" alt="Troféus" >}}
 *Fonte: Jaerder Sousa*
 
 Os troféus da Inércia Demoparty são exclusivos para os vencedores das competições da demoscene da Inércia. Dinheiro não os compra; vais precisar de convencer o público de que és digno de receber um! Design e produção por Jae686.
