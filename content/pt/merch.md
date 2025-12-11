@@ -69,4 +69,4 @@ O ano passado, ficou bastante frio durante a noite, e este ano a previsão não 
 ![Tiles Inércia](../images/tiles-1280.jpg)
 *Fonte: Cristina Gaspar*
 
-Com o design de [https://demozoo.org/sceners/42627/](Manuel Correia) e a produção da [https://joaquimpombal.blogspot.com/](Pombal Ceramics), o Azulejo Inércia é o artigo mais tradicionalmente português desta lista. Cada novo associado terá direito a um, e no caso de não poderem estar presentes, será enviado com o maior amor e carinho para vossa casa. De que estão à espera para se tornarem associados? [https://inercia.pt/?register&lang=pt](Registem-se agora)!
+Com o design de [Manuel Correia](https://demozoo.org/sceners/42627/) e a produção da [Pombal Ceramics](https://joaquimpombal.blogspot.com/), o Azulejo Inércia é o artigo mais tradicionalmente português desta lista. Cada novo associado terá direito a um, e no caso de não poderem estar presentes, será enviado com o maior amor e carinho para vossa casa. De que estão à espera para se tornarem associados? [Registem-se agora](https://inercia.pt/?register&lang=pt)!
