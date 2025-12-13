@@ -19,7 +19,7 @@ Os troféus da Inércia Demoparty são exclusivos para os vencedores das competi
 
 ### 🧣 Cachecóis Inércia {#scarfs}
 
-{{< singleimage img="/images/scarfs-960.jpg" caption="Cristina Gaspar" alt="Cachecóis" >}}
+{{< singleimage img="/images/scarves-960.jpg" caption="Cristina Gaspar" alt="Cachecóis" >}}
 
 E para proteger do frio, os vencedores da competição de Demos levarão para casa um cachecol feito à mão com a imagem do evento. Apenas alguns foram feitos, por isso o melhor é ter a certeza que a vossa demo é a melhor de todas!
 
