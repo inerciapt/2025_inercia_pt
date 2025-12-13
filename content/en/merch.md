@@ -2,7 +2,7 @@
 title: "Merch & Goodies"
 summary: "Things to remember us by"
 ---
-
+>
 ### 🏆 Inércia Trophies {#trophies}
 
 {{< singleimage img="/images/trophies-960.jpg" caption="Jaerder Sousa" alt="Trophies" >}}

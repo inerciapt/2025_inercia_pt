@@ -2,7 +2,7 @@
 title: "Merch e Brindes"
 summary: "Coisas para te lembrares de nós"
 ---
-
+>
 ### 🏆 Troféus Inércia {#trophies}
 
 {{< singleimage img="/images/trophies-960.jpg" caption="Jaerder Sousa" alt="Troféus" >}}
