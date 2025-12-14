@@ -11,7 +11,7 @@ Os troféus da Inércia Demoparty são exclusivos para os vencedores das competi
 
 ---
 
-### 🧣 Cachecóis Inércia {#scarfs}
+### 🧣 Cachecóis Inércia {#scarves}
 
 {{< singleimage img="/images/scarves-960.jpg" caption="Cristina Gaspar" alt="Cachecóis" >}}
 
