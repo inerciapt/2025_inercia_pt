@@ -5,7 +5,7 @@ summary: "Post-party links and resources for Inércia 2024"
 
 ## Obrigado!
 
-![Obrigado](/images/inercia_2025_postParty.jpg#center "Obrigado")
+{{< singleimage img="/images/inercia_2025_postParty.jpg" caption="" alt="Obrigado" >}}
 
 Obrigado por teres assistido ou participado remotamente!  
 Esperamos que tenhas gostado do evento e não te esqueças de participar na edição do próximo ano da Inércia!
