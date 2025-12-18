@@ -1,6 +1,6 @@
 ---
-title: "Post Party"
-summary: "Post-party links and resources for Inércia 2024"
+title: "Pós Evento"
+summary: "Links e recursos pós evento Inércia 2024"
 ---
 
 ## Obrigado!
