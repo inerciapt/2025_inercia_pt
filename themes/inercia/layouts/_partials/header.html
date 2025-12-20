@@ -43,7 +43,7 @@
 					<!-- Normal Menu Buttons -->
 					{{ range .Site.Menus.main }}
 					<li class="b-siteNav__item">
-						<a id="header_{{ .URL | path.Base }}" class="b-siteNav__link{{ if .Params.highlight }} highlight{{ end }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | absURL }}">
+						<a id="header_{{ .URL | path.Base }}" class="b-siteNav__link{{ if eq .Weight 10 }} highlight{{ end }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}" href="{{ .URL | absURL }}">
 							<span class="b-siteNav__item-label">{{ .Name }}</span>
 						</a>
 					</li>

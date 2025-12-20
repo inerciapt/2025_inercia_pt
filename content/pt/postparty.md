@@ -1,47 +1,42 @@
 ---
 title: "Pós Evento"
-summary: "Links e recursos pós evento Inércia 2024"
+summary: "Obrigado por visitares!"
 ---
-
-## Obrigado!
 
 ![Obrigado](/images/inercia_2025_postParty.jpg#center "Obrigado")
 
-Obrigado por teres assistido ou participado remotamente!  
-Esperamos que tenhas gostado do evento e não te esqueças de participar na edição do próximo ano da Inércia!
 
-Entretanto, aqui estão alguns links pós-festa para explorares!
+## Fotos
 
----
+- [Build up](https://drive.google.com/drive/folders/1CAmOv5miEzCDP9GlB55wscVicD_-uxzt)
+- [Event](https://drive.google.com/drive/folders/149GMpjz6yk0I5Qi725VELBbzbR9z4TUo)
+- [TiXL Workshop](https://drive.google.com/drive/folders/1R4ituy6nOCiIR9poK2N0eUkkxIBD7CWB)
+- [Lightning Talks](https://drive.google.com/drive/folders/18JGd9KYldgHQlfT4Vb9_shfdT2h6Zd6l)
+- [Shader Royale](https://drive.google.com/drive/folders/11lHvySH7AtmL_qqQ0pPNbvqftf7juO-k)
+- [Music Jam](https://drive.google.com/drive/folders/1XIRI-rxTYyGf6atKGwSWEBs3hDmdU7tv)
+- [Afterparty](https://drive.google.com/drive/folders/1Im0nMLuMn32mVTxzc-_YEOVmo1QXq67m)
+- [Retro Corner](https://drive.google.com/drive/folders/1D1dYOEzYuGN_D2M63tQr9IER7S59ubhj)
+- [Pancakes](https://drive.google.com/drive/folders/1fcSf0dZqU1iHefJKoRCb1EW1zf9Tv0ww)
+- [WAKE Concert](https://drive.google.com/drive/folders/1LQ_fwRgM1xbd9WtZ6Rjb2f2XWNpIcbxU)
 
-## Galeria
 
-- [Build up](https://drive.google.com/drive/u/1/folders/1gpA2aTvKCe-7ddF0JKn333eB2n76ZYPm)
-- [Opening Ceremony](https://drive.google.com/drive/u/1/folders/1ykTt3vAOa5VdGNPqaqei3HHHppxYNNaK)
-- [Talk teadrinker](https://drive.google.com/drive/u/1/folders/1ozuRy4impU75y27itPV2p7bIVIWgi_5h)
-- [Shader Royale](https://drive.google.com/drive/u/1/folders/13l3uDdJ4k5ganqYszg4vHS_s6Ww8k4ft)
-- [Concert Enfys](https://drive.google.com/drive/u/1/folders/1dYbKDdLIvCJ_5SLtzSQpg_Y-VPKsvQu8)
-- [Afterparty](https://drive.google.com/drive/u/1/folders/1nIwRnfPOWJUPKyX4KmDbZeMZHASxcj36)
-- [Event Generic](https://drive.google.com/drive/u/1/folders/1P8l-O5OTLTsO-80o-Dlewsv-Z1DmAdH5)
-- [Retro Corner](https://drive.google.com/drive/u/1/folders/1O8riQL5chayhP6o0Z34osVVAibU4BEbF)
-- [ZX Spectrum and Robot](https://drive.google.com/drive/u/1/folders/1iD2wtRZzX4DnTHjWvX2VI04HMW7mBYsU)
-- [Talk Luis Correia](https://drive.google.com/drive/u/1/folders/1M4mKfQCfB-PmyaofX2lk_iSpbQaGEGYS)
-- [Roundtable](https://drive.google.com/drive/u/1/folders/1TC0XXKaJSXUngkAFT_cSaFkXX1KFSRuZ)
-- [Lazy Pancake Sunday](https://drive.google.com/drive/u/1/folders/1_FhOlmbItK-j1_p6KeIYizIzgxYIkwPh)
-- [Closing Ceremony](https://drive.google.com/drive/u/1/folders/1_Jd3tzabNizzhiCTPXzY583wLhACpgtc)
-- [Community Lunch](https://drive.google.com/drive/u/1/folders/1--3MxiZAxTPZSLGf2Ixpm0v_SEpbcXXd)
+## Produções
 
----
+- [Demozoo](https://demozoo.org/parties/5345/)
+- [scene.org](https://files.scene.org/browse/parties/2025/inercia25/)
+- [pouet](https://www.pouet.net/party.php?which=275&when=2025)
 
-## Resultados & Produções
 
-- [Demozoo](https://demozoo.org/parties/4899/)
-- [scene.org](https://files.scene.org/browse/parties/2024/inercia24/)
-- [pouet](https://www.pouet.net/party.php?which=275&when=2024)
+## Relatórios
 
----
+- [Writeups for Inércia 2025](https://marqueedesign.demoscene.com/blog/blog_inercia2025.html)
+- [Jae686 @ scene.pt](https://scene.pt/inercia-2025/party-report/2025/12/14/inercia-2025-party-report/)
+- [WAKE @ instagram](https://www.instagram.com/p/DSC7SZ6jCf6/?img_index=1)
+
 
 ## Revê o Livestream
 
-- [YouTube](https://www.youtube.com/playlist?list=PLy0efM5UGUUHSzwVluNPoLMIuVxHLrWfX)
-- [SceneSat](https://scenesat.com/videoarchive)
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLy0efM5UGUUH4SNe6PmL4tmaRg8GpsqTu)
+- [SceneSat Day 1](https://scenesat.com/videoarchive/N1WqiH?bs5#show-N1WqiH)
+- [SceneSat Day 2](https://scenesat.com/videoarchive/X0QeG1?bs5#show-X0QeG1)
+
